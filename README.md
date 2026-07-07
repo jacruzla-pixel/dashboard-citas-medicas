@@ -1,2 +1,2 @@
 # Panel de Monitoreo de Salud Mental Estudiantil
-Dashboard interactivo desarrollado en Streamlit para el análisis descriptivo y predictivo del bienestar emocional y los factores de riesgo psicosocial de estudiantes universitarios.
+Dashboard interactivo desarrollado en Streamlit para el análisis descriptivo y predictivo de la salud mental de estudiantes, utilizando indicadores de riesgo psicosocial, estado del seguimiento psicológico y evaluaciones mensuales.
