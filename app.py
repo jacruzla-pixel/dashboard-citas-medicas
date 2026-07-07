@@ -1,36 +1,60 @@
-import streamlit as st
+# 1. INSTALAR LIBRERÍAS (solo la primera vez)
+# !pip install faker
+
+# 2. IMPORTAR LIBRERÍAS
 import pandas as pd
-import plotly.express as px
+import numpy as np
+from faker import Faker
 
-# Cargar el dataset
-df = pd.read_csv('salud_mental.csv')
+# 3. CONFIGURAR FAKER EN ESPAÑOL
+fake = Faker('es_ES')
 
-st.title('Dashboard de Monitoreo de Salud Mental')
+# 4. GENERAR LOS 5000 REGISTROS
+n = 5000
 
-st.subheader('Estudiantes por Nivel de Riesgo')
-fig1 = px.bar(
-    df['categoria_riesgo'].value_counts(),
-    labels={'value': 'Cantidad', 'index': 'Nivel de Riesgo'}
+categorias_riesgo = ['Bajo', 'Moderado', 'Alto', 'Crítico']
+estados = ['Atendido', 'En seguimiento', 'Pendiente', 'Finalizado']
+
+datos = []
+
+for i in range(n):
+
+    riesgo = np.random.choice(
+        categorias_riesgo,
+        p=[0.35, 0.35, 0.20, 0.10]
+    )
+
+    # Puntaje de estrés según el riesgo
+    if riesgo == 'Bajo':
+        puntaje = np.random.randint(10, 36)
+    elif riesgo == 'Moderado':
+        puntaje = np.random.randint(36, 66)
+    elif riesgo == 'Alto':
+        puntaje = np.random.randint(66, 86)
+    else:
+        puntaje = np.random.randint(86, 101)
+
+    datos.append([
+        i + 1,
+        fake.date_between('-1y', 'today'),
+        riesgo,
+        np.random.choice(estados),
+        puntaje
+    ])
+
+# 5. CREAR EL DATAFRAME Y EXPORTAR A CSV
+df = pd.DataFrame(
+    datos,
+    columns=[
+        'id',
+        'fecha',
+        'categoria_riesgo',
+        'estado_seguimiento',
+        'puntaje_estres'
+    ]
 )
-st.plotly_chart(fig1)
 
-st.subheader('Estado del Seguimiento Psicológico')
-fig2 = px.pie(
-    df,
-    names='estado_seguimiento'
-)
-st.plotly_chart(fig2)
+df.to_csv('salud_mental.csv', index=False)
 
-df['fecha'] = pd.to_datetime(df['fecha'])
-df['mes'] = df['fecha'].dt.month
-evaluaciones_mes = df.groupby('mes').size().reset_index(name='cantidad')
-
-st.subheader('Evaluaciones por Mes')
-fig3 = px.line(
-    evaluaciones_mes,
-    x='mes',
-    y='cantidad',
-    markers=True
-)
-st.plotly_chart(fig3)
-df = pd.read_csv('salud_mental.csv')
+# 6. MOSTRAR LAS PRIMERAS FILAS PARA VERIFICAR
+df.head()
