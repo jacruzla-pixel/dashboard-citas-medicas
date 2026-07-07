@@ -1,2 +1,2 @@
-# Panel de Gestión de Citas Médicas
-Dashboard interactivo desarrollado en Streamlit para el análisis descriptivo y predictivo de citas en el Hospital de Lima Norte.
+# Panel de Monitoreo de Salud Mental Estudiantil
+Dashboard interactivo desarrollado en Streamlit para el análisis descriptivo y predictivo del bienestar emocional y los factores de riesgo psicosocial de estudiantes universitarios.
