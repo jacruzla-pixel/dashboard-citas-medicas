@@ -1,0 +1,5001 @@
+id,fecha,categoria_riesgo,estado_seguimiento,puntaje_estres
+1,2026-05-24,Bajo,Atendido,17
+2,2025-10-23,Bajo,Finalizado,31
+3,2026-04-06,Bajo,Pendiente,11
+4,2025-07-16,Bajo,En seguimiento,26
+5,2026-05-05,Bajo,En seguimiento,32
+6,2026-05-29,Alto,Pendiente,73
+7,2026-02-15,Moderado,Finalizado,60
+8,2025-09-20,Moderado,Atendido,44
+9,2025-09-18,Bajo,Atendido,13
+10,2025-08-17,Moderado,Atendido,63
+11,2025-12-24,Moderado,Finalizado,59
+12,2026-02-21,Moderado,Pendiente,38
+13,2026-04-09,Bajo,Atendido,28
+14,2025-10-07,Alto,Finalizado,73
+15,2025-11-26,Crítico,En seguimiento,99
+16,2025-08-21,Moderado,Pendiente,56
+17,2026-01-03,Bajo,Atendido,16
+18,2026-06-09,Bajo,Finalizado,29
+19,2026-05-22,Bajo,En seguimiento,15
+20,2026-02-22,Moderado,En seguimiento,57
+21,2025-12-14,Alto,Finalizado,73
+22,2025-07-17,Alto,Pendiente,74
+23,2025-08-03,Bajo,Atendido,16
+24,2026-06-01,Moderado,Pendiente,40
+25,2025-11-13,Bajo,Atendido,33
+26,2026-04-26,Moderado,Pendiente,47
+27,2025-10-21,Crítico,En seguimiento,94
+28,2026-03-10,Bajo,Finalizado,13
+29,2025-09-17,Moderado,Pendiente,55
+30,2025-08-02,Moderado,Pendiente,52
+31,2025-11-06,Crítico,Finalizado,96
+32,2025-08-28,Moderado,Atendido,60
+33,2026-05-25,Bajo,Atendido,23
+34,2025-09-19,Moderado,Atendido,52
+35,2025-09-30,Moderado,Finalizado,63
+36,2026-05-17,Bajo,En seguimiento,14
+37,2026-01-08,Alto,Finalizado,85
+38,2025-12-13,Moderado,Finalizado,65
+39,2026-01-02,Alto,Atendido,73
+40,2025-07-30,Bajo,Finalizado,12
+41,2026-03-06,Alto,En seguimiento,70
+42,2026-06-03,Moderado,En seguimiento,44
+43,2026-03-28,Alto,Pendiente,72
+44,2026-04-03,Alto,En seguimiento,75
+45,2026-01-21,Crítico,Atendido,93
+46,2026-03-22,Moderado,En seguimiento,43
+47,2025-08-02,Bajo,En seguimiento,28
+48,2025-10-21,Bajo,Finalizado,17
+49,2025-08-04,Crítico,Atendido,87
+50,2026-03-21,Bajo,Pendiente,16
+51,2026-04-03,Bajo,Pendiente,17
+52,2026-02-28,Alto,En seguimiento,69
+53,2025-08-19,Moderado,Atendido,49
+54,2026-01-27,Moderado,Finalizado,57
+55,2026-05-31,Crítico,Finalizado,86
+56,2026-01-23,Alto,Finalizado,73
+57,2025-10-07,Bajo,Pendiente,14
+58,2026-02-02,Bajo,Pendiente,17
+59,2025-08-08,Moderado,Finalizado,37
+60,2026-05-30,Crítico,Finalizado,87
+61,2025-10-30,Bajo,Pendiente,25
+62,2025-10-18,Alto,Finalizado,71
+63,2026-01-11,Bajo,Pendiente,18
+64,2026-02-18,Bajo,Pendiente,14
+65,2025-10-06,Bajo,Finalizado,28
+66,2026-04-04,Bajo,Atendido,11
+67,2025-07-26,Moderado,En seguimiento,37
+68,2026-03-18,Bajo,En seguimiento,12
+69,2026-05-01,Bajo,En seguimiento,22
+70,2025-08-31,Crítico,En seguimiento,95
+71,2026-05-01,Bajo,Finalizado,23
+72,2026-06-02,Moderado,Atendido,65
+73,2025-11-11,Bajo,Atendido,17
+74,2025-11-13,Moderado,Atendido,50
+75,2025-12-09,Crítico,Finalizado,86
+76,2026-02-20,Moderado,Finalizado,38
+77,2026-04-02,Bajo,Atendido,14
+78,2025-12-26,Alto,En seguimiento,77
+79,2025-11-23,Bajo,Atendido,29
+80,2026-05-31,Moderado,Atendido,65
+81,2026-06-05,Bajo,En seguimiento,18
+82,2025-08-29,Alto,En seguimiento,74
+83,2025-11-22,Moderado,Atendido,42
+84,2026-06-17,Moderado,Atendido,52
+85,2026-03-08,Bajo,Finalizado,12
+86,2026-05-21,Moderado,Atendido,37
+87,2025-07-02,Bajo,En seguimiento,30
+88,2025-11-12,Bajo,Pendiente,27
+89,2026-06-27,Moderado,Finalizado,39
+90,2025-08-08,Crítico,En seguimiento,94
+91,2025-07-19,Alto,En seguimiento,79
+92,2025-09-04,Bajo,Atendido,35
+93,2025-07-21,Alto,En seguimiento,73
+94,2026-06-07,Bajo,Pendiente,29
+95,2025-09-18,Crítico,En seguimiento,99
+96,2025-09-22,Crítico,En seguimiento,100
+97,2026-01-28,Bajo,Atendido,35
+98,2026-01-27,Alto,En seguimiento,74
+99,2025-09-20,Alto,Finalizado,78
+100,2025-07-20,Alto,En seguimiento,72
+101,2026-02-21,Bajo,En seguimiento,17
+102,2025-07-13,Moderado,Pendiente,46
+103,2025-11-20,Alto,Atendido,77
+104,2026-05-25,Moderado,Atendido,36
+105,2025-08-29,Alto,Atendido,71
+106,2026-04-24,Crítico,Atendido,86
+107,2025-08-25,Moderado,Atendido,59
+108,2025-12-08,Moderado,Finalizado,48
+109,2026-04-22,Bajo,Finalizado,32
+110,2026-02-09,Bajo,En seguimiento,21
+111,2026-02-06,Bajo,Atendido,29
+112,2025-12-08,Moderado,Finalizado,59
+113,2025-12-01,Moderado,Pendiente,46
+114,2026-01-23,Moderado,En seguimiento,42
+115,2026-02-01,Moderado,Pendiente,57
+116,2025-09-28,Moderado,Atendido,48
+117,2026-04-07,Alto,Atendido,75
+118,2025-10-16,Moderado,Atendido,50
+119,2026-02-12,Moderado,En seguimiento,52
+120,2026-02-28,Alto,En seguimiento,68
+121,2025-11-23,Moderado,Atendido,38
+122,2025-10-29,Moderado,En seguimiento,61
+123,2025-10-10,Bajo,Finalizado,17
+124,2026-03-01,Moderado,Finalizado,50
+125,2026-01-29,Alto,En seguimiento,78
+126,2026-03-11,Moderado,En seguimiento,56
+127,2026-06-18,Bajo,Finalizado,34
+128,2026-02-03,Bajo,Pendiente,11
+129,2026-04-12,Bajo,Finalizado,24
+130,2025-09-07,Alto,Atendido,80
+131,2026-05-10,Alto,Pendiente,83
+132,2026-02-14,Alto,Pendiente,80
+133,2025-11-10,Alto,Atendido,82
+134,2026-03-06,Moderado,Atendido,50
+135,2025-08-09,Alto,En seguimiento,74
+136,2025-12-19,Bajo,Finalizado,14
+137,2025-09-16,Bajo,En seguimiento,32
+138,2025-10-18,Bajo,Pendiente,20
+139,2026-04-04,Moderado,Finalizado,42
+140,2026-02-01,Moderado,Finalizado,63
+141,2026-04-21,Moderado,Finalizado,47
+142,2025-11-30,Alto,Pendiente,83
+143,2026-04-06,Alto,En seguimiento,81
+144,2025-10-21,Bajo,Pendiente,10
+145,2026-01-16,Bajo,Pendiente,33
+146,2025-09-23,Alto,En seguimiento,85
+147,2026-03-31,Bajo,Pendiente,28
+148,2026-04-15,Moderado,Finalizado,56
+149,2026-02-05,Bajo,Pendiente,15
+150,2025-07-26,Bajo,Atendido,16
+151,2026-02-18,Bajo,Pendiente,18
+152,2026-02-01,Bajo,Finalizado,25
+153,2025-07-10,Alto,Finalizado,77
+154,2025-10-23,Moderado,Finalizado,60
+155,2025-07-16,Crítico,En seguimiento,99
+156,2025-07-11,Moderado,En seguimiento,40
+157,2026-02-28,Moderado,En seguimiento,50
+158,2026-06-24,Bajo,Atendido,15
+159,2026-05-07,Moderado,Finalizado,60
+160,2025-09-22,Crítico,Finalizado,95
+161,2025-07-14,Crítico,Pendiente,92
+162,2025-10-10,Bajo,En seguimiento,13
+163,2026-06-22,Alto,Finalizado,84
+164,2025-07-22,Bajo,Pendiente,31
+165,2026-01-06,Bajo,Atendido,10
+166,2026-02-01,Alto,Finalizado,79
+167,2026-01-02,Moderado,Pendiente,58
+168,2025-09-17,Moderado,Atendido,55
+169,2026-04-02,Alto,Pendiente,79
+170,2026-04-30,Bajo,En seguimiento,12
+171,2025-11-20,Alto,En seguimiento,80
+172,2026-04-18,Moderado,Pendiente,46
+173,2025-07-15,Moderado,Atendido,41
+174,2026-03-07,Bajo,Atendido,20
+175,2025-11-21,Alto,Atendido,83
+176,2025-07-06,Moderado,En seguimiento,38
+177,2025-11-01,Alto,Pendiente,83
+178,2025-11-01,Moderado,Pendiente,50
+179,2025-07-09,Bajo,En seguimiento,22
+180,2026-06-20,Bajo,Atendido,25
+181,2026-04-10,Moderado,Pendiente,59
+182,2026-04-08,Bajo,Pendiente,18
+183,2025-12-04,Bajo,Finalizado,33
+184,2025-10-07,Bajo,En seguimiento,16
+185,2025-10-19,Alto,Atendido,84
+186,2026-03-26,Moderado,Finalizado,62
+187,2025-10-08,Bajo,Atendido,15
+188,2025-12-02,Bajo,En seguimiento,18
+189,2025-07-24,Crítico,Atendido,97
+190,2025-09-03,Moderado,Pendiente,39
+191,2025-07-07,Moderado,Pendiente,51
+192,2026-02-11,Bajo,Finalizado,18
+193,2026-03-02,Bajo,Finalizado,22
+194,2026-03-09,Bajo,Finalizado,14
+195,2025-09-15,Alto,Atendido,68
+196,2025-11-05,Bajo,Pendiente,29
+197,2026-05-02,Alto,En seguimiento,82
+198,2026-01-11,Moderado,Pendiente,45
+199,2026-04-28,Crítico,Atendido,95
+200,2026-05-14,Bajo,Finalizado,34
+201,2025-10-15,Moderado,Atendido,57
+202,2025-08-11,Bajo,En seguimiento,27
+203,2025-08-08,Bajo,Pendiente,24
+204,2026-06-18,Moderado,Atendido,37
+205,2025-10-27,Bajo,Atendido,32
+206,2026-02-18,Bajo,En seguimiento,18
+207,2026-05-17,Moderado,En seguimiento,49
+208,2025-08-28,Moderado,En seguimiento,65
+209,2025-11-14,Alto,Finalizado,67
+210,2025-09-23,Alto,Atendido,80
+211,2025-09-02,Moderado,Atendido,58
+212,2026-01-23,Crítico,Pendiente,93
+213,2025-08-11,Moderado,Pendiente,59
+214,2025-12-13,Moderado,Finalizado,38
+215,2025-10-26,Crítico,Finalizado,98
+216,2026-06-10,Alto,Finalizado,71
+217,2026-02-26,Moderado,Pendiente,65
+218,2025-11-20,Bajo,Pendiente,30
+219,2026-03-09,Crítico,Pendiente,91
+220,2026-01-26,Bajo,Finalizado,15
+221,2025-12-16,Moderado,Pendiente,45
+222,2026-06-05,Crítico,Finalizado,93
+223,2025-08-15,Bajo,Atendido,13
+224,2026-01-23,Alto,Finalizado,83
+225,2026-02-22,Moderado,En seguimiento,52
+226,2026-01-02,Moderado,Pendiente,56
+227,2026-02-12,Alto,En seguimiento,74
+228,2026-04-08,Bajo,Atendido,24
+229,2026-06-23,Moderado,Finalizado,56
+230,2026-05-08,Alto,En seguimiento,75
+231,2026-04-09,Bajo,Pendiente,12
+232,2025-10-24,Crítico,Finalizado,93
+233,2025-08-30,Moderado,En seguimiento,51
+234,2025-11-27,Moderado,Atendido,49
+235,2026-03-05,Crítico,En seguimiento,93
+236,2026-04-09,Bajo,En seguimiento,29
+237,2026-03-18,Alto,En seguimiento,68
+238,2025-11-19,Alto,Pendiente,76
+239,2026-03-17,Bajo,Finalizado,19
+240,2025-11-30,Alto,Pendiente,70
+241,2026-02-14,Moderado,Atendido,46
+242,2026-04-09,Alto,Pendiente,80
+243,2025-12-12,Alto,En seguimiento,84
+244,2026-01-13,Bajo,Pendiente,11
+245,2025-12-10,Alto,Pendiente,78
+246,2026-06-05,Alto,En seguimiento,81
+247,2025-07-19,Bajo,Atendido,13
+248,2026-02-11,Bajo,Pendiente,10
+249,2025-09-12,Moderado,En seguimiento,38
+250,2026-02-26,Alto,Atendido,76
+251,2026-05-16,Moderado,Finalizado,63
+252,2025-12-16,Alto,Pendiente,76
+253,2026-05-17,Alto,Pendiente,83
+254,2025-07-19,Moderado,En seguimiento,56
+255,2026-06-16,Crítico,En seguimiento,97
+256,2025-08-16,Moderado,Finalizado,60
+257,2026-05-21,Alto,Finalizado,80
+258,2025-09-24,Moderado,Finalizado,37
+259,2025-12-14,Alto,Atendido,77
+260,2026-01-08,Moderado,En seguimiento,52
+261,2026-01-27,Moderado,En seguimiento,41
+262,2025-09-28,Bajo,Pendiente,29
+263,2026-06-15,Bajo,En seguimiento,17
+264,2026-02-22,Moderado,Pendiente,44
+265,2026-06-07,Bajo,Pendiente,19
+266,2026-06-12,Moderado,Finalizado,50
+267,2025-12-24,Crítico,Atendido,96
+268,2026-02-03,Moderado,Pendiente,63
+269,2025-12-02,Bajo,Pendiente,25
+270,2025-08-24,Bajo,Atendido,28
+271,2025-11-29,Crítico,Atendido,86
+272,2026-06-03,Moderado,Finalizado,54
+273,2026-06-17,Alto,Finalizado,85
+274,2026-03-12,Alto,Atendido,73
+275,2026-05-07,Alto,En seguimiento,72
+276,2026-05-14,Bajo,En seguimiento,30
+277,2025-08-19,Crítico,Finalizado,90
+278,2026-02-11,Bajo,Atendido,33
+279,2025-09-06,Bajo,Atendido,20
+280,2026-01-29,Bajo,En seguimiento,35
+281,2026-04-03,Alto,Atendido,82
+282,2026-03-14,Crítico,En seguimiento,90
+283,2026-03-04,Crítico,Atendido,97
+284,2025-12-21,Alto,Pendiente,68
+285,2025-09-11,Alto,En seguimiento,78
+286,2026-04-12,Moderado,Pendiente,36
+287,2025-11-13,Moderado,Pendiente,47
+288,2026-06-10,Alto,Atendido,84
+289,2026-01-12,Alto,Atendido,69
+290,2026-06-11,Bajo,Finalizado,29
+291,2026-04-14,Bajo,En seguimiento,30
+292,2025-08-02,Moderado,Pendiente,65
+293,2026-06-24,Bajo,Pendiente,13
+294,2025-09-10,Bajo,Finalizado,19
+295,2026-03-10,Bajo,En seguimiento,27
+296,2025-09-08,Moderado,Atendido,57
+297,2026-06-22,Crítico,Pendiente,95
+298,2025-09-18,Alto,Finalizado,81
+299,2026-05-12,Moderado,Atendido,37
+300,2026-06-19,Moderado,Pendiente,50
+301,2025-10-29,Alto,Finalizado,77
+302,2026-04-05,Crítico,Atendido,86
+303,2026-01-20,Bajo,Finalizado,24
+304,2025-08-16,Moderado,Finalizado,37
+305,2025-12-18,Bajo,En seguimiento,35
+306,2026-04-16,Bajo,En seguimiento,28
+307,2025-10-19,Alto,En seguimiento,76
+308,2025-09-14,Alto,Finalizado,74
+309,2025-09-13,Crítico,Atendido,98
+310,2025-09-28,Bajo,Finalizado,14
+311,2025-07-08,Moderado,En seguimiento,54
+312,2025-12-13,Bajo,Atendido,11
+313,2025-09-03,Alto,Finalizado,68
+314,2026-03-01,Moderado,Atendido,52
+315,2026-04-30,Bajo,En seguimiento,29
+316,2025-07-23,Alto,Atendido,80
+317,2026-05-26,Crítico,Finalizado,93
+318,2026-01-22,Moderado,Finalizado,51
+319,2026-06-30,Crítico,Finalizado,100
+320,2025-08-11,Bajo,En seguimiento,12
+321,2025-09-03,Bajo,Atendido,22
+322,2026-05-02,Moderado,Pendiente,52
+323,2026-05-06,Moderado,Finalizado,63
+324,2026-06-01,Moderado,En seguimiento,49
+325,2026-02-17,Alto,Pendiente,76
+326,2026-02-18,Moderado,Finalizado,46
+327,2026-02-04,Bajo,Atendido,21
+328,2025-09-17,Moderado,Pendiente,38
+329,2025-08-16,Alto,Finalizado,79
+330,2025-08-19,Alto,Atendido,70
+331,2026-04-11,Bajo,Atendido,31
+332,2025-09-01,Moderado,Pendiente,63
+333,2025-07-27,Crítico,Atendido,91
+334,2025-08-23,Moderado,En seguimiento,40
+335,2026-06-02,Moderado,Finalizado,47
+336,2026-04-11,Moderado,Atendido,54
+337,2025-10-24,Alto,Finalizado,85
+338,2026-06-02,Alto,Atendido,66
+339,2025-10-01,Bajo,Atendido,20
+340,2025-12-27,Bajo,En seguimiento,28
+341,2026-06-02,Moderado,En seguimiento,59
+342,2026-05-21,Crítico,Finalizado,97
+343,2026-03-29,Bajo,Pendiente,24
+344,2025-12-22,Bajo,Atendido,33
+345,2025-12-14,Alto,Finalizado,67
+346,2025-09-18,Bajo,Finalizado,31
+347,2025-08-11,Bajo,Pendiente,25
+348,2026-05-07,Moderado,Atendido,42
+349,2026-03-20,Bajo,Pendiente,13
+350,2025-11-23,Moderado,Pendiente,52
+351,2026-06-07,Bajo,En seguimiento,22
+352,2026-05-03,Bajo,En seguimiento,19
+353,2025-10-17,Alto,Atendido,75
+354,2025-12-15,Bajo,Pendiente,33
+355,2026-02-06,Bajo,Pendiente,27
+356,2026-06-26,Bajo,Atendido,12
+357,2026-01-20,Alto,Finalizado,79
+358,2025-07-10,Moderado,Finalizado,63
+359,2025-12-08,Moderado,Pendiente,58
+360,2026-05-24,Moderado,Finalizado,48
+361,2025-07-11,Crítico,En seguimiento,98
+362,2026-05-13,Moderado,Atendido,38
+363,2026-02-09,Alto,En seguimiento,79
+364,2026-04-28,Moderado,Finalizado,48
+365,2025-12-06,Alto,En seguimiento,76
+366,2025-09-25,Bajo,Finalizado,26
+367,2026-03-19,Bajo,Atendido,21
+368,2026-05-27,Alto,En seguimiento,69
+369,2025-09-13,Bajo,En seguimiento,29
+370,2025-09-17,Alto,Finalizado,71
+371,2026-05-18,Moderado,Pendiente,57
+372,2026-04-16,Moderado,Atendido,63
+373,2026-05-18,Bajo,Pendiente,12
+374,2026-02-26,Moderado,Atendido,61
+375,2025-11-18,Moderado,Atendido,52
+376,2025-08-07,Bajo,Pendiente,11
+377,2025-07-30,Moderado,Atendido,38
+378,2026-05-27,Alto,Finalizado,85
+379,2026-05-01,Moderado,Pendiente,54
+380,2026-04-10,Crítico,Finalizado,93
+381,2026-04-19,Moderado,Atendido,55
+382,2026-03-01,Moderado,Finalizado,50
+383,2025-08-22,Alto,Atendido,68
+384,2026-03-16,Moderado,Finalizado,43
+385,2026-06-28,Moderado,Pendiente,52
+386,2026-03-25,Moderado,Atendido,47
+387,2025-11-22,Moderado,Atendido,57
+388,2026-05-03,Bajo,Atendido,12
+389,2025-12-16,Bajo,Pendiente,19
+390,2025-11-07,Alto,En seguimiento,76
+391,2025-08-11,Moderado,En seguimiento,65
+392,2025-12-27,Bajo,Pendiente,14
+393,2026-05-01,Alto,Finalizado,75
+394,2026-04-13,Moderado,Atendido,62
+395,2025-09-04,Moderado,Finalizado,56
+396,2026-06-09,Moderado,Atendido,36
+397,2026-01-02,Bajo,En seguimiento,20
+398,2026-03-06,Bajo,En seguimiento,14
+399,2025-08-09,Bajo,Finalizado,26
+400,2026-04-03,Alto,Finalizado,76
+401,2026-05-13,Bajo,Pendiente,14
+402,2025-09-22,Bajo,En seguimiento,33
+403,2026-02-10,Bajo,Atendido,31
+404,2025-10-30,Crítico,Atendido,98
+405,2026-02-15,Bajo,En seguimiento,19
+406,2026-02-26,Crítico,En seguimiento,91
+407,2026-06-13,Crítico,Pendiente,93
+408,2025-11-22,Alto,Pendiente,71
+409,2025-10-11,Alto,En seguimiento,74
+410,2025-07-27,Moderado,Atendido,53
+411,2025-08-22,Alto,Finalizado,75
+412,2025-08-12,Alto,Atendido,80
+413,2026-03-20,Bajo,Pendiente,12
+414,2025-10-22,Alto,Atendido,66
+415,2026-01-29,Bajo,Atendido,17
+416,2026-01-14,Crítico,Atendido,89
+417,2025-07-15,Bajo,Finalizado,32
+418,2026-05-29,Bajo,En seguimiento,14
+419,2025-07-20,Bajo,Pendiente,32
+420,2025-09-10,Alto,Pendiente,80
+421,2026-05-12,Bajo,Finalizado,10
+422,2025-11-09,Bajo,En seguimiento,27
+423,2026-05-08,Moderado,Finalizado,60
+424,2025-11-25,Bajo,Finalizado,11
+425,2025-10-31,Moderado,Pendiente,38
+426,2025-08-26,Alto,Pendiente,85
+427,2026-04-01,Bajo,En seguimiento,32
+428,2025-09-12,Bajo,Finalizado,29
+429,2025-12-28,Bajo,Pendiente,15
+430,2026-06-06,Moderado,Atendido,38
+431,2026-03-27,Moderado,Finalizado,48
+432,2026-02-26,Bajo,Pendiente,21
+433,2025-11-07,Alto,Atendido,68
+434,2025-12-24,Bajo,Finalizado,34
+435,2026-04-24,Alto,Atendido,70
+436,2025-07-23,Moderado,Atendido,62
+437,2026-05-26,Bajo,Pendiente,32
+438,2026-03-03,Moderado,En seguimiento,38
+439,2026-02-20,Bajo,En seguimiento,11
+440,2025-10-11,Alto,Atendido,75
+441,2026-03-21,Moderado,Pendiente,44
+442,2025-07-19,Alto,En seguimiento,75
+443,2025-12-30,Alto,Finalizado,76
+444,2025-11-17,Bajo,Atendido,23
+445,2026-01-21,Alto,Pendiente,76
+446,2025-10-04,Moderado,Pendiente,47
+447,2026-03-23,Bajo,Finalizado,33
+448,2026-02-03,Bajo,En seguimiento,27
+449,2025-11-28,Bajo,Finalizado,20
+450,2026-06-04,Bajo,Pendiente,29
+451,2026-02-04,Bajo,Pendiente,21
+452,2026-02-14,Bajo,Atendido,29
+453,2026-02-08,Bajo,Finalizado,12
+454,2026-06-09,Moderado,Atendido,52
+455,2026-06-13,Bajo,Finalizado,14
+456,2026-05-08,Moderado,Pendiente,37
+457,2025-09-03,Bajo,Atendido,21
+458,2026-01-13,Crítico,Finalizado,95
+459,2025-09-17,Moderado,Atendido,47
+460,2026-02-13,Alto,En seguimiento,82
+461,2026-01-04,Moderado,Atendido,43
+462,2025-08-28,Bajo,En seguimiento,25
+463,2026-03-23,Moderado,Finalizado,44
+464,2025-11-11,Alto,En seguimiento,85
+465,2025-11-24,Moderado,Pendiente,42
+466,2025-09-01,Bajo,Finalizado,24
+467,2025-09-27,Alto,Pendiente,68
+468,2026-06-15,Crítico,Atendido,96
+469,2025-12-25,Alto,Atendido,75
+470,2025-09-19,Alto,En seguimiento,77
+471,2026-03-18,Bajo,En seguimiento,35
+472,2025-09-10,Bajo,Pendiente,10
+473,2026-01-01,Moderado,Atendido,50
+474,2026-04-09,Bajo,Finalizado,12
+475,2025-12-06,Moderado,Pendiente,52
+476,2026-01-27,Alto,Finalizado,70
+477,2025-12-10,Moderado,Pendiente,50
+478,2026-06-14,Moderado,En seguimiento,64
+479,2026-04-09,Moderado,En seguimiento,60
+480,2025-09-05,Moderado,Finalizado,62
+481,2025-09-02,Moderado,Atendido,41
+482,2025-09-21,Bajo,En seguimiento,21
+483,2026-03-23,Alto,Finalizado,74
+484,2025-10-09,Moderado,Atendido,40
+485,2026-05-17,Bajo,Finalizado,26
+486,2026-05-25,Bajo,En seguimiento,15
+487,2026-06-03,Moderado,Atendido,62
+488,2026-04-15,Bajo,Finalizado,12
+489,2025-07-24,Crítico,Atendido,96
+490,2025-10-16,Alto,Pendiente,85
+491,2026-05-24,Bajo,Atendido,30
+492,2025-12-02,Moderado,Pendiente,45
+493,2026-02-18,Bajo,Finalizado,15
+494,2026-02-11,Moderado,Pendiente,42
+495,2025-12-22,Moderado,Atendido,63
+496,2025-12-11,Alto,Atendido,78
+497,2025-09-05,Alto,Finalizado,76
+498,2025-11-01,Moderado,Atendido,50
+499,2025-11-04,Bajo,Finalizado,19
+500,2026-01-13,Alto,Pendiente,73
+501,2025-09-20,Alto,Atendido,72
+502,2025-09-20,Moderado,Pendiente,51
+503,2025-12-05,Moderado,Finalizado,48
+504,2026-03-16,Moderado,En seguimiento,42
+505,2026-04-25,Moderado,Finalizado,45
+506,2026-03-11,Moderado,Pendiente,45
+507,2026-04-01,Bajo,Finalizado,23
+508,2025-09-07,Alto,Atendido,78
+509,2026-01-04,Bajo,Finalizado,28
+510,2026-04-14,Bajo,Atendido,12
+511,2026-01-14,Moderado,Atendido,62
+512,2026-05-16,Moderado,Finalizado,40
+513,2025-08-19,Moderado,Atendido,53
+514,2026-01-04,Alto,En seguimiento,85
+515,2026-03-18,Moderado,Finalizado,37
+516,2025-07-20,Bajo,Atendido,35
+517,2026-02-28,Moderado,En seguimiento,55
+518,2026-03-21,Bajo,Atendido,15
+519,2026-01-18,Crítico,Atendido,95
+520,2025-12-20,Moderado,Pendiente,58
+521,2026-04-15,Bajo,Finalizado,21
+522,2025-12-17,Moderado,Pendiente,54
+523,2025-12-05,Alto,Finalizado,85
+524,2026-02-28,Bajo,En seguimiento,33
+525,2025-07-27,Moderado,En seguimiento,52
+526,2026-05-19,Alto,Pendiente,70
+527,2026-06-14,Bajo,Finalizado,16
+528,2025-07-10,Moderado,Pendiente,40
+529,2026-01-28,Moderado,Pendiente,52
+530,2026-05-10,Crítico,Finalizado,97
+531,2025-09-09,Moderado,Atendido,57
+532,2026-03-02,Moderado,Atendido,41
+533,2026-02-21,Crítico,Atendido,94
+534,2025-12-29,Moderado,Atendido,55
+535,2026-03-05,Bajo,En seguimiento,18
+536,2026-04-12,Bajo,Atendido,34
+537,2025-11-25,Alto,Pendiente,76
+538,2026-03-03,Bajo,Atendido,19
+539,2025-09-01,Moderado,Pendiente,64
+540,2026-01-19,Alto,En seguimiento,75
+541,2025-07-22,Bajo,Finalizado,21
+542,2026-02-12,Moderado,Pendiente,42
+543,2025-10-12,Alto,Atendido,83
+544,2026-06-22,Bajo,Finalizado,29
+545,2026-04-27,Bajo,Finalizado,31
+546,2026-03-29,Bajo,En seguimiento,11
+547,2025-08-21,Moderado,Pendiente,39
+548,2026-06-14,Alto,Finalizado,83
+549,2025-09-19,Moderado,Pendiente,51
+550,2026-05-30,Bajo,Atendido,20
+551,2025-11-24,Moderado,Finalizado,56
+552,2026-04-20,Bajo,Finalizado,15
+553,2026-01-30,Alto,En seguimiento,67
+554,2026-01-20,Alto,En seguimiento,75
+555,2025-07-20,Bajo,Finalizado,20
+556,2025-11-23,Moderado,Pendiente,64
+557,2025-09-07,Alto,Pendiente,74
+558,2025-10-07,Alto,Atendido,71
+559,2026-02-20,Moderado,En seguimiento,36
+560,2025-12-20,Alto,En seguimiento,71
+561,2026-05-09,Alto,Pendiente,79
+562,2026-03-21,Bajo,Pendiente,31
+563,2025-08-18,Bajo,En seguimiento,25
+564,2025-12-13,Crítico,Finalizado,90
+565,2026-01-13,Bajo,Atendido,20
+566,2025-12-02,Moderado,Finalizado,44
+567,2026-05-31,Moderado,En seguimiento,37
+568,2026-06-07,Bajo,Atendido,15
+569,2026-01-24,Moderado,Atendido,58
+570,2025-08-30,Moderado,Atendido,47
+571,2026-05-11,Bajo,En seguimiento,25
+572,2025-09-17,Moderado,Atendido,49
+573,2026-06-25,Moderado,Pendiente,60
+574,2026-04-02,Alto,En seguimiento,73
+575,2026-06-14,Alto,Finalizado,82
+576,2026-02-14,Moderado,Atendido,38
+577,2026-04-15,Bajo,En seguimiento,28
+578,2026-04-01,Bajo,Atendido,26
+579,2026-02-12,Bajo,En seguimiento,32
+580,2026-04-25,Moderado,Pendiente,61
+581,2025-07-29,Moderado,Pendiente,50
+582,2026-04-15,Bajo,Pendiente,31
+583,2025-12-05,Alto,Pendiente,74
+584,2025-07-02,Alto,Finalizado,67
+585,2026-02-02,Bajo,Finalizado,27
+586,2025-07-31,Crítico,Finalizado,100
+587,2026-02-27,Bajo,Pendiente,15
+588,2025-09-08,Alto,Pendiente,77
+589,2026-01-12,Moderado,Pendiente,48
+590,2025-08-11,Moderado,En seguimiento,56
+591,2025-12-26,Bajo,Pendiente,26
+592,2025-09-04,Alto,En seguimiento,66
+593,2025-07-12,Crítico,Pendiente,96
+594,2026-04-05,Moderado,Pendiente,62
+595,2025-10-26,Bajo,Atendido,14
+596,2025-11-19,Bajo,Finalizado,11
+597,2026-06-04,Moderado,Finalizado,43
+598,2025-10-14,Bajo,Finalizado,24
+599,2026-05-03,Moderado,Finalizado,43
+600,2025-07-23,Moderado,En seguimiento,53
+601,2025-10-20,Alto,Finalizado,70
+602,2026-03-15,Crítico,En seguimiento,99
+603,2026-04-21,Bajo,Atendido,17
+604,2025-12-02,Alto,En seguimiento,79
+605,2025-12-01,Bajo,En seguimiento,30
+606,2026-06-13,Moderado,Pendiente,37
+607,2025-12-24,Crítico,Pendiente,98
+608,2026-03-26,Bajo,Pendiente,23
+609,2025-09-15,Bajo,En seguimiento,34
+610,2026-04-02,Moderado,En seguimiento,45
+611,2026-06-28,Bajo,Pendiente,11
+612,2026-04-14,Moderado,Pendiente,53
+613,2026-03-29,Bajo,En seguimiento,18
+614,2025-10-13,Bajo,Finalizado,24
+615,2026-01-06,Bajo,En seguimiento,11
+616,2025-11-15,Moderado,Finalizado,63
+617,2025-08-07,Bajo,En seguimiento,25
+618,2025-10-15,Alto,Atendido,75
+619,2025-07-08,Bajo,En seguimiento,33
+620,2025-08-30,Alto,Pendiente,73
+621,2026-06-22,Moderado,En seguimiento,48
+622,2025-10-31,Moderado,Atendido,48
+623,2026-02-24,Moderado,Atendido,45
+624,2025-11-11,Moderado,Pendiente,50
+625,2025-08-20,Alto,Pendiente,76
+626,2025-10-13,Moderado,Pendiente,37
+627,2026-04-15,Alto,En seguimiento,66
+628,2025-11-11,Moderado,Pendiente,45
+629,2025-09-17,Bajo,En seguimiento,22
+630,2026-04-18,Alto,Pendiente,83
+631,2026-06-01,Crítico,Atendido,90
+632,2026-03-08,Crítico,Pendiente,93
+633,2025-09-25,Alto,Atendido,71
+634,2025-09-10,Alto,Pendiente,71
+635,2026-04-04,Crítico,Finalizado,94
+636,2025-07-18,Alto,Finalizado,67
+637,2025-07-04,Moderado,En seguimiento,38
+638,2026-06-28,Bajo,En seguimiento,26
+639,2026-02-19,Moderado,Pendiente,57
+640,2026-03-07,Bajo,Pendiente,10
+641,2025-07-09,Moderado,Atendido,53
+642,2025-11-24,Bajo,Pendiente,35
+643,2025-09-30,Bajo,Finalizado,26
+644,2025-09-15,Bajo,Atendido,21
+645,2025-11-14,Alto,Finalizado,77
+646,2026-01-24,Moderado,En seguimiento,58
+647,2025-10-24,Bajo,Finalizado,30
+648,2026-05-29,Alto,Finalizado,78
+649,2026-01-11,Moderado,Pendiente,37
+650,2026-05-23,Bajo,En seguimiento,12
+651,2026-03-13,Alto,Atendido,84
+652,2025-08-18,Alto,Finalizado,73
+653,2025-10-17,Crítico,Pendiente,90
+654,2025-07-24,Crítico,Atendido,100
+655,2026-04-05,Moderado,Finalizado,41
+656,2025-12-09,Bajo,En seguimiento,28
+657,2025-09-12,Alto,Pendiente,68
+658,2025-12-01,Bajo,En seguimiento,28
+659,2026-01-16,Moderado,Atendido,48
+660,2025-09-10,Alto,Finalizado,82
+661,2025-12-25,Bajo,Pendiente,17
+662,2025-08-08,Bajo,Pendiente,34
+663,2025-12-15,Bajo,Atendido,35
+664,2026-02-16,Moderado,Atendido,53
+665,2026-01-09,Moderado,Pendiente,38
+666,2026-05-13,Bajo,En seguimiento,32
+667,2025-08-07,Bajo,En seguimiento,22
+668,2026-06-30,Alto,En seguimiento,78
+669,2025-12-10,Moderado,Finalizado,36
+670,2025-12-05,Moderado,Atendido,39
+671,2025-09-06,Bajo,Pendiente,24
+672,2026-04-12,Moderado,Pendiente,39
+673,2025-07-14,Bajo,Finalizado,29
+674,2026-05-03,Alto,Pendiente,66
+675,2025-11-27,Moderado,Finalizado,59
+676,2026-04-13,Crítico,En seguimiento,95
+677,2026-03-24,Bajo,Pendiente,15
+678,2025-09-10,Bajo,Atendido,25
+679,2025-09-13,Bajo,Pendiente,18
+680,2026-02-01,Bajo,Finalizado,21
+681,2025-11-06,Crítico,Pendiente,95
+682,2026-05-12,Bajo,Finalizado,14
+683,2025-12-03,Bajo,Pendiente,20
+684,2026-05-14,Moderado,Atendido,50
+685,2025-12-19,Moderado,En seguimiento,45
+686,2025-12-12,Moderado,En seguimiento,51
+687,2025-12-08,Bajo,Pendiente,20
+688,2025-11-27,Alto,Pendiente,84
+689,2025-11-02,Bajo,Atendido,35
+690,2026-01-18,Moderado,En seguimiento,54
+691,2026-04-06,Bajo,Finalizado,33
+692,2026-02-22,Crítico,En seguimiento,93
+693,2025-11-27,Alto,Finalizado,79
+694,2026-06-10,Moderado,Atendido,43
+695,2025-11-07,Moderado,Pendiente,61
+696,2026-01-10,Bajo,Pendiente,28
+697,2026-01-22,Moderado,Pendiente,53
+698,2025-07-19,Alto,Atendido,83
+699,2026-05-01,Moderado,Finalizado,39
+700,2025-11-05,Moderado,Atendido,41
+701,2026-05-28,Moderado,Pendiente,60
+702,2025-12-17,Crítico,Pendiente,87
+703,2025-07-06,Bajo,En seguimiento,26
+704,2026-03-23,Moderado,En seguimiento,50
+705,2026-01-08,Moderado,En seguimiento,47
+706,2025-07-13,Moderado,Atendido,49
+707,2025-08-13,Bajo,En seguimiento,21
+708,2025-12-07,Bajo,En seguimiento,26
+709,2026-03-05,Bajo,Finalizado,24
+710,2026-06-22,Moderado,Finalizado,45
+711,2025-07-23,Alto,Finalizado,66
+712,2025-12-23,Moderado,En seguimiento,65
+713,2025-11-02,Moderado,En seguimiento,46
+714,2026-04-13,Moderado,Pendiente,43
+715,2026-01-24,Moderado,En seguimiento,56
+716,2026-06-02,Moderado,Finalizado,59
+717,2026-05-11,Alto,Pendiente,84
+718,2026-02-05,Moderado,En seguimiento,42
+719,2025-11-20,Alto,Finalizado,84
+720,2025-08-22,Alto,En seguimiento,77
+721,2025-12-14,Bajo,Finalizado,18
+722,2026-06-09,Alto,Atendido,85
+723,2026-01-15,Moderado,Finalizado,47
+724,2025-12-28,Alto,En seguimiento,75
+725,2026-05-11,Moderado,En seguimiento,46
+726,2025-08-30,Bajo,Finalizado,15
+727,2026-01-08,Moderado,Pendiente,49
+728,2026-05-02,Bajo,Pendiente,23
+729,2025-10-04,Moderado,En seguimiento,53
+730,2025-09-24,Moderado,En seguimiento,41
+731,2025-12-09,Alto,Finalizado,77
+732,2025-07-05,Moderado,En seguimiento,62
+733,2026-01-13,Crítico,Pendiente,92
+734,2026-06-16,Moderado,Pendiente,51
+735,2025-09-24,Bajo,Finalizado,35
+736,2025-10-21,Bajo,Atendido,17
+737,2026-04-02,Bajo,Pendiente,28
+738,2026-03-11,Moderado,Finalizado,54
+739,2025-08-28,Bajo,Atendido,27
+740,2025-07-22,Alto,Pendiente,83
+741,2025-10-20,Crítico,Finalizado,97
+742,2026-05-31,Alto,Atendido,67
+743,2026-02-16,Bajo,Finalizado,24
+744,2025-08-30,Alto,En seguimiento,72
+745,2026-04-28,Moderado,Pendiente,41
+746,2026-05-12,Bajo,En seguimiento,16
+747,2025-07-31,Moderado,Atendido,55
+748,2026-04-02,Bajo,Atendido,19
+749,2026-04-20,Bajo,Finalizado,14
+750,2026-01-27,Crítico,Atendido,99
+751,2026-06-01,Bajo,En seguimiento,17
+752,2025-09-13,Alto,En seguimiento,78
+753,2026-03-08,Bajo,Atendido,30
+754,2026-01-29,Moderado,Finalizado,56
+755,2025-08-17,Moderado,Atendido,58
+756,2026-01-05,Moderado,Pendiente,46
+757,2026-04-24,Bajo,Finalizado,33
+758,2026-02-20,Moderado,Atendido,63
+759,2025-08-02,Alto,Pendiente,72
+760,2026-02-05,Alto,Pendiente,74
+761,2025-12-13,Alto,Atendido,83
+762,2026-04-22,Bajo,Pendiente,35
+763,2025-12-23,Alto,Finalizado,67
+764,2025-08-20,Moderado,Pendiente,36
+765,2025-09-02,Crítico,En seguimiento,93
+766,2026-02-19,Bajo,Pendiente,16
+767,2026-06-18,Crítico,Atendido,88
+768,2025-11-18,Bajo,Atendido,18
+769,2025-08-12,Moderado,En seguimiento,37
+770,2026-01-19,Moderado,En seguimiento,49
+771,2026-06-01,Bajo,Finalizado,10
+772,2025-10-18,Moderado,En seguimiento,54
+773,2025-10-24,Moderado,Pendiente,36
+774,2025-07-05,Moderado,Finalizado,63
+775,2026-02-02,Moderado,Pendiente,38
+776,2025-10-26,Moderado,Finalizado,39
+777,2025-12-08,Moderado,Atendido,40
+778,2026-01-12,Alto,En seguimiento,70
+779,2025-08-05,Moderado,Finalizado,55
+780,2026-05-29,Bajo,Atendido,33
+781,2025-10-18,Moderado,En seguimiento,65
+782,2026-01-27,Moderado,Pendiente,63
+783,2025-10-20,Bajo,Finalizado,14
+784,2025-09-02,Moderado,Pendiente,47
+785,2026-02-05,Bajo,En seguimiento,17
+786,2025-11-19,Moderado,En seguimiento,53
+787,2026-05-04,Moderado,Atendido,60
+788,2026-06-19,Bajo,Atendido,16
+789,2026-03-23,Moderado,En seguimiento,59
+790,2026-01-17,Bajo,Finalizado,35
+791,2025-10-31,Moderado,Finalizado,43
+792,2026-03-13,Moderado,Finalizado,52
+793,2025-07-07,Crítico,Atendido,88
+794,2026-01-15,Alto,Pendiente,77
+795,2026-04-06,Moderado,Pendiente,60
+796,2025-08-07,Bajo,Finalizado,10
+797,2025-11-12,Bajo,Finalizado,35
+798,2026-01-20,Moderado,Pendiente,49
+799,2026-06-25,Moderado,En seguimiento,44
+800,2025-08-12,Bajo,En seguimiento,35
+801,2025-09-18,Moderado,Pendiente,54
+802,2026-05-21,Alto,Finalizado,75
+803,2026-06-23,Moderado,En seguimiento,37
+804,2025-11-03,Bajo,Pendiente,13
+805,2026-02-18,Moderado,Finalizado,45
+806,2026-06-07,Alto,En seguimiento,69
+807,2025-07-07,Alto,Finalizado,71
+808,2026-03-12,Crítico,Atendido,88
+809,2026-01-07,Bajo,Atendido,33
+810,2025-08-30,Alto,Finalizado,76
+811,2026-02-05,Bajo,Finalizado,18
+812,2026-06-30,Crítico,Finalizado,93
+813,2026-02-19,Moderado,Finalizado,51
+814,2026-04-17,Bajo,En seguimiento,18
+815,2025-08-22,Alto,Finalizado,73
+816,2026-03-18,Bajo,Finalizado,17
+817,2025-07-24,Moderado,Pendiente,65
+818,2025-09-15,Bajo,Finalizado,27
+819,2026-06-01,Moderado,Atendido,43
+820,2026-01-30,Crítico,Atendido,90
+821,2025-08-09,Moderado,Finalizado,52
+822,2026-06-10,Crítico,En seguimiento,89
+823,2026-03-22,Crítico,Pendiente,87
+824,2026-02-24,Alto,Atendido,76
+825,2025-08-14,Moderado,Finalizado,47
+826,2025-10-11,Bajo,Atendido,33
+827,2026-05-15,Bajo,Atendido,28
+828,2026-03-10,Crítico,En seguimiento,97
+829,2026-04-06,Alto,En seguimiento,70
+830,2025-07-04,Crítico,Finalizado,89
+831,2026-04-04,Bajo,Finalizado,20
+832,2025-07-01,Alto,Pendiente,75
+833,2025-08-23,Bajo,En seguimiento,23
+834,2026-03-09,Crítico,En seguimiento,97
+835,2025-11-21,Bajo,En seguimiento,26
+836,2026-01-28,Alto,Atendido,80
+837,2025-08-13,Moderado,En seguimiento,56
+838,2026-01-18,Bajo,Finalizado,23
+839,2026-06-05,Crítico,En seguimiento,90
+840,2025-11-11,Alto,Pendiente,76
+841,2025-12-10,Moderado,En seguimiento,38
+842,2025-10-12,Bajo,Finalizado,14
+843,2025-08-24,Bajo,Pendiente,20
+844,2026-01-25,Bajo,Atendido,34
+845,2025-10-15,Moderado,Pendiente,44
+846,2025-08-31,Bajo,Atendido,32
+847,2026-06-22,Moderado,En seguimiento,62
+848,2025-12-15,Bajo,En seguimiento,21
+849,2026-01-19,Moderado,Atendido,44
+850,2025-09-28,Bajo,Pendiente,24
+851,2026-04-11,Alto,En seguimiento,69
+852,2026-02-22,Bajo,En seguimiento,13
+853,2025-07-07,Bajo,En seguimiento,14
+854,2025-10-10,Alto,Atendido,68
+855,2026-04-25,Moderado,Finalizado,36
+856,2025-08-03,Bajo,Pendiente,35
+857,2025-09-04,Bajo,Atendido,13
+858,2025-07-22,Crítico,Finalizado,88
+859,2026-04-20,Moderado,Pendiente,51
+860,2025-07-16,Moderado,Pendiente,41
+861,2025-12-29,Bajo,En seguimiento,18
+862,2025-11-21,Moderado,En seguimiento,37
+863,2026-05-11,Moderado,En seguimiento,56
+864,2025-11-29,Moderado,Pendiente,37
+865,2025-08-14,Bajo,En seguimiento,23
+866,2025-10-11,Moderado,En seguimiento,56
+867,2026-04-05,Alto,Pendiente,77
+868,2026-03-03,Moderado,Pendiente,47
+869,2026-04-16,Moderado,Pendiente,44
+870,2025-10-01,Bajo,En seguimiento,10
+871,2025-11-21,Bajo,Pendiente,26
+872,2025-12-31,Alto,En seguimiento,71
+873,2025-08-21,Bajo,En seguimiento,18
+874,2026-03-31,Alto,Finalizado,73
+875,2026-04-21,Alto,Pendiente,77
+876,2025-09-27,Bajo,Atendido,35
+877,2026-06-23,Moderado,Finalizado,58
+878,2026-06-24,Moderado,En seguimiento,54
+879,2025-10-05,Alto,Pendiente,83
+880,2025-12-06,Bajo,Finalizado,12
+881,2025-07-29,Bajo,En seguimiento,10
+882,2026-03-27,Moderado,Atendido,65
+883,2026-05-11,Bajo,En seguimiento,20
+884,2025-09-29,Crítico,Atendido,86
+885,2025-07-12,Bajo,En seguimiento,34
+886,2025-08-26,Alto,Atendido,68
+887,2026-01-08,Alto,Pendiente,84
+888,2025-08-21,Bajo,Atendido,14
+889,2025-09-19,Alto,Pendiente,81
+890,2026-05-29,Bajo,Atendido,17
+891,2026-06-06,Moderado,En seguimiento,48
+892,2025-12-05,Alto,Atendido,70
+893,2025-09-29,Alto,Pendiente,84
+894,2025-07-17,Bajo,Atendido,35
+895,2026-05-10,Bajo,Finalizado,25
+896,2025-09-11,Bajo,Finalizado,17
+897,2025-12-25,Crítico,En seguimiento,96
+898,2025-08-15,Alto,Atendido,80
+899,2025-07-06,Bajo,En seguimiento,32
+900,2025-08-04,Moderado,Finalizado,59
+901,2025-07-01,Bajo,Pendiente,33
+902,2026-01-31,Crítico,Pendiente,93
+903,2026-01-10,Moderado,Pendiente,39
+904,2026-03-03,Alto,En seguimiento,71
+905,2026-02-17,Bajo,Finalizado,19
+906,2025-07-11,Bajo,Finalizado,12
+907,2025-12-23,Bajo,Pendiente,15
+908,2025-08-08,Moderado,Finalizado,46
+909,2026-05-01,Crítico,Pendiente,97
+910,2025-07-16,Moderado,En seguimiento,55
+911,2026-02-08,Bajo,Finalizado,20
+912,2025-10-14,Crítico,Pendiente,97
+913,2026-04-10,Alto,Atendido,75
+914,2025-11-30,Bajo,Finalizado,22
+915,2026-04-19,Moderado,Pendiente,40
+916,2025-07-28,Moderado,Pendiente,38
+917,2025-11-28,Alto,Pendiente,72
+918,2025-08-19,Bajo,En seguimiento,30
+919,2025-11-27,Crítico,Pendiente,99
+920,2025-08-29,Bajo,Pendiente,25
+921,2026-03-08,Alto,Atendido,68
+922,2026-05-25,Moderado,En seguimiento,47
+923,2026-01-12,Moderado,Pendiente,37
+924,2025-11-12,Moderado,Atendido,43
+925,2025-11-15,Moderado,En seguimiento,60
+926,2026-06-22,Moderado,Finalizado,57
+927,2025-12-24,Alto,Pendiente,84
+928,2025-10-25,Moderado,Pendiente,62
+929,2026-03-25,Moderado,Pendiente,54
+930,2025-10-29,Moderado,Finalizado,48
+931,2025-07-18,Moderado,En seguimiento,39
+932,2026-02-15,Bajo,En seguimiento,16
+933,2025-10-07,Bajo,Pendiente,12
+934,2026-06-15,Moderado,En seguimiento,62
+935,2026-05-01,Bajo,Finalizado,12
+936,2026-01-15,Moderado,Atendido,63
+937,2025-11-19,Moderado,Finalizado,61
+938,2026-06-24,Moderado,Pendiente,39
+939,2026-01-29,Bajo,Finalizado,13
+940,2026-04-15,Alto,Atendido,83
+941,2025-12-24,Alto,Atendido,78
+942,2026-06-01,Moderado,Pendiente,37
+943,2025-09-27,Bajo,En seguimiento,29
+944,2026-05-08,Moderado,Pendiente,37
+945,2026-01-19,Alto,Atendido,73
+946,2025-07-26,Alto,Atendido,77
+947,2025-07-11,Bajo,Atendido,19
+948,2025-11-21,Alto,Finalizado,73
+949,2025-09-07,Bajo,Pendiente,34
+950,2025-12-12,Bajo,Pendiente,29
+951,2026-05-27,Bajo,Pendiente,16
+952,2026-01-25,Alto,Atendido,67
+953,2026-03-21,Alto,Finalizado,75
+954,2026-06-29,Moderado,En seguimiento,60
+955,2026-03-26,Alto,Finalizado,71
+956,2025-10-07,Alto,En seguimiento,67
+957,2025-11-05,Bajo,Finalizado,21
+958,2026-06-26,Bajo,Atendido,24
+959,2026-03-16,Moderado,Finalizado,57
+960,2025-07-16,Bajo,Pendiente,29
+961,2026-02-14,Bajo,Pendiente,28
+962,2026-04-09,Bajo,En seguimiento,18
+963,2026-06-18,Bajo,Finalizado,22
+964,2025-07-26,Bajo,En seguimiento,17
+965,2026-05-28,Bajo,En seguimiento,18
+966,2026-05-30,Moderado,Finalizado,63
+967,2026-06-15,Bajo,En seguimiento,30
+968,2025-09-27,Moderado,Finalizado,43
+969,2025-11-07,Moderado,Atendido,58
+970,2026-06-29,Moderado,Pendiente,64
+971,2026-01-09,Alto,Pendiente,74
+972,2025-10-20,Moderado,Pendiente,54
+973,2025-08-22,Bajo,Atendido,27
+974,2026-05-28,Moderado,Atendido,45
+975,2026-06-16,Bajo,Finalizado,20
+976,2025-11-19,Moderado,Atendido,44
+977,2026-06-01,Alto,Atendido,72
+978,2025-09-15,Moderado,En seguimiento,64
+979,2025-07-30,Alto,Pendiente,76
+980,2026-06-14,Bajo,Finalizado,30
+981,2026-03-12,Crítico,Atendido,100
+982,2026-01-31,Moderado,Finalizado,54
+983,2026-06-28,Crítico,En seguimiento,91
+984,2025-10-22,Moderado,Pendiente,65
+985,2026-06-09,Moderado,Atendido,63
+986,2025-09-26,Alto,En seguimiento,75
+987,2025-08-19,Moderado,Atendido,59
+988,2026-04-13,Alto,En seguimiento,76
+989,2026-06-01,Bajo,Atendido,17
+990,2025-12-05,Moderado,Atendido,47
+991,2025-11-11,Moderado,Pendiente,63
+992,2025-08-30,Moderado,Finalizado,51
+993,2025-10-08,Moderado,Pendiente,52
+994,2025-11-30,Moderado,En seguimiento,40
+995,2025-10-11,Bajo,Pendiente,14
+996,2025-12-09,Alto,En seguimiento,68
+997,2026-03-07,Bajo,En seguimiento,20
+998,2026-05-21,Bajo,Pendiente,18
+999,2025-10-16,Alto,En seguimiento,84
+1000,2025-09-20,Moderado,Finalizado,40
+1001,2026-05-11,Moderado,Pendiente,48
+1002,2026-02-05,Crítico,Pendiente,86
+1003,2025-07-20,Moderado,Atendido,36
+1004,2025-12-12,Alto,En seguimiento,66
+1005,2026-06-12,Bajo,En seguimiento,17
+1006,2026-06-21,Alto,Atendido,70
+1007,2025-08-22,Moderado,Atendido,41
+1008,2025-08-03,Alto,Atendido,75
+1009,2026-02-19,Alto,Atendido,79
+1010,2026-06-17,Crítico,Atendido,100
+1011,2026-03-08,Moderado,En seguimiento,41
+1012,2026-01-23,Bajo,En seguimiento,33
+1013,2025-09-06,Bajo,Finalizado,28
+1014,2026-03-16,Bajo,Atendido,32
+1015,2026-05-30,Alto,Pendiente,74
+1016,2026-03-31,Moderado,Finalizado,57
+1017,2025-08-25,Moderado,Finalizado,37
+1018,2026-06-19,Bajo,Pendiente,22
+1019,2025-09-02,Moderado,Pendiente,58
+1020,2025-09-17,Bajo,Finalizado,19
+1021,2026-02-01,Moderado,Atendido,55
+1022,2026-05-07,Alto,Pendiente,69
+1023,2026-03-19,Alto,Finalizado,75
+1024,2025-08-28,Alto,Pendiente,72
+1025,2026-05-08,Bajo,Atendido,26
+1026,2025-10-12,Moderado,Pendiente,45
+1027,2025-09-21,Bajo,Pendiente,16
+1028,2026-06-18,Crítico,Atendido,89
+1029,2025-07-02,Bajo,Finalizado,13
+1030,2026-04-20,Moderado,En seguimiento,38
+1031,2026-03-19,Bajo,Finalizado,18
+1032,2026-05-26,Bajo,Atendido,18
+1033,2026-02-23,Bajo,En seguimiento,11
+1034,2025-11-26,Moderado,Atendido,49
+1035,2025-08-29,Bajo,Finalizado,10
+1036,2025-09-09,Moderado,En seguimiento,46
+1037,2025-12-31,Alto,Atendido,68
+1038,2026-01-07,Alto,En seguimiento,69
+1039,2026-01-22,Moderado,Pendiente,44
+1040,2026-01-14,Moderado,Pendiente,61
+1041,2026-02-01,Moderado,En seguimiento,39
+1042,2025-09-06,Moderado,Finalizado,63
+1043,2025-09-20,Bajo,Pendiente,35
+1044,2026-04-18,Moderado,En seguimiento,55
+1045,2026-01-11,Alto,Finalizado,70
+1046,2026-03-05,Crítico,Finalizado,100
+1047,2026-01-27,Moderado,Finalizado,44
+1048,2026-06-01,Bajo,En seguimiento,31
+1049,2025-12-21,Moderado,Finalizado,49
+1050,2026-06-04,Alto,Pendiente,77
+1051,2026-06-05,Moderado,Pendiente,40
+1052,2026-04-12,Alto,Finalizado,66
+1053,2026-05-26,Crítico,Pendiente,99
+1054,2026-03-11,Alto,Finalizado,81
+1055,2025-12-12,Bajo,Atendido,11
+1056,2026-03-17,Bajo,Pendiente,22
+1057,2025-10-29,Bajo,Pendiente,35
+1058,2026-04-20,Moderado,Pendiente,50
+1059,2025-12-09,Bajo,Pendiente,33
+1060,2026-05-31,Bajo,Pendiente,23
+1061,2025-07-19,Moderado,Finalizado,62
+1062,2025-08-16,Alto,Atendido,82
+1063,2026-04-14,Bajo,Pendiente,20
+1064,2026-01-03,Alto,En seguimiento,80
+1065,2025-12-17,Moderado,Pendiente,58
+1066,2026-06-02,Moderado,Pendiente,39
+1067,2025-08-19,Alto,En seguimiento,66
+1068,2025-12-22,Moderado,Atendido,53
+1069,2026-03-25,Moderado,Finalizado,37
+1070,2025-09-23,Moderado,Pendiente,39
+1071,2025-11-08,Moderado,En seguimiento,39
+1072,2026-01-18,Bajo,En seguimiento,32
+1073,2025-12-21,Bajo,Pendiente,11
+1074,2026-05-21,Alto,Finalizado,80
+1075,2026-02-20,Moderado,En seguimiento,51
+1076,2025-07-03,Moderado,Finalizado,53
+1077,2026-02-07,Alto,Pendiente,82
+1078,2025-09-29,Moderado,En seguimiento,59
+1079,2025-09-04,Bajo,Atendido,26
+1080,2026-01-13,Moderado,En seguimiento,44
+1081,2026-01-20,Crítico,Atendido,93
+1082,2025-09-07,Bajo,Atendido,32
+1083,2026-04-07,Alto,En seguimiento,72
+1084,2025-10-16,Moderado,Atendido,57
+1085,2025-12-24,Crítico,En seguimiento,97
+1086,2026-05-29,Crítico,En seguimiento,94
+1087,2026-04-04,Moderado,Atendido,58
+1088,2025-08-29,Alto,Pendiente,84
+1089,2026-04-19,Crítico,Pendiente,96
+1090,2026-03-31,Bajo,Pendiente,35
+1091,2025-07-07,Moderado,Finalizado,48
+1092,2025-09-13,Bajo,Finalizado,16
+1093,2025-11-14,Alto,En seguimiento,75
+1094,2026-06-15,Bajo,Finalizado,32
+1095,2025-11-29,Bajo,Finalizado,21
+1096,2026-02-17,Bajo,En seguimiento,33
+1097,2026-05-28,Moderado,En seguimiento,52
+1098,2026-06-22,Bajo,Finalizado,22
+1099,2026-01-15,Moderado,Atendido,53
+1100,2025-07-28,Bajo,Atendido,16
+1101,2026-05-14,Alto,Pendiente,73
+1102,2026-05-21,Alto,Atendido,84
+1103,2026-04-06,Alto,En seguimiento,72
+1104,2025-11-28,Moderado,Finalizado,41
+1105,2025-09-27,Alto,Finalizado,78
+1106,2025-07-21,Moderado,Atendido,40
+1107,2025-09-21,Moderado,Atendido,36
+1108,2025-12-17,Moderado,En seguimiento,37
+1109,2025-09-17,Crítico,Finalizado,98
+1110,2026-05-17,Moderado,Atendido,51
+1111,2026-04-20,Moderado,Finalizado,61
+1112,2026-06-28,Bajo,En seguimiento,15
+1113,2026-03-24,Bajo,En seguimiento,23
+1114,2026-04-05,Moderado,Finalizado,47
+1115,2025-10-22,Alto,Atendido,76
+1116,2026-01-01,Bajo,Pendiente,27
+1117,2026-05-29,Bajo,Atendido,24
+1118,2025-11-01,Crítico,En seguimiento,86
+1119,2026-06-15,Alto,Pendiente,69
+1120,2026-01-14,Bajo,Atendido,10
+1121,2026-03-22,Alto,Atendido,82
+1122,2026-03-18,Moderado,Finalizado,45
+1123,2026-05-30,Bajo,Finalizado,13
+1124,2025-09-24,Crítico,Finalizado,96
+1125,2025-08-03,Bajo,En seguimiento,31
+1126,2026-02-03,Alto,En seguimiento,83
+1127,2026-06-25,Alto,Pendiente,68
+1128,2026-06-17,Bajo,Pendiente,32
+1129,2025-12-17,Bajo,Finalizado,11
+1130,2025-09-30,Alto,Finalizado,84
+1131,2025-10-25,Crítico,Pendiente,92
+1132,2026-02-16,Moderado,Pendiente,46
+1133,2025-07-09,Moderado,Finalizado,53
+1134,2025-07-04,Moderado,Finalizado,60
+1135,2026-04-26,Bajo,Finalizado,21
+1136,2026-03-15,Bajo,Atendido,29
+1137,2025-08-14,Bajo,Pendiente,22
+1138,2026-01-19,Alto,Finalizado,81
+1139,2025-09-19,Moderado,En seguimiento,59
+1140,2026-01-17,Alto,Atendido,70
+1141,2025-11-30,Moderado,Atendido,36
+1142,2026-04-10,Alto,En seguimiento,69
+1143,2025-07-22,Bajo,Pendiente,27
+1144,2026-04-07,Crítico,Atendido,89
+1145,2025-12-24,Bajo,En seguimiento,15
+1146,2025-10-03,Bajo,Atendido,16
+1147,2025-08-28,Bajo,Finalizado,34
+1148,2026-04-08,Moderado,Finalizado,45
+1149,2026-06-09,Bajo,Finalizado,16
+1150,2026-04-24,Moderado,Atendido,47
+1151,2025-09-04,Moderado,En seguimiento,39
+1152,2025-11-23,Moderado,En seguimiento,46
+1153,2026-03-06,Moderado,Atendido,58
+1154,2026-04-26,Bajo,Atendido,35
+1155,2025-12-09,Crítico,En seguimiento,86
+1156,2025-12-08,Bajo,En seguimiento,32
+1157,2026-05-25,Moderado,Atendido,40
+1158,2026-06-13,Alto,Pendiente,80
+1159,2026-02-14,Moderado,Atendido,51
+1160,2026-04-09,Bajo,Finalizado,18
+1161,2025-09-10,Alto,En seguimiento,74
+1162,2026-05-17,Bajo,Finalizado,10
+1163,2026-03-17,Moderado,Pendiente,60
+1164,2026-04-29,Bajo,Finalizado,27
+1165,2025-11-11,Moderado,Pendiente,56
+1166,2025-09-15,Moderado,En seguimiento,64
+1167,2026-04-28,Alto,Atendido,70
+1168,2026-02-23,Moderado,Finalizado,48
+1169,2026-01-03,Moderado,En seguimiento,63
+1170,2026-05-11,Moderado,En seguimiento,50
+1171,2025-09-20,Bajo,En seguimiento,33
+1172,2026-03-05,Crítico,Finalizado,89
+1173,2026-03-07,Bajo,Atendido,21
+1174,2025-10-28,Bajo,En seguimiento,26
+1175,2026-01-01,Moderado,Pendiente,64
+1176,2025-07-24,Bajo,Atendido,13
+1177,2026-06-26,Crítico,Atendido,99
+1178,2025-11-12,Moderado,En seguimiento,48
+1179,2026-05-31,Moderado,Finalizado,52
+1180,2025-11-06,Moderado,En seguimiento,52
+1181,2026-01-24,Moderado,Atendido,51
+1182,2026-03-04,Alto,Finalizado,82
+1183,2025-09-10,Moderado,En seguimiento,38
+1184,2026-03-21,Moderado,En seguimiento,40
+1185,2025-10-04,Bajo,Finalizado,31
+1186,2025-10-26,Moderado,Atendido,59
+1187,2025-08-28,Moderado,Pendiente,51
+1188,2025-10-16,Moderado,Pendiente,36
+1189,2025-11-02,Bajo,En seguimiento,14
+1190,2026-05-19,Moderado,En seguimiento,37
+1191,2025-09-24,Bajo,En seguimiento,26
+1192,2026-01-24,Moderado,Finalizado,64
+1193,2026-06-04,Alto,Finalizado,72
+1194,2026-02-15,Moderado,Pendiente,63
+1195,2026-03-04,Bajo,Pendiente,29
+1196,2025-09-12,Alto,En seguimiento,85
+1197,2026-06-03,Moderado,En seguimiento,59
+1198,2026-06-17,Bajo,Pendiente,29
+1199,2026-04-29,Bajo,Pendiente,22
+1200,2025-09-06,Bajo,En seguimiento,26
+1201,2026-03-16,Moderado,En seguimiento,55
+1202,2025-08-19,Bajo,Finalizado,35
+1203,2026-03-30,Moderado,Finalizado,38
+1204,2026-03-04,Moderado,Finalizado,64
+1205,2026-06-13,Moderado,Pendiente,47
+1206,2025-07-23,Moderado,Pendiente,43
+1207,2026-03-04,Alto,Pendiente,77
+1208,2026-04-28,Alto,Finalizado,79
+1209,2025-09-07,Bajo,En seguimiento,12
+1210,2025-11-23,Moderado,Pendiente,44
+1211,2025-10-05,Bajo,Finalizado,28
+1212,2026-03-25,Bajo,Finalizado,22
+1213,2026-06-01,Bajo,Atendido,23
+1214,2026-01-02,Bajo,Pendiente,30
+1215,2026-04-26,Bajo,Pendiente,28
+1216,2026-01-04,Moderado,Pendiente,60
+1217,2025-10-13,Moderado,Pendiente,41
+1218,2026-01-06,Moderado,Pendiente,44
+1219,2025-12-05,Moderado,Pendiente,59
+1220,2025-09-09,Alto,Finalizado,73
+1221,2026-02-14,Alto,En seguimiento,69
+1222,2025-10-18,Moderado,Atendido,61
+1223,2026-04-08,Moderado,Finalizado,41
+1224,2026-01-16,Crítico,Finalizado,98
+1225,2025-08-16,Alto,Pendiente,85
+1226,2026-02-08,Bajo,Atendido,17
+1227,2026-01-06,Bajo,Finalizado,33
+1228,2026-01-13,Crítico,Pendiente,95
+1229,2026-06-01,Moderado,Finalizado,60
+1230,2025-09-28,Moderado,Pendiente,36
+1231,2025-10-12,Alto,Atendido,72
+1232,2025-07-18,Alto,En seguimiento,85
+1233,2025-09-25,Moderado,Atendido,43
+1234,2026-06-01,Bajo,En seguimiento,12
+1235,2025-11-19,Alto,Atendido,78
+1236,2026-01-24,Moderado,Finalizado,59
+1237,2026-06-26,Bajo,Finalizado,27
+1238,2025-11-23,Alto,Atendido,77
+1239,2025-11-19,Bajo,En seguimiento,24
+1240,2026-01-23,Moderado,Atendido,41
+1241,2026-01-25,Moderado,Finalizado,52
+1242,2025-11-28,Bajo,Finalizado,35
+1243,2026-03-20,Crítico,Atendido,97
+1244,2026-02-12,Crítico,Pendiente,98
+1245,2025-11-02,Alto,Pendiente,80
+1246,2026-04-27,Alto,Pendiente,69
+1247,2025-11-10,Bajo,En seguimiento,31
+1248,2026-06-25,Bajo,Atendido,23
+1249,2025-12-28,Moderado,Finalizado,58
+1250,2025-11-12,Bajo,Finalizado,22
+1251,2026-06-10,Alto,Atendido,68
+1252,2026-04-10,Crítico,Pendiente,91
+1253,2025-12-29,Bajo,Atendido,15
+1254,2026-06-15,Crítico,En seguimiento,93
+1255,2025-10-11,Bajo,En seguimiento,18
+1256,2025-10-14,Bajo,En seguimiento,29
+1257,2025-12-30,Bajo,Finalizado,13
+1258,2025-08-10,Moderado,Pendiente,55
+1259,2025-07-04,Alto,Finalizado,81
+1260,2026-01-07,Moderado,Pendiente,64
+1261,2026-04-21,Alto,Pendiente,71
+1262,2026-03-19,Bajo,En seguimiento,34
+1263,2026-04-22,Bajo,Pendiente,25
+1264,2026-04-03,Bajo,Atendido,22
+1265,2026-06-17,Alto,Pendiente,69
+1266,2026-06-23,Moderado,Atendido,58
+1267,2025-07-05,Bajo,En seguimiento,22
+1268,2026-04-24,Bajo,Atendido,29
+1269,2025-11-10,Bajo,Atendido,17
+1270,2025-11-15,Moderado,Atendido,47
+1271,2025-10-03,Moderado,En seguimiento,49
+1272,2026-06-24,Alto,Atendido,78
+1273,2025-11-21,Moderado,En seguimiento,54
+1274,2026-06-17,Bajo,Finalizado,33
+1275,2025-11-16,Alto,Pendiente,78
+1276,2025-10-09,Bajo,En seguimiento,25
+1277,2025-07-05,Bajo,Pendiente,14
+1278,2026-05-19,Moderado,Atendido,61
+1279,2026-03-07,Bajo,Finalizado,22
+1280,2025-08-20,Moderado,Finalizado,42
+1281,2025-11-08,Moderado,Finalizado,50
+1282,2025-12-19,Bajo,Atendido,27
+1283,2026-04-12,Crítico,Atendido,91
+1284,2025-07-11,Moderado,Atendido,63
+1285,2026-06-13,Crítico,En seguimiento,95
+1286,2026-04-21,Moderado,En seguimiento,60
+1287,2025-11-23,Moderado,Pendiente,60
+1288,2026-02-14,Alto,Pendiente,85
+1289,2025-11-24,Moderado,En seguimiento,63
+1290,2025-09-24,Moderado,Atendido,49
+1291,2026-05-20,Moderado,Pendiente,63
+1292,2025-08-06,Bajo,Atendido,17
+1293,2025-12-08,Bajo,Atendido,32
+1294,2025-11-14,Moderado,Pendiente,44
+1295,2026-02-13,Alto,Atendido,84
+1296,2026-03-24,Crítico,Pendiente,88
+1297,2025-10-03,Alto,En seguimiento,73
+1298,2026-06-04,Bajo,Finalizado,16
+1299,2025-09-24,Moderado,Finalizado,38
+1300,2026-02-28,Moderado,Finalizado,60
+1301,2026-01-20,Moderado,Finalizado,39
+1302,2025-11-12,Moderado,Finalizado,56
+1303,2026-01-16,Bajo,En seguimiento,33
+1304,2025-11-23,Moderado,En seguimiento,40
+1305,2026-03-27,Alto,Finalizado,67
+1306,2026-06-05,Moderado,Atendido,63
+1307,2026-03-01,Moderado,Atendido,53
+1308,2026-02-13,Bajo,En seguimiento,28
+1309,2026-05-02,Moderado,Pendiente,52
+1310,2026-05-24,Moderado,Atendido,65
+1311,2025-12-25,Moderado,En seguimiento,61
+1312,2025-08-15,Moderado,Atendido,49
+1313,2025-11-11,Bajo,Finalizado,10
+1314,2026-03-25,Alto,En seguimiento,77
+1315,2025-11-24,Moderado,Finalizado,58
+1316,2026-03-09,Crítico,Pendiente,90
+1317,2025-07-05,Alto,Atendido,85
+1318,2025-10-27,Alto,Atendido,72
+1319,2026-01-27,Alto,Pendiente,78
+1320,2025-11-05,Bajo,Pendiente,22
+1321,2025-10-21,Bajo,Pendiente,30
+1322,2025-10-31,Moderado,Atendido,45
+1323,2026-05-29,Alto,Atendido,79
+1324,2025-10-05,Alto,En seguimiento,70
+1325,2025-11-26,Bajo,Pendiente,29
+1326,2026-02-17,Bajo,Pendiente,16
+1327,2025-12-12,Bajo,Finalizado,27
+1328,2025-07-12,Bajo,Finalizado,19
+1329,2025-11-15,Bajo,Pendiente,33
+1330,2025-07-05,Bajo,En seguimiento,10
+1331,2026-03-10,Bajo,Pendiente,19
+1332,2026-03-13,Crítico,Pendiente,97
+1333,2025-07-17,Bajo,En seguimiento,11
+1334,2025-11-14,Alto,Finalizado,83
+1335,2026-02-26,Bajo,Atendido,22
+1336,2025-07-07,Bajo,En seguimiento,22
+1337,2026-02-12,Bajo,Finalizado,16
+1338,2026-02-21,Alto,Finalizado,82
+1339,2026-06-06,Crítico,Pendiente,92
+1340,2026-06-14,Crítico,Atendido,88
+1341,2026-05-19,Alto,Finalizado,74
+1342,2026-03-04,Moderado,En seguimiento,47
+1343,2025-07-27,Alto,En seguimiento,69
+1344,2025-10-29,Moderado,Atendido,36
+1345,2025-09-24,Alto,Finalizado,78
+1346,2025-11-02,Bajo,Finalizado,28
+1347,2026-06-19,Moderado,En seguimiento,47
+1348,2025-08-15,Bajo,Pendiente,12
+1349,2026-06-17,Moderado,Finalizado,37
+1350,2025-12-30,Moderado,Finalizado,40
+1351,2026-03-07,Bajo,Atendido,35
+1352,2026-02-10,Alto,Finalizado,78
+1353,2025-12-31,Alto,Atendido,67
+1354,2026-03-06,Alto,Atendido,83
+1355,2026-06-22,Moderado,En seguimiento,53
+1356,2025-12-26,Bajo,Pendiente,18
+1357,2026-05-03,Crítico,En seguimiento,87
+1358,2026-03-29,Bajo,Atendido,18
+1359,2026-04-04,Moderado,Finalizado,60
+1360,2026-05-23,Moderado,En seguimiento,64
+1361,2025-07-10,Moderado,Atendido,60
+1362,2026-05-14,Bajo,Finalizado,31
+1363,2026-04-02,Alto,En seguimiento,82
+1364,2026-06-15,Moderado,En seguimiento,55
+1365,2025-11-22,Bajo,Atendido,13
+1366,2025-08-19,Moderado,Finalizado,37
+1367,2025-09-05,Bajo,Finalizado,16
+1368,2025-08-24,Moderado,Finalizado,37
+1369,2026-04-19,Moderado,Pendiente,57
+1370,2026-03-08,Moderado,Atendido,37
+1371,2026-01-04,Bajo,Finalizado,10
+1372,2025-10-15,Moderado,Finalizado,50
+1373,2026-05-24,Bajo,Pendiente,21
+1374,2026-06-28,Bajo,Atendido,26
+1375,2025-07-21,Alto,Atendido,68
+1376,2025-10-19,Crítico,Finalizado,87
+1377,2025-10-27,Moderado,En seguimiento,42
+1378,2026-03-27,Moderado,En seguimiento,53
+1379,2026-04-12,Moderado,Finalizado,60
+1380,2026-05-23,Moderado,Pendiente,58
+1381,2026-06-06,Moderado,Finalizado,41
+1382,2025-10-01,Moderado,Atendido,57
+1383,2025-09-19,Moderado,Pendiente,65
+1384,2025-12-28,Crítico,Atendido,99
+1385,2026-01-07,Moderado,Pendiente,62
+1386,2025-12-13,Moderado,En seguimiento,48
+1387,2026-04-08,Crítico,Atendido,91
+1388,2026-02-17,Moderado,Pendiente,36
+1389,2025-07-18,Crítico,Finalizado,94
+1390,2025-09-08,Crítico,Atendido,86
+1391,2025-12-01,Crítico,En seguimiento,99
+1392,2025-12-09,Bajo,Atendido,27
+1393,2026-03-19,Moderado,En seguimiento,39
+1394,2025-07-20,Moderado,En seguimiento,40
+1395,2025-11-13,Moderado,En seguimiento,43
+1396,2025-11-09,Alto,Finalizado,84
+1397,2026-01-21,Moderado,En seguimiento,59
+1398,2025-08-09,Alto,Pendiente,71
+1399,2026-03-07,Alto,Finalizado,85
+1400,2026-05-25,Bajo,Pendiente,12
+1401,2025-07-29,Crítico,Atendido,91
+1402,2026-02-08,Moderado,Finalizado,63
+1403,2025-10-25,Alto,Finalizado,78
+1404,2025-07-28,Bajo,Finalizado,20
+1405,2026-04-03,Moderado,Atendido,52
+1406,2026-06-23,Bajo,Finalizado,31
+1407,2026-01-18,Crítico,Finalizado,89
+1408,2026-02-07,Bajo,Pendiente,14
+1409,2025-09-06,Bajo,Pendiente,28
+1410,2025-07-26,Moderado,Atendido,38
+1411,2026-01-21,Moderado,En seguimiento,60
+1412,2025-09-08,Moderado,En seguimiento,51
+1413,2026-01-19,Moderado,En seguimiento,53
+1414,2026-05-12,Crítico,En seguimiento,89
+1415,2025-08-06,Bajo,Pendiente,20
+1416,2026-06-16,Crítico,Finalizado,87
+1417,2026-06-09,Moderado,Atendido,47
+1418,2025-10-06,Bajo,Finalizado,34
+1419,2025-12-04,Bajo,Atendido,29
+1420,2026-02-12,Moderado,Pendiente,37
+1421,2025-10-28,Bajo,Atendido,14
+1422,2025-08-13,Bajo,Finalizado,17
+1423,2026-05-14,Crítico,Atendido,86
+1424,2025-12-23,Moderado,Finalizado,45
+1425,2026-02-16,Moderado,Atendido,42
+1426,2026-04-02,Bajo,Atendido,27
+1427,2026-03-05,Moderado,En seguimiento,58
+1428,2026-06-23,Moderado,Pendiente,54
+1429,2026-06-05,Moderado,Atendido,41
+1430,2025-07-31,Bajo,Atendido,11
+1431,2026-02-24,Moderado,Finalizado,38
+1432,2026-01-15,Moderado,Atendido,63
+1433,2025-08-25,Bajo,Pendiente,17
+1434,2026-01-11,Moderado,Finalizado,64
+1435,2025-12-09,Moderado,Finalizado,41
+1436,2025-10-10,Moderado,Pendiente,53
+1437,2026-06-30,Bajo,En seguimiento,26
+1438,2025-12-04,Bajo,Pendiente,33
+1439,2025-09-19,Bajo,Atendido,21
+1440,2026-05-17,Bajo,Atendido,35
+1441,2025-08-01,Moderado,Pendiente,64
+1442,2025-07-16,Crítico,Atendido,89
+1443,2025-09-16,Bajo,Pendiente,31
+1444,2025-09-09,Bajo,Pendiente,26
+1445,2026-06-13,Moderado,En seguimiento,49
+1446,2025-11-01,Moderado,Pendiente,45
+1447,2026-05-06,Bajo,En seguimiento,16
+1448,2026-05-31,Bajo,En seguimiento,14
+1449,2025-12-06,Moderado,En seguimiento,49
+1450,2025-09-13,Moderado,En seguimiento,46
+1451,2025-08-04,Moderado,Finalizado,41
+1452,2025-12-10,Alto,En seguimiento,66
+1453,2025-12-11,Alto,Pendiente,79
+1454,2025-12-03,Moderado,Atendido,40
+1455,2025-10-05,Bajo,En seguimiento,10
+1456,2026-05-10,Moderado,En seguimiento,55
+1457,2025-10-27,Bajo,Finalizado,21
+1458,2025-08-10,Moderado,Pendiente,40
+1459,2026-03-15,Alto,Pendiente,77
+1460,2025-10-03,Alto,Pendiente,81
+1461,2025-09-09,Bajo,En seguimiento,11
+1462,2026-01-26,Alto,Finalizado,74
+1463,2026-01-28,Bajo,En seguimiento,34
+1464,2025-10-13,Bajo,Pendiente,29
+1465,2026-03-08,Moderado,Pendiente,64
+1466,2025-11-04,Moderado,Finalizado,55
+1467,2026-01-11,Alto,Pendiente,85
+1468,2026-04-19,Moderado,Finalizado,52
+1469,2025-08-25,Moderado,Finalizado,64
+1470,2025-11-03,Moderado,Pendiente,59
+1471,2025-07-21,Moderado,Finalizado,42
+1472,2025-11-27,Moderado,Atendido,60
+1473,2025-11-24,Moderado,Pendiente,45
+1474,2026-05-10,Crítico,En seguimiento,93
+1475,2026-05-27,Moderado,Finalizado,41
+1476,2026-04-26,Crítico,En seguimiento,92
+1477,2026-01-28,Bajo,Finalizado,15
+1478,2026-02-18,Moderado,En seguimiento,64
+1479,2026-02-18,Bajo,Atendido,32
+1480,2026-05-29,Crítico,En seguimiento,97
+1481,2025-09-02,Bajo,Pendiente,30
+1482,2026-01-02,Bajo,Pendiente,33
+1483,2026-03-19,Moderado,En seguimiento,48
+1484,2026-04-08,Moderado,En seguimiento,65
+1485,2025-12-19,Moderado,En seguimiento,41
+1486,2025-09-13,Bajo,Finalizado,23
+1487,2025-12-05,Bajo,Pendiente,19
+1488,2026-05-17,Bajo,En seguimiento,16
+1489,2025-07-02,Moderado,Atendido,36
+1490,2026-02-20,Moderado,Pendiente,53
+1491,2025-07-03,Moderado,Pendiente,43
+1492,2025-10-20,Moderado,Pendiente,50
+1493,2026-01-26,Moderado,Finalizado,43
+1494,2026-04-07,Bajo,En seguimiento,11
+1495,2025-10-03,Bajo,Atendido,11
+1496,2025-09-13,Alto,Atendido,76
+1497,2025-08-14,Bajo,Pendiente,15
+1498,2025-09-21,Moderado,En seguimiento,50
+1499,2026-04-23,Moderado,Finalizado,38
+1500,2025-12-01,Bajo,Pendiente,12
+1501,2026-02-04,Alto,Finalizado,75
+1502,2026-02-27,Bajo,Atendido,20
+1503,2026-03-27,Moderado,En seguimiento,58
+1504,2025-10-16,Moderado,Finalizado,54
+1505,2026-05-19,Moderado,Finalizado,51
+1506,2026-06-18,Moderado,Atendido,49
+1507,2026-05-08,Alto,Atendido,82
+1508,2026-04-21,Crítico,Atendido,100
+1509,2025-09-05,Moderado,Pendiente,52
+1510,2026-05-20,Moderado,En seguimiento,64
+1511,2026-05-09,Bajo,Atendido,16
+1512,2025-07-01,Bajo,Pendiente,30
+1513,2025-08-30,Alto,En seguimiento,85
+1514,2026-01-29,Moderado,Atendido,47
+1515,2026-04-13,Alto,En seguimiento,66
+1516,2026-05-24,Bajo,Atendido,18
+1517,2025-08-04,Bajo,Atendido,34
+1518,2025-07-04,Bajo,Atendido,20
+1519,2026-01-19,Alto,Finalizado,71
+1520,2025-10-08,Bajo,Atendido,31
+1521,2026-03-03,Crítico,Finalizado,96
+1522,2025-09-08,Moderado,Pendiente,64
+1523,2026-04-01,Alto,Pendiente,79
+1524,2025-07-29,Alto,Atendido,84
+1525,2026-06-13,Bajo,Finalizado,16
+1526,2026-04-22,Moderado,Atendido,38
+1527,2025-09-15,Bajo,Finalizado,20
+1528,2026-01-09,Moderado,En seguimiento,54
+1529,2026-05-07,Moderado,Finalizado,63
+1530,2025-12-05,Alto,Atendido,67
+1531,2025-11-17,Moderado,Pendiente,64
+1532,2025-10-30,Moderado,Atendido,42
+1533,2026-03-26,Bajo,Finalizado,21
+1534,2025-07-20,Alto,Finalizado,80
+1535,2026-03-17,Bajo,Pendiente,26
+1536,2025-09-17,Bajo,Pendiente,33
+1537,2026-03-26,Bajo,Atendido,14
+1538,2025-08-20,Alto,En seguimiento,72
+1539,2025-07-19,Moderado,Finalizado,36
+1540,2025-12-07,Crítico,Finalizado,91
+1541,2026-02-25,Alto,Finalizado,82
+1542,2026-06-03,Alto,Finalizado,84
+1543,2025-12-07,Moderado,En seguimiento,46
+1544,2025-10-11,Bajo,Atendido,27
+1545,2025-12-11,Alto,Finalizado,74
+1546,2025-09-15,Bajo,Finalizado,10
+1547,2026-05-15,Moderado,Finalizado,42
+1548,2026-04-04,Moderado,Atendido,44
+1549,2025-09-11,Crítico,Atendido,95
+1550,2025-11-03,Bajo,Atendido,29
+1551,2025-12-21,Moderado,Finalizado,40
+1552,2025-07-15,Moderado,Finalizado,39
+1553,2026-01-13,Bajo,Pendiente,22
+1554,2025-09-30,Alto,Pendiente,85
+1555,2025-12-30,Bajo,En seguimiento,32
+1556,2026-06-09,Alto,Finalizado,80
+1557,2026-04-17,Bajo,Pendiente,13
+1558,2026-02-19,Bajo,Pendiente,25
+1559,2025-10-27,Crítico,En seguimiento,99
+1560,2026-05-12,Bajo,Atendido,22
+1561,2025-10-02,Moderado,Atendido,61
+1562,2025-12-14,Moderado,Finalizado,38
+1563,2026-03-01,Bajo,Pendiente,24
+1564,2025-09-26,Bajo,Atendido,29
+1565,2026-04-21,Bajo,Finalizado,22
+1566,2025-08-24,Bajo,Finalizado,35
+1567,2025-12-02,Moderado,Pendiente,54
+1568,2026-01-28,Bajo,En seguimiento,27
+1569,2025-09-20,Crítico,Pendiente,87
+1570,2025-12-22,Bajo,Pendiente,35
+1571,2026-02-08,Moderado,Atendido,53
+1572,2026-06-21,Bajo,Finalizado,33
+1573,2026-06-30,Moderado,Pendiente,39
+1574,2026-04-30,Moderado,Atendido,53
+1575,2025-08-19,Alto,En seguimiento,75
+1576,2026-01-24,Bajo,Finalizado,31
+1577,2026-05-02,Alto,Pendiente,76
+1578,2026-03-11,Moderado,Finalizado,38
+1579,2025-10-20,Alto,Finalizado,70
+1580,2026-06-04,Bajo,Atendido,22
+1581,2026-05-12,Moderado,En seguimiento,42
+1582,2026-06-14,Alto,Atendido,84
+1583,2026-06-13,Bajo,Pendiente,32
+1584,2025-12-24,Crítico,Finalizado,95
+1585,2026-03-19,Moderado,En seguimiento,63
+1586,2025-11-28,Bajo,Finalizado,10
+1587,2026-06-26,Moderado,Atendido,39
+1588,2025-11-22,Alto,En seguimiento,79
+1589,2026-06-25,Moderado,Atendido,58
+1590,2026-01-12,Moderado,Pendiente,53
+1591,2025-10-17,Moderado,Pendiente,40
+1592,2025-10-05,Moderado,Atendido,62
+1593,2026-01-30,Bajo,En seguimiento,14
+1594,2025-07-06,Bajo,Finalizado,14
+1595,2026-03-07,Moderado,En seguimiento,38
+1596,2025-09-09,Moderado,Pendiente,63
+1597,2026-02-19,Alto,Pendiente,85
+1598,2025-10-01,Moderado,Pendiente,53
+1599,2026-02-16,Moderado,En seguimiento,41
+1600,2026-02-03,Moderado,Pendiente,63
+1601,2025-10-30,Alto,Atendido,79
+1602,2026-04-06,Moderado,Finalizado,37
+1603,2026-04-17,Moderado,Atendido,39
+1604,2026-04-24,Moderado,Finalizado,40
+1605,2026-03-27,Crítico,Atendido,93
+1606,2026-03-22,Bajo,Finalizado,17
+1607,2026-02-27,Moderado,Finalizado,57
+1608,2026-05-21,Moderado,Atendido,55
+1609,2025-07-28,Crítico,Finalizado,93
+1610,2026-02-18,Moderado,Pendiente,54
+1611,2025-12-17,Moderado,Atendido,45
+1612,2025-09-24,Bajo,Atendido,33
+1613,2026-04-15,Bajo,Pendiente,28
+1614,2025-09-25,Moderado,Atendido,61
+1615,2026-05-16,Bajo,Pendiente,12
+1616,2025-09-03,Moderado,Atendido,44
+1617,2025-09-06,Moderado,Atendido,63
+1618,2025-11-09,Bajo,Finalizado,29
+1619,2025-09-28,Crítico,En seguimiento,96
+1620,2026-02-14,Moderado,En seguimiento,44
+1621,2026-06-24,Bajo,En seguimiento,35
+1622,2026-03-28,Alto,Atendido,68
+1623,2025-09-13,Moderado,En seguimiento,62
+1624,2026-03-11,Alto,Pendiente,78
+1625,2025-10-30,Moderado,En seguimiento,42
+1626,2026-04-22,Alto,Atendido,67
+1627,2026-05-25,Bajo,Finalizado,11
+1628,2025-09-24,Moderado,Pendiente,45
+1629,2026-03-01,Alto,En seguimiento,78
+1630,2026-06-15,Alto,Pendiente,74
+1631,2025-09-13,Moderado,Pendiente,36
+1632,2025-11-25,Crítico,Pendiente,92
+1633,2026-06-13,Bajo,Finalizado,13
+1634,2026-03-30,Moderado,Pendiente,55
+1635,2026-05-30,Alto,Atendido,74
+1636,2025-11-14,Alto,Atendido,84
+1637,2026-01-17,Moderado,En seguimiento,59
+1638,2026-06-10,Moderado,En seguimiento,52
+1639,2025-12-20,Moderado,En seguimiento,46
+1640,2026-04-07,Bajo,Finalizado,12
+1641,2025-07-07,Moderado,Finalizado,57
+1642,2026-02-14,Moderado,Atendido,44
+1643,2025-10-07,Bajo,Finalizado,11
+1644,2026-05-01,Moderado,En seguimiento,55
+1645,2026-05-23,Bajo,Finalizado,12
+1646,2026-05-06,Bajo,En seguimiento,13
+1647,2026-06-22,Bajo,Atendido,24
+1648,2026-06-04,Crítico,Pendiente,100
+1649,2025-11-19,Alto,Atendido,74
+1650,2025-09-21,Alto,Atendido,67
+1651,2026-01-12,Moderado,Finalizado,44
+1652,2025-11-13,Bajo,Finalizado,25
+1653,2025-10-11,Moderado,En seguimiento,56
+1654,2026-03-09,Bajo,Pendiente,16
+1655,2026-05-11,Moderado,Pendiente,58
+1656,2025-11-10,Bajo,Finalizado,12
+1657,2026-04-19,Alto,Pendiente,66
+1658,2026-03-12,Bajo,Finalizado,11
+1659,2026-06-06,Moderado,En seguimiento,58
+1660,2025-12-16,Crítico,Finalizado,94
+1661,2026-06-28,Crítico,Pendiente,93
+1662,2026-02-09,Moderado,Finalizado,53
+1663,2025-10-24,Bajo,Pendiente,13
+1664,2026-04-17,Moderado,Atendido,46
+1665,2026-06-15,Bajo,Finalizado,30
+1666,2026-05-28,Bajo,Atendido,12
+1667,2026-02-21,Alto,Atendido,72
+1668,2025-09-29,Moderado,Pendiente,57
+1669,2025-10-06,Bajo,Pendiente,13
+1670,2026-05-19,Moderado,Pendiente,38
+1671,2026-05-20,Moderado,En seguimiento,40
+1672,2025-07-19,Bajo,En seguimiento,25
+1673,2026-01-16,Bajo,Atendido,25
+1674,2026-03-31,Crítico,Pendiente,86
+1675,2025-07-19,Bajo,Atendido,35
+1676,2025-07-22,Moderado,En seguimiento,61
+1677,2026-05-31,Moderado,Pendiente,57
+1678,2026-04-01,Bajo,En seguimiento,12
+1679,2025-07-19,Alto,Pendiente,66
+1680,2026-02-27,Crítico,Finalizado,89
+1681,2026-06-25,Moderado,Finalizado,41
+1682,2026-05-20,Bajo,Atendido,35
+1683,2025-08-19,Moderado,En seguimiento,62
+1684,2026-04-29,Bajo,Finalizado,13
+1685,2026-03-12,Moderado,En seguimiento,38
+1686,2025-10-12,Moderado,Pendiente,46
+1687,2025-08-31,Crítico,En seguimiento,91
+1688,2025-10-18,Alto,En seguimiento,76
+1689,2025-08-02,Bajo,En seguimiento,34
+1690,2026-01-29,Bajo,Atendido,27
+1691,2025-09-23,Moderado,Finalizado,40
+1692,2025-08-21,Alto,Pendiente,71
+1693,2025-07-09,Alto,Finalizado,66
+1694,2025-07-04,Bajo,Finalizado,32
+1695,2026-05-30,Moderado,Atendido,49
+1696,2026-06-21,Alto,Pendiente,70
+1697,2025-10-14,Bajo,Atendido,26
+1698,2026-02-16,Moderado,En seguimiento,55
+1699,2026-06-20,Bajo,En seguimiento,32
+1700,2026-03-13,Moderado,Finalizado,56
+1701,2025-12-02,Bajo,Finalizado,27
+1702,2025-10-29,Bajo,Finalizado,29
+1703,2026-01-02,Alto,En seguimiento,80
+1704,2026-05-17,Moderado,Atendido,37
+1705,2025-10-08,Bajo,En seguimiento,31
+1706,2026-02-28,Moderado,En seguimiento,57
+1707,2025-07-23,Bajo,Atendido,19
+1708,2025-10-16,Moderado,Atendido,55
+1709,2026-02-18,Bajo,Finalizado,27
+1710,2025-09-29,Bajo,Finalizado,25
+1711,2026-03-21,Bajo,En seguimiento,33
+1712,2026-02-13,Moderado,Atendido,49
+1713,2025-10-10,Alto,Atendido,73
+1714,2025-08-26,Bajo,Finalizado,17
+1715,2026-01-28,Alto,Pendiente,73
+1716,2025-08-07,Moderado,Pendiente,37
+1717,2026-02-09,Bajo,Pendiente,15
+1718,2026-01-15,Moderado,Pendiente,59
+1719,2025-10-08,Moderado,Atendido,42
+1720,2025-12-19,Bajo,Finalizado,18
+1721,2025-09-08,Bajo,Pendiente,24
+1722,2026-01-31,Bajo,Atendido,17
+1723,2025-11-29,Moderado,En seguimiento,54
+1724,2026-04-10,Alto,Finalizado,79
+1725,2026-03-25,Moderado,En seguimiento,54
+1726,2026-02-28,Alto,Atendido,66
+1727,2026-02-05,Alto,En seguimiento,73
+1728,2025-12-15,Moderado,En seguimiento,64
+1729,2026-04-29,Crítico,Finalizado,92
+1730,2025-07-23,Bajo,Pendiente,33
+1731,2026-03-16,Bajo,Pendiente,25
+1732,2026-06-22,Alto,Pendiente,81
+1733,2025-11-01,Bajo,Finalizado,32
+1734,2026-01-25,Crítico,En seguimiento,91
+1735,2025-11-29,Bajo,Finalizado,10
+1736,2026-03-03,Moderado,En seguimiento,58
+1737,2026-02-21,Alto,Finalizado,80
+1738,2026-02-23,Alto,Pendiente,71
+1739,2026-01-06,Moderado,Finalizado,63
+1740,2026-05-18,Bajo,Atendido,26
+1741,2025-07-17,Bajo,Atendido,32
+1742,2026-05-10,Moderado,En seguimiento,61
+1743,2026-06-16,Bajo,Atendido,33
+1744,2025-07-29,Moderado,Atendido,64
+1745,2025-07-27,Bajo,Atendido,24
+1746,2026-05-13,Bajo,Atendido,15
+1747,2026-05-28,Moderado,Finalizado,53
+1748,2026-06-29,Alto,En seguimiento,76
+1749,2025-10-31,Moderado,Pendiente,59
+1750,2026-04-24,Alto,En seguimiento,73
+1751,2025-12-12,Moderado,Atendido,52
+1752,2026-06-14,Moderado,Finalizado,38
+1753,2026-01-07,Bajo,Pendiente,26
+1754,2026-03-27,Alto,Pendiente,83
+1755,2026-06-13,Alto,Atendido,80
+1756,2026-05-14,Moderado,Finalizado,42
+1757,2026-02-20,Bajo,Pendiente,15
+1758,2025-11-25,Crítico,Finalizado,87
+1759,2025-09-23,Bajo,En seguimiento,25
+1760,2025-09-16,Alto,Finalizado,75
+1761,2026-01-30,Crítico,En seguimiento,93
+1762,2025-12-25,Moderado,Finalizado,45
+1763,2025-10-05,Bajo,En seguimiento,26
+1764,2026-05-27,Bajo,Atendido,30
+1765,2026-05-27,Alto,Pendiente,84
+1766,2026-06-06,Moderado,Pendiente,50
+1767,2025-12-03,Moderado,Atendido,41
+1768,2025-11-11,Bajo,Atendido,19
+1769,2025-07-25,Bajo,Atendido,24
+1770,2025-09-24,Moderado,En seguimiento,58
+1771,2026-04-01,Bajo,En seguimiento,32
+1772,2026-06-20,Crítico,En seguimiento,88
+1773,2025-10-30,Bajo,Atendido,28
+1774,2025-09-03,Moderado,Atendido,41
+1775,2025-10-14,Moderado,Finalizado,57
+1776,2025-12-10,Crítico,En seguimiento,91
+1777,2026-02-15,Moderado,En seguimiento,53
+1778,2025-12-02,Bajo,Finalizado,22
+1779,2026-03-13,Alto,Pendiente,76
+1780,2025-09-18,Bajo,Atendido,30
+1781,2026-06-27,Bajo,Atendido,34
+1782,2026-04-20,Moderado,Pendiente,46
+1783,2026-06-18,Bajo,Pendiente,11
+1784,2025-09-10,Moderado,Finalizado,45
+1785,2025-07-13,Moderado,En seguimiento,50
+1786,2025-12-30,Bajo,Finalizado,29
+1787,2026-05-25,Bajo,En seguimiento,35
+1788,2025-11-20,Bajo,Finalizado,27
+1789,2026-02-14,Moderado,Finalizado,52
+1790,2026-01-18,Bajo,Atendido,29
+1791,2026-05-06,Moderado,Finalizado,65
+1792,2026-06-07,Moderado,En seguimiento,58
+1793,2026-02-04,Moderado,Atendido,36
+1794,2025-11-23,Bajo,Atendido,24
+1795,2026-04-14,Bajo,Pendiente,33
+1796,2026-01-29,Alto,Atendido,71
+1797,2026-02-03,Alto,Pendiente,70
+1798,2026-04-27,Moderado,En seguimiento,42
+1799,2025-12-03,Moderado,Atendido,38
+1800,2026-04-29,Alto,Finalizado,66
+1801,2026-01-26,Moderado,Atendido,49
+1802,2025-09-28,Moderado,En seguimiento,42
+1803,2025-10-04,Alto,Atendido,83
+1804,2026-03-09,Bajo,Atendido,28
+1805,2025-12-03,Moderado,Pendiente,43
+1806,2025-07-14,Alto,En seguimiento,74
+1807,2025-12-01,Crítico,Pendiente,87
+1808,2026-05-31,Moderado,Atendido,49
+1809,2025-09-30,Moderado,En seguimiento,36
+1810,2025-08-31,Alto,Pendiente,68
+1811,2026-05-03,Alto,Pendiente,84
+1812,2026-02-09,Alto,Pendiente,69
+1813,2026-01-08,Moderado,Finalizado,63
+1814,2025-11-10,Bajo,Finalizado,14
+1815,2025-12-11,Moderado,En seguimiento,47
+1816,2025-09-22,Bajo,Atendido,23
+1817,2026-05-22,Crítico,Atendido,86
+1818,2025-11-26,Bajo,Finalizado,26
+1819,2025-10-08,Alto,En seguimiento,69
+1820,2026-05-03,Alto,Atendido,76
+1821,2026-06-16,Alto,Atendido,77
+1822,2025-08-19,Moderado,Atendido,62
+1823,2025-09-12,Bajo,Atendido,21
+1824,2026-03-06,Moderado,En seguimiento,39
+1825,2025-10-20,Bajo,En seguimiento,16
+1826,2026-04-13,Moderado,Finalizado,49
+1827,2026-02-21,Crítico,Finalizado,99
+1828,2025-09-06,Crítico,Pendiente,91
+1829,2025-12-07,Moderado,En seguimiento,62
+1830,2026-02-12,Alto,Atendido,71
+1831,2026-06-29,Bajo,Finalizado,17
+1832,2025-09-04,Alto,En seguimiento,73
+1833,2025-12-05,Bajo,En seguimiento,12
+1834,2026-02-03,Moderado,Finalizado,38
+1835,2025-07-10,Alto,Pendiente,67
+1836,2025-10-09,Bajo,Finalizado,25
+1837,2025-08-30,Crítico,Finalizado,87
+1838,2025-12-02,Moderado,Finalizado,61
+1839,2025-09-02,Crítico,En seguimiento,95
+1840,2025-10-11,Bajo,Atendido,10
+1841,2025-08-16,Bajo,Atendido,28
+1842,2025-12-26,Moderado,En seguimiento,52
+1843,2026-04-18,Bajo,Finalizado,26
+1844,2025-10-20,Alto,Atendido,71
+1845,2026-04-02,Bajo,Finalizado,16
+1846,2026-03-16,Alto,Pendiente,77
+1847,2026-06-23,Moderado,Pendiente,57
+1848,2025-08-24,Bajo,Atendido,22
+1849,2026-02-03,Bajo,En seguimiento,23
+1850,2025-08-27,Alto,Atendido,69
+1851,2026-02-24,Bajo,En seguimiento,25
+1852,2026-01-01,Alto,Finalizado,68
+1853,2025-12-15,Moderado,Pendiente,45
+1854,2026-02-19,Moderado,Atendido,57
+1855,2026-02-13,Bajo,Pendiente,19
+1856,2026-02-05,Bajo,Finalizado,35
+1857,2026-03-01,Crítico,Atendido,88
+1858,2025-07-07,Crítico,Pendiente,96
+1859,2025-08-23,Moderado,Finalizado,39
+1860,2025-09-12,Moderado,Finalizado,59
+1861,2025-09-25,Bajo,En seguimiento,20
+1862,2025-10-11,Moderado,Pendiente,39
+1863,2025-10-28,Alto,Pendiente,74
+1864,2026-04-24,Moderado,Pendiente,47
+1865,2026-03-01,Moderado,Pendiente,51
+1866,2026-03-19,Bajo,Pendiente,13
+1867,2025-09-01,Bajo,Pendiente,17
+1868,2026-05-18,Crítico,Finalizado,87
+1869,2025-07-28,Alto,Pendiente,66
+1870,2025-09-30,Moderado,Atendido,40
+1871,2025-12-03,Moderado,Finalizado,60
+1872,2025-08-09,Moderado,Pendiente,61
+1873,2026-02-24,Bajo,Pendiente,25
+1874,2026-03-16,Bajo,Atendido,35
+1875,2026-04-03,Moderado,Finalizado,49
+1876,2025-08-30,Moderado,Atendido,63
+1877,2026-01-09,Moderado,Finalizado,37
+1878,2025-09-29,Moderado,Atendido,64
+1879,2026-06-27,Bajo,Pendiente,14
+1880,2025-12-07,Alto,Pendiente,69
+1881,2026-04-18,Moderado,Pendiente,51
+1882,2026-04-14,Alto,Finalizado,78
+1883,2025-11-12,Moderado,Pendiente,55
+1884,2026-06-12,Moderado,Atendido,46
+1885,2025-08-01,Bajo,Finalizado,14
+1886,2026-01-04,Bajo,Finalizado,34
+1887,2026-05-17,Bajo,Finalizado,23
+1888,2025-12-24,Crítico,Pendiente,91
+1889,2025-07-29,Moderado,En seguimiento,43
+1890,2026-05-28,Bajo,Finalizado,32
+1891,2025-08-03,Alto,Finalizado,76
+1892,2025-09-25,Bajo,Atendido,11
+1893,2026-02-21,Moderado,Pendiente,54
+1894,2026-03-21,Crítico,Atendido,86
+1895,2026-06-22,Moderado,Finalizado,46
+1896,2026-01-10,Moderado,Atendido,54
+1897,2025-08-20,Alto,Finalizado,72
+1898,2025-12-20,Moderado,Atendido,41
+1899,2026-05-11,Bajo,Pendiente,16
+1900,2026-03-12,Moderado,Finalizado,62
+1901,2026-04-01,Bajo,Atendido,11
+1902,2025-11-30,Crítico,Pendiente,98
+1903,2025-10-24,Moderado,Finalizado,58
+1904,2026-04-23,Bajo,Atendido,18
+1905,2025-08-04,Moderado,Pendiente,49
+1906,2025-10-16,Bajo,Finalizado,30
+1907,2025-12-02,Moderado,Atendido,49
+1908,2026-06-05,Moderado,En seguimiento,49
+1909,2026-01-22,Bajo,Pendiente,31
+1910,2026-04-07,Bajo,Finalizado,30
+1911,2026-06-26,Moderado,En seguimiento,54
+1912,2026-03-13,Bajo,Pendiente,18
+1913,2026-05-23,Moderado,Pendiente,65
+1914,2026-04-16,Alto,Finalizado,82
+1915,2025-10-11,Moderado,En seguimiento,43
+1916,2025-09-16,Alto,Atendido,79
+1917,2026-01-27,Bajo,Finalizado,30
+1918,2025-10-13,Alto,Atendido,75
+1919,2026-05-27,Bajo,En seguimiento,22
+1920,2025-10-31,Bajo,En seguimiento,10
+1921,2025-11-03,Alto,Atendido,80
+1922,2026-03-06,Moderado,Pendiente,49
+1923,2026-05-28,Crítico,En seguimiento,88
+1924,2025-11-17,Bajo,Atendido,35
+1925,2025-11-20,Moderado,En seguimiento,56
+1926,2025-07-22,Crítico,Pendiente,98
+1927,2025-07-11,Bajo,Finalizado,20
+1928,2026-05-05,Bajo,Finalizado,23
+1929,2026-01-03,Moderado,Finalizado,48
+1930,2025-09-10,Bajo,Finalizado,26
+1931,2026-06-06,Alto,Atendido,81
+1932,2025-08-16,Bajo,Finalizado,34
+1933,2025-12-08,Bajo,Pendiente,35
+1934,2025-10-29,Crítico,En seguimiento,88
+1935,2025-08-24,Bajo,Atendido,24
+1936,2026-01-26,Bajo,Finalizado,25
+1937,2026-03-31,Moderado,Finalizado,46
+1938,2026-04-06,Moderado,En seguimiento,44
+1939,2025-09-13,Moderado,Atendido,62
+1940,2025-12-05,Bajo,Finalizado,33
+1941,2026-06-05,Alto,Finalizado,73
+1942,2025-11-07,Moderado,Atendido,56
+1943,2026-06-24,Moderado,Finalizado,53
+1944,2025-10-30,Alto,Pendiente,66
+1945,2026-01-18,Crítico,Atendido,90
+1946,2025-08-16,Crítico,En seguimiento,90
+1947,2025-10-16,Alto,En seguimiento,80
+1948,2026-05-20,Bajo,Pendiente,35
+1949,2025-07-18,Bajo,Finalizado,34
+1950,2026-03-09,Moderado,Pendiente,65
+1951,2025-12-18,Alto,Finalizado,71
+1952,2026-06-23,Bajo,Finalizado,21
+1953,2026-02-01,Moderado,Atendido,50
+1954,2026-06-21,Bajo,Finalizado,30
+1955,2026-05-25,Bajo,Pendiente,35
+1956,2026-05-25,Bajo,Pendiente,16
+1957,2026-05-18,Bajo,Finalizado,13
+1958,2025-09-19,Bajo,En seguimiento,29
+1959,2026-06-17,Moderado,Atendido,50
+1960,2026-03-02,Alto,En seguimiento,74
+1961,2025-09-27,Moderado,Atendido,61
+1962,2025-11-22,Bajo,Pendiente,21
+1963,2025-10-02,Moderado,Pendiente,62
+1964,2026-04-19,Bajo,Finalizado,27
+1965,2026-05-28,Moderado,En seguimiento,65
+1966,2025-08-15,Crítico,En seguimiento,90
+1967,2026-06-25,Alto,Finalizado,78
+1968,2026-05-13,Moderado,Atendido,40
+1969,2025-08-15,Crítico,En seguimiento,95
+1970,2025-08-30,Bajo,Pendiente,34
+1971,2026-02-18,Alto,Pendiente,69
+1972,2025-10-23,Alto,En seguimiento,74
+1973,2025-11-25,Alto,Pendiente,70
+1974,2026-02-06,Alto,En seguimiento,75
+1975,2026-06-12,Bajo,En seguimiento,23
+1976,2025-09-13,Bajo,Atendido,17
+1977,2026-05-13,Moderado,En seguimiento,47
+1978,2026-04-25,Moderado,Pendiente,38
+1979,2025-07-06,Moderado,Atendido,58
+1980,2026-01-20,Moderado,Pendiente,58
+1981,2026-02-02,Alto,Atendido,68
+1982,2025-08-18,Moderado,Finalizado,46
+1983,2025-10-29,Moderado,Atendido,55
+1984,2026-06-09,Crítico,Finalizado,86
+1985,2025-11-07,Moderado,Pendiente,45
+1986,2026-01-19,Moderado,En seguimiento,64
+1987,2026-04-13,Bajo,En seguimiento,18
+1988,2025-09-25,Moderado,Atendido,64
+1989,2026-02-25,Bajo,Atendido,32
+1990,2026-03-29,Moderado,Atendido,39
+1991,2025-12-08,Bajo,En seguimiento,25
+1992,2025-11-21,Alto,Pendiente,75
+1993,2025-11-12,Moderado,Atendido,52
+1994,2025-12-08,Moderado,En seguimiento,46
+1995,2026-03-09,Alto,En seguimiento,83
+1996,2026-06-02,Moderado,Pendiente,37
+1997,2025-10-05,Bajo,En seguimiento,15
+1998,2025-07-19,Moderado,En seguimiento,58
+1999,2026-02-25,Moderado,Pendiente,37
+2000,2026-02-12,Moderado,Pendiente,50
+2001,2026-03-10,Bajo,En seguimiento,13
+2002,2025-12-26,Bajo,Atendido,15
+2003,2025-09-25,Alto,Atendido,84
+2004,2026-06-05,Moderado,Finalizado,52
+2005,2026-04-19,Bajo,Finalizado,17
+2006,2026-03-13,Moderado,Atendido,36
+2007,2025-11-23,Moderado,Finalizado,48
+2008,2026-01-08,Moderado,Finalizado,62
+2009,2025-12-13,Bajo,Finalizado,24
+2010,2026-06-28,Moderado,Pendiente,56
+2011,2025-11-15,Moderado,Finalizado,46
+2012,2025-07-23,Moderado,Pendiente,46
+2013,2026-04-18,Bajo,Finalizado,35
+2014,2026-05-26,Bajo,Finalizado,33
+2015,2025-08-06,Moderado,Pendiente,38
+2016,2026-01-21,Bajo,En seguimiento,34
+2017,2026-01-21,Bajo,En seguimiento,15
+2018,2026-01-15,Alto,Atendido,70
+2019,2025-08-31,Bajo,Pendiente,33
+2020,2025-12-06,Crítico,En seguimiento,91
+2021,2026-06-06,Bajo,Atendido,26
+2022,2025-10-11,Moderado,Pendiente,51
+2023,2025-11-15,Moderado,Pendiente,38
+2024,2026-02-02,Alto,En seguimiento,79
+2025,2026-05-19,Moderado,Finalizado,52
+2026,2025-12-22,Crítico,En seguimiento,96
+2027,2026-06-17,Alto,Pendiente,82
+2028,2026-05-19,Moderado,Finalizado,45
+2029,2026-02-25,Moderado,Pendiente,45
+2030,2025-09-15,Crítico,Atendido,99
+2031,2025-11-05,Moderado,Atendido,54
+2032,2025-07-25,Moderado,Finalizado,52
+2033,2025-08-25,Moderado,Pendiente,39
+2034,2026-02-23,Moderado,Atendido,47
+2035,2025-11-08,Moderado,Finalizado,39
+2036,2026-06-04,Moderado,En seguimiento,62
+2037,2026-01-18,Bajo,Pendiente,32
+2038,2025-11-30,Bajo,Pendiente,34
+2039,2026-06-09,Moderado,Atendido,46
+2040,2025-10-04,Bajo,Finalizado,33
+2041,2026-05-06,Bajo,Finalizado,23
+2042,2026-03-31,Bajo,Pendiente,13
+2043,2025-07-07,Bajo,Pendiente,24
+2044,2026-06-20,Moderado,Pendiente,45
+2045,2026-05-13,Alto,Atendido,78
+2046,2025-12-02,Bajo,En seguimiento,10
+2047,2025-10-06,Bajo,Finalizado,32
+2048,2025-10-05,Alto,En seguimiento,81
+2049,2026-05-29,Bajo,En seguimiento,23
+2050,2026-05-17,Alto,En seguimiento,68
+2051,2025-12-02,Alto,En seguimiento,81
+2052,2026-02-02,Bajo,En seguimiento,14
+2053,2026-06-25,Moderado,Pendiente,51
+2054,2025-07-11,Alto,En seguimiento,72
+2055,2025-11-28,Moderado,Pendiente,37
+2056,2025-12-18,Bajo,Pendiente,23
+2057,2026-03-11,Alto,Atendido,67
+2058,2026-03-07,Moderado,Pendiente,43
+2059,2025-08-01,Moderado,Pendiente,54
+2060,2025-12-09,Moderado,Atendido,64
+2061,2026-05-28,Moderado,Pendiente,39
+2062,2026-03-11,Moderado,Atendido,50
+2063,2026-06-23,Moderado,En seguimiento,45
+2064,2025-10-07,Moderado,Pendiente,43
+2065,2026-03-17,Bajo,Atendido,29
+2066,2026-06-02,Moderado,Atendido,59
+2067,2026-06-30,Moderado,Pendiente,62
+2068,2026-06-10,Moderado,Atendido,61
+2069,2026-02-27,Alto,En seguimiento,85
+2070,2025-10-15,Bajo,Finalizado,31
+2071,2026-03-05,Bajo,En seguimiento,15
+2072,2026-05-07,Moderado,Pendiente,51
+2073,2025-12-03,Bajo,Finalizado,10
+2074,2025-12-31,Alto,Atendido,71
+2075,2025-09-28,Alto,Finalizado,68
+2076,2025-12-20,Moderado,En seguimiento,39
+2077,2026-04-14,Bajo,Atendido,20
+2078,2025-12-29,Alto,Atendido,70
+2079,2026-06-19,Alto,Finalizado,67
+2080,2026-02-10,Alto,Finalizado,69
+2081,2026-05-09,Moderado,Finalizado,62
+2082,2026-04-14,Bajo,Finalizado,15
+2083,2026-05-19,Bajo,En seguimiento,21
+2084,2025-09-19,Alto,Pendiente,82
+2085,2026-03-13,Alto,Finalizado,70
+2086,2026-05-28,Moderado,En seguimiento,39
+2087,2025-10-12,Moderado,Pendiente,60
+2088,2025-07-04,Bajo,Pendiente,20
+2089,2025-11-24,Moderado,Finalizado,44
+2090,2026-01-07,Alto,Pendiente,77
+2091,2026-05-19,Moderado,En seguimiento,60
+2092,2026-03-29,Moderado,En seguimiento,40
+2093,2026-02-05,Moderado,Pendiente,64
+2094,2026-02-20,Crítico,Atendido,86
+2095,2026-02-12,Bajo,Finalizado,32
+2096,2026-03-22,Crítico,Finalizado,91
+2097,2025-12-09,Moderado,En seguimiento,49
+2098,2025-08-01,Moderado,Finalizado,57
+2099,2026-05-25,Bajo,Finalizado,30
+2100,2026-06-04,Alto,Atendido,79
+2101,2026-01-22,Alto,Atendido,76
+2102,2025-12-24,Bajo,Atendido,26
+2103,2026-05-09,Crítico,Pendiente,93
+2104,2026-05-26,Bajo,Pendiente,32
+2105,2025-12-24,Alto,Pendiente,72
+2106,2025-12-02,Bajo,Atendido,22
+2107,2025-09-03,Moderado,Atendido,42
+2108,2025-08-17,Moderado,Atendido,52
+2109,2025-12-22,Alto,En seguimiento,66
+2110,2025-07-15,Alto,Atendido,73
+2111,2025-12-03,Alto,Finalizado,67
+2112,2026-01-07,Bajo,Atendido,13
+2113,2025-07-25,Alto,Finalizado,80
+2114,2025-11-30,Moderado,Finalizado,50
+2115,2025-12-21,Crítico,En seguimiento,91
+2116,2025-12-01,Bajo,En seguimiento,32
+2117,2026-01-10,Moderado,En seguimiento,39
+2118,2025-12-15,Moderado,En seguimiento,62
+2119,2026-01-01,Moderado,En seguimiento,58
+2120,2026-02-03,Alto,Finalizado,68
+2121,2025-08-01,Moderado,En seguimiento,51
+2122,2025-10-18,Moderado,Atendido,57
+2123,2026-03-27,Moderado,Pendiente,63
+2124,2025-11-13,Moderado,Pendiente,50
+2125,2026-06-18,Crítico,Pendiente,97
+2126,2026-01-30,Alto,En seguimiento,82
+2127,2025-09-04,Moderado,Pendiente,40
+2128,2026-06-26,Moderado,Finalizado,58
+2129,2025-10-17,Moderado,Finalizado,59
+2130,2025-09-19,Crítico,Atendido,100
+2131,2025-08-30,Moderado,Pendiente,39
+2132,2025-08-31,Moderado,Atendido,37
+2133,2026-03-25,Bajo,Atendido,19
+2134,2026-01-08,Bajo,Pendiente,10
+2135,2025-09-12,Bajo,Pendiente,11
+2136,2025-12-04,Alto,En seguimiento,71
+2137,2026-03-08,Bajo,Atendido,12
+2138,2025-07-23,Moderado,Atendido,54
+2139,2026-02-17,Crítico,Pendiente,93
+2140,2026-05-07,Bajo,En seguimiento,26
+2141,2026-05-22,Moderado,Pendiente,57
+2142,2026-02-15,Bajo,Atendido,12
+2143,2026-05-16,Moderado,Pendiente,48
+2144,2025-10-28,Crítico,Atendido,94
+2145,2025-07-24,Crítico,Pendiente,97
+2146,2025-11-20,Moderado,En seguimiento,58
+2147,2025-07-13,Moderado,Atendido,53
+2148,2026-05-27,Bajo,Finalizado,16
+2149,2026-05-13,Moderado,Finalizado,54
+2150,2026-03-25,Bajo,Pendiente,26
+2151,2025-07-10,Bajo,En seguimiento,10
+2152,2025-11-18,Alto,En seguimiento,84
+2153,2026-02-13,Bajo,Atendido,22
+2154,2026-04-28,Bajo,Finalizado,20
+2155,2026-02-09,Bajo,Finalizado,26
+2156,2025-12-10,Moderado,Finalizado,39
+2157,2025-08-20,Moderado,Atendido,40
+2158,2025-10-02,Bajo,Finalizado,14
+2159,2025-12-05,Crítico,En seguimiento,86
+2160,2026-05-11,Crítico,En seguimiento,86
+2161,2025-07-30,Bajo,Finalizado,20
+2162,2025-09-11,Moderado,Atendido,44
+2163,2026-01-09,Crítico,Finalizado,86
+2164,2025-10-12,Bajo,En seguimiento,25
+2165,2026-03-18,Alto,Pendiente,69
+2166,2025-11-15,Bajo,Pendiente,27
+2167,2026-01-25,Bajo,Finalizado,23
+2168,2026-05-21,Bajo,Finalizado,18
+2169,2026-04-10,Crítico,Finalizado,89
+2170,2026-04-11,Moderado,En seguimiento,45
+2171,2026-04-17,Moderado,Finalizado,63
+2172,2026-05-22,Moderado,En seguimiento,47
+2173,2026-04-03,Crítico,En seguimiento,94
+2174,2026-02-02,Crítico,Pendiente,86
+2175,2025-07-01,Alto,Atendido,71
+2176,2025-07-01,Bajo,Pendiente,18
+2177,2026-05-03,Bajo,Pendiente,21
+2178,2026-05-20,Bajo,Atendido,11
+2179,2025-09-21,Alto,Finalizado,75
+2180,2025-08-15,Moderado,Finalizado,62
+2181,2025-09-10,Alto,Atendido,79
+2182,2025-10-16,Moderado,Atendido,64
+2183,2026-06-15,Crítico,Atendido,98
+2184,2026-06-28,Moderado,En seguimiento,57
+2185,2025-12-12,Bajo,Pendiente,29
+2186,2025-12-16,Bajo,En seguimiento,30
+2187,2025-07-02,Moderado,Finalizado,64
+2188,2025-07-05,Moderado,Pendiente,53
+2189,2026-06-22,Alto,Pendiente,83
+2190,2025-08-11,Alto,Finalizado,83
+2191,2025-07-16,Alto,Pendiente,69
+2192,2025-12-28,Crítico,Pendiente,99
+2193,2026-05-04,Moderado,En seguimiento,62
+2194,2026-06-22,Crítico,Finalizado,93
+2195,2026-01-06,Crítico,Pendiente,86
+2196,2025-10-22,Alto,Atendido,77
+2197,2025-10-07,Bajo,Atendido,35
+2198,2025-10-22,Bajo,Pendiente,21
+2199,2025-07-19,Bajo,En seguimiento,10
+2200,2025-10-09,Crítico,Pendiente,87
+2201,2025-11-20,Moderado,Pendiente,41
+2202,2026-04-09,Bajo,En seguimiento,12
+2203,2026-04-28,Bajo,Finalizado,14
+2204,2025-11-10,Crítico,En seguimiento,100
+2205,2026-03-25,Alto,Atendido,72
+2206,2026-06-13,Bajo,Atendido,31
+2207,2026-04-13,Alto,Finalizado,79
+2208,2026-05-25,Moderado,Finalizado,63
+2209,2025-12-13,Moderado,Pendiente,44
+2210,2025-09-01,Moderado,Pendiente,51
+2211,2026-01-02,Moderado,Finalizado,64
+2212,2025-10-23,Bajo,Pendiente,27
+2213,2026-02-15,Bajo,Pendiente,16
+2214,2025-12-19,Bajo,Finalizado,33
+2215,2025-10-24,Crítico,Pendiente,87
+2216,2025-11-05,Bajo,Atendido,19
+2217,2025-08-02,Moderado,Finalizado,36
+2218,2026-03-03,Moderado,Finalizado,54
+2219,2026-05-17,Crítico,Atendido,89
+2220,2025-08-25,Moderado,Atendido,62
+2221,2025-07-28,Alto,En seguimiento,68
+2222,2026-05-04,Moderado,Finalizado,56
+2223,2026-02-14,Moderado,Finalizado,37
+2224,2025-07-18,Moderado,Finalizado,61
+2225,2025-09-04,Bajo,Pendiente,11
+2226,2025-12-02,Moderado,Pendiente,38
+2227,2025-08-22,Moderado,Finalizado,45
+2228,2026-01-12,Moderado,Pendiente,43
+2229,2026-05-03,Alto,Finalizado,80
+2230,2026-01-13,Moderado,Pendiente,64
+2231,2026-05-14,Moderado,Atendido,56
+2232,2026-06-11,Alto,Pendiente,82
+2233,2025-12-16,Moderado,Finalizado,39
+2234,2025-07-07,Moderado,Finalizado,54
+2235,2025-10-08,Crítico,En seguimiento,96
+2236,2026-03-18,Bajo,Pendiente,25
+2237,2026-05-14,Moderado,En seguimiento,40
+2238,2025-07-23,Bajo,Atendido,28
+2239,2026-02-09,Moderado,Atendido,45
+2240,2026-04-25,Alto,En seguimiento,70
+2241,2026-02-26,Bajo,Atendido,19
+2242,2026-01-05,Crítico,En seguimiento,86
+2243,2025-10-30,Moderado,Finalizado,49
+2244,2025-12-24,Bajo,En seguimiento,30
+2245,2025-10-12,Alto,Atendido,72
+2246,2026-06-07,Moderado,Pendiente,55
+2247,2026-06-20,Bajo,Atendido,29
+2248,2025-12-01,Moderado,En seguimiento,39
+2249,2026-02-18,Alto,Finalizado,81
+2250,2025-10-21,Crítico,En seguimiento,97
+2251,2025-10-26,Moderado,En seguimiento,43
+2252,2026-03-04,Alto,Atendido,78
+2253,2025-10-14,Moderado,Finalizado,47
+2254,2025-07-06,Bajo,Finalizado,27
+2255,2025-08-28,Bajo,Pendiente,16
+2256,2026-05-20,Moderado,Atendido,37
+2257,2025-07-16,Bajo,Atendido,15
+2258,2025-10-21,Alto,En seguimiento,76
+2259,2026-04-10,Bajo,En seguimiento,10
+2260,2025-09-29,Alto,Finalizado,66
+2261,2026-06-12,Bajo,Finalizado,20
+2262,2025-10-16,Bajo,En seguimiento,21
+2263,2026-01-07,Moderado,Pendiente,64
+2264,2026-06-30,Bajo,En seguimiento,14
+2265,2025-10-06,Bajo,Pendiente,32
+2266,2026-01-08,Bajo,Pendiente,30
+2267,2025-11-03,Crítico,En seguimiento,99
+2268,2026-04-01,Bajo,En seguimiento,20
+2269,2025-11-04,Bajo,Atendido,14
+2270,2026-03-18,Crítico,Pendiente,89
+2271,2025-08-11,Alto,Finalizado,71
+2272,2026-03-18,Moderado,Atendido,51
+2273,2026-03-23,Moderado,Atendido,58
+2274,2026-01-08,Moderado,Pendiente,58
+2275,2026-03-11,Moderado,Pendiente,56
+2276,2026-04-25,Moderado,En seguimiento,43
+2277,2025-10-12,Moderado,En seguimiento,48
+2278,2025-10-20,Bajo,Pendiente,28
+2279,2025-09-19,Crítico,Atendido,90
+2280,2026-04-08,Bajo,Finalizado,19
+2281,2026-02-13,Moderado,En seguimiento,54
+2282,2025-07-22,Moderado,Atendido,49
+2283,2026-02-16,Moderado,Pendiente,47
+2284,2026-03-12,Bajo,Pendiente,10
+2285,2025-09-30,Moderado,Atendido,56
+2286,2025-08-08,Moderado,Finalizado,45
+2287,2026-03-14,Moderado,Finalizado,61
+2288,2025-11-19,Crítico,Finalizado,87
+2289,2025-08-06,Moderado,En seguimiento,46
+2290,2025-10-09,Moderado,Atendido,45
+2291,2026-06-15,Alto,En seguimiento,85
+2292,2025-09-09,Crítico,Atendido,86
+2293,2025-12-01,Bajo,Atendido,35
+2294,2026-01-23,Crítico,Finalizado,93
+2295,2026-05-31,Moderado,En seguimiento,63
+2296,2026-01-20,Bajo,En seguimiento,25
+2297,2025-10-28,Moderado,Pendiente,59
+2298,2026-02-22,Bajo,Finalizado,20
+2299,2025-10-05,Moderado,Pendiente,42
+2300,2026-02-10,Moderado,Finalizado,47
+2301,2025-09-10,Moderado,En seguimiento,45
+2302,2025-07-05,Moderado,Atendido,46
+2303,2025-10-24,Moderado,Pendiente,60
+2304,2026-06-19,Moderado,Atendido,54
+2305,2025-07-12,Moderado,Finalizado,65
+2306,2025-09-10,Bajo,Atendido,28
+2307,2026-05-19,Alto,Pendiente,78
+2308,2025-10-13,Crítico,Finalizado,94
+2309,2026-01-14,Bajo,Finalizado,20
+2310,2026-04-18,Crítico,Atendido,87
+2311,2025-09-26,Bajo,En seguimiento,11
+2312,2026-06-18,Moderado,Finalizado,41
+2313,2025-10-10,Bajo,Pendiente,19
+2314,2025-10-14,Bajo,Finalizado,24
+2315,2025-07-30,Moderado,Finalizado,41
+2316,2025-12-15,Alto,Pendiente,78
+2317,2025-09-19,Crítico,En seguimiento,94
+2318,2026-01-31,Moderado,Finalizado,48
+2319,2025-10-14,Bajo,En seguimiento,19
+2320,2026-02-07,Alto,Pendiente,71
+2321,2026-05-06,Moderado,Atendido,54
+2322,2025-10-12,Moderado,Pendiente,44
+2323,2025-10-12,Bajo,En seguimiento,24
+2324,2025-08-02,Alto,En seguimiento,82
+2325,2025-12-16,Crítico,Pendiente,93
+2326,2026-02-22,Moderado,Finalizado,45
+2327,2026-05-27,Alto,Pendiente,77
+2328,2026-06-24,Alto,Atendido,78
+2329,2026-05-10,Alto,En seguimiento,79
+2330,2025-11-05,Bajo,Pendiente,24
+2331,2026-01-13,Crítico,En seguimiento,97
+2332,2026-04-18,Bajo,Finalizado,17
+2333,2025-09-19,Bajo,Atendido,31
+2334,2025-08-04,Moderado,En seguimiento,65
+2335,2026-03-10,Moderado,Finalizado,47
+2336,2025-08-09,Alto,Atendido,79
+2337,2026-02-16,Bajo,En seguimiento,26
+2338,2025-07-23,Moderado,Finalizado,56
+2339,2026-06-21,Moderado,Pendiente,48
+2340,2025-12-23,Alto,En seguimiento,78
+2341,2025-07-20,Bajo,Finalizado,32
+2342,2025-09-08,Bajo,Pendiente,25
+2343,2026-02-22,Bajo,En seguimiento,32
+2344,2026-02-10,Bajo,Atendido,15
+2345,2025-09-26,Alto,Finalizado,71
+2346,2025-11-28,Bajo,Pendiente,15
+2347,2025-08-09,Moderado,Finalizado,57
+2348,2025-11-17,Bajo,Atendido,15
+2349,2025-10-19,Alto,En seguimiento,80
+2350,2026-06-22,Bajo,Finalizado,22
+2351,2026-06-19,Bajo,Finalizado,29
+2352,2025-07-03,Bajo,Pendiente,34
+2353,2025-10-12,Crítico,Atendido,100
+2354,2025-10-31,Bajo,Finalizado,23
+2355,2025-07-15,Crítico,Atendido,99
+2356,2025-10-07,Moderado,Finalizado,43
+2357,2025-08-19,Alto,En seguimiento,71
+2358,2025-07-23,Moderado,Finalizado,62
+2359,2025-12-15,Bajo,En seguimiento,29
+2360,2025-10-15,Crítico,Pendiente,92
+2361,2025-08-31,Bajo,Finalizado,21
+2362,2025-12-13,Bajo,Pendiente,30
+2363,2025-12-09,Bajo,En seguimiento,24
+2364,2025-10-21,Bajo,Atendido,30
+2365,2026-05-16,Moderado,Finalizado,64
+2366,2025-10-20,Moderado,Pendiente,39
+2367,2026-06-30,Moderado,En seguimiento,44
+2368,2025-08-18,Moderado,Pendiente,57
+2369,2026-06-21,Bajo,En seguimiento,30
+2370,2026-06-18,Bajo,Pendiente,12
+2371,2025-12-19,Bajo,Pendiente,22
+2372,2026-03-19,Moderado,En seguimiento,52
+2373,2026-04-27,Alto,Finalizado,73
+2374,2025-07-11,Moderado,Finalizado,45
+2375,2025-10-30,Alto,En seguimiento,85
+2376,2025-08-10,Bajo,Atendido,25
+2377,2025-11-29,Bajo,Pendiente,16
+2378,2026-05-25,Bajo,Pendiente,33
+2379,2025-12-16,Bajo,Atendido,30
+2380,2025-07-21,Moderado,Pendiente,56
+2381,2025-11-25,Alto,En seguimiento,76
+2382,2025-12-23,Bajo,Finalizado,31
+2383,2025-11-05,Alto,En seguimiento,85
+2384,2026-01-12,Moderado,En seguimiento,50
+2385,2026-05-19,Bajo,Pendiente,12
+2386,2025-10-07,Bajo,En seguimiento,16
+2387,2025-09-03,Bajo,En seguimiento,17
+2388,2026-03-17,Bajo,Pendiente,19
+2389,2025-09-23,Alto,En seguimiento,79
+2390,2025-09-29,Moderado,Atendido,45
+2391,2026-04-22,Moderado,En seguimiento,44
+2392,2026-03-04,Bajo,Atendido,22
+2393,2026-01-10,Bajo,Pendiente,23
+2394,2026-03-16,Moderado,Pendiente,60
+2395,2025-09-18,Alto,Pendiente,66
+2396,2026-01-12,Moderado,Finalizado,60
+2397,2025-12-01,Moderado,En seguimiento,53
+2398,2025-09-28,Bajo,Pendiente,19
+2399,2026-02-18,Bajo,Pendiente,12
+2400,2025-12-18,Bajo,Pendiente,16
+2401,2025-09-18,Crítico,Finalizado,86
+2402,2026-03-14,Alto,Atendido,81
+2403,2026-01-24,Crítico,Pendiente,97
+2404,2026-01-08,Moderado,Atendido,56
+2405,2026-04-28,Bajo,Finalizado,13
+2406,2026-01-14,Crítico,En seguimiento,89
+2407,2026-02-09,Crítico,Atendido,94
+2408,2026-06-29,Moderado,Atendido,58
+2409,2025-07-30,Moderado,Pendiente,59
+2410,2025-11-04,Bajo,Finalizado,21
+2411,2026-05-20,Alto,Finalizado,70
+2412,2025-11-11,Moderado,En seguimiento,44
+2413,2025-11-04,Moderado,En seguimiento,36
+2414,2025-08-29,Alto,Pendiente,78
+2415,2026-06-27,Moderado,Finalizado,52
+2416,2025-10-05,Alto,En seguimiento,79
+2417,2025-11-07,Moderado,Pendiente,54
+2418,2025-12-05,Alto,Finalizado,69
+2419,2026-05-22,Moderado,Atendido,62
+2420,2025-09-12,Bajo,En seguimiento,33
+2421,2026-01-20,Moderado,Finalizado,41
+2422,2026-03-09,Bajo,Finalizado,34
+2423,2026-06-22,Moderado,Pendiente,56
+2424,2025-11-25,Alto,En seguimiento,71
+2425,2026-01-08,Bajo,En seguimiento,16
+2426,2026-03-07,Bajo,Finalizado,24
+2427,2026-04-17,Alto,En seguimiento,72
+2428,2025-07-31,Alto,En seguimiento,74
+2429,2026-01-26,Moderado,Finalizado,63
+2430,2026-05-22,Bajo,Atendido,12
+2431,2026-01-10,Bajo,Finalizado,20
+2432,2025-07-16,Moderado,Pendiente,51
+2433,2026-06-10,Alto,Finalizado,67
+2434,2025-11-14,Alto,Finalizado,84
+2435,2025-07-22,Bajo,Finalizado,22
+2436,2026-05-05,Moderado,Atendido,65
+2437,2026-03-06,Moderado,Atendido,55
+2438,2026-02-05,Bajo,Atendido,20
+2439,2025-10-31,Crítico,Pendiente,92
+2440,2026-05-09,Bajo,Atendido,20
+2441,2025-08-21,Bajo,Pendiente,33
+2442,2025-09-10,Bajo,Finalizado,26
+2443,2025-11-21,Crítico,En seguimiento,91
+2444,2026-02-17,Moderado,Pendiente,52
+2445,2026-01-28,Moderado,Finalizado,56
+2446,2025-12-12,Bajo,Atendido,11
+2447,2025-12-14,Moderado,En seguimiento,55
+2448,2026-03-06,Moderado,Finalizado,47
+2449,2026-02-05,Crítico,Pendiente,96
+2450,2026-06-24,Crítico,Pendiente,90
+2451,2026-05-07,Bajo,En seguimiento,26
+2452,2026-04-19,Alto,Finalizado,70
+2453,2026-03-12,Alto,Atendido,83
+2454,2026-02-25,Bajo,Pendiente,13
+2455,2026-03-04,Moderado,En seguimiento,43
+2456,2025-10-17,Bajo,Finalizado,13
+2457,2026-02-08,Crítico,Finalizado,88
+2458,2025-12-15,Crítico,Atendido,89
+2459,2025-11-09,Moderado,Finalizado,57
+2460,2025-09-08,Crítico,Pendiente,87
+2461,2026-06-20,Bajo,En seguimiento,28
+2462,2026-05-04,Bajo,Atendido,22
+2463,2026-01-12,Moderado,Pendiente,61
+2464,2025-10-28,Bajo,Finalizado,19
+2465,2025-08-14,Bajo,Atendido,33
+2466,2026-04-30,Crítico,Finalizado,95
+2467,2026-01-05,Bajo,Atendido,22
+2468,2026-04-22,Alto,Atendido,67
+2469,2026-04-29,Moderado,Pendiente,49
+2470,2025-12-11,Alto,En seguimiento,82
+2471,2026-06-05,Moderado,En seguimiento,39
+2472,2026-01-19,Bajo,Pendiente,20
+2473,2025-09-13,Alto,Atendido,73
+2474,2026-03-13,Moderado,En seguimiento,55
+2475,2025-11-23,Bajo,Finalizado,29
+2476,2025-12-11,Bajo,Finalizado,18
+2477,2026-06-27,Moderado,En seguimiento,51
+2478,2025-11-27,Alto,Pendiente,67
+2479,2025-12-18,Bajo,En seguimiento,33
+2480,2025-10-24,Alto,Finalizado,71
+2481,2026-03-07,Alto,Atendido,71
+2482,2025-07-12,Moderado,Atendido,49
+2483,2026-06-13,Moderado,Atendido,60
+2484,2026-01-17,Moderado,Atendido,45
+2485,2026-06-22,Crítico,Pendiente,87
+2486,2025-09-06,Bajo,Finalizado,32
+2487,2025-12-03,Moderado,En seguimiento,54
+2488,2025-09-09,Moderado,Pendiente,45
+2489,2025-09-13,Bajo,En seguimiento,33
+2490,2026-05-30,Bajo,Finalizado,31
+2491,2025-09-14,Moderado,Pendiente,57
+2492,2025-09-25,Crítico,Finalizado,91
+2493,2026-02-28,Bajo,Finalizado,13
+2494,2026-03-21,Moderado,Pendiente,40
+2495,2026-05-18,Alto,En seguimiento,67
+2496,2025-08-30,Bajo,Pendiente,19
+2497,2026-06-18,Moderado,En seguimiento,56
+2498,2026-01-09,Alto,Finalizado,80
+2499,2026-05-29,Moderado,Pendiente,47
+2500,2025-07-06,Bajo,Finalizado,13
+2501,2026-03-08,Moderado,En seguimiento,36
+2502,2026-04-27,Moderado,Pendiente,44
+2503,2026-06-21,Alto,En seguimiento,78
+2504,2026-03-05,Crítico,Pendiente,90
+2505,2026-04-19,Bajo,Atendido,12
+2506,2026-04-02,Bajo,Finalizado,22
+2507,2026-04-11,Alto,Pendiente,68
+2508,2026-03-23,Alto,Finalizado,72
+2509,2026-06-03,Alto,En seguimiento,85
+2510,2026-06-21,Bajo,Pendiente,35
+2511,2025-12-08,Bajo,En seguimiento,28
+2512,2025-10-14,Moderado,Finalizado,53
+2513,2025-11-09,Alto,Finalizado,68
+2514,2025-09-02,Moderado,Atendido,53
+2515,2025-09-26,Moderado,Finalizado,43
+2516,2025-12-01,Bajo,Atendido,31
+2517,2026-03-31,Moderado,Pendiente,58
+2518,2025-12-08,Moderado,Atendido,55
+2519,2026-04-02,Moderado,Finalizado,57
+2520,2025-07-23,Bajo,En seguimiento,14
+2521,2025-12-01,Alto,En seguimiento,70
+2522,2026-05-05,Moderado,Atendido,44
+2523,2025-09-04,Alto,Pendiente,68
+2524,2026-04-08,Bajo,Pendiente,30
+2525,2025-09-22,Moderado,Finalizado,44
+2526,2026-06-12,Moderado,En seguimiento,53
+2527,2025-10-13,Bajo,Atendido,30
+2528,2026-06-22,Moderado,Atendido,54
+2529,2026-06-02,Moderado,En seguimiento,49
+2530,2025-09-17,Bajo,Pendiente,22
+2531,2025-07-14,Crítico,En seguimiento,87
+2532,2025-11-16,Bajo,Finalizado,31
+2533,2026-04-07,Moderado,Atendido,56
+2534,2025-08-15,Moderado,Atendido,60
+2535,2025-11-17,Bajo,En seguimiento,18
+2536,2025-07-06,Bajo,En seguimiento,22
+2537,2025-08-23,Alto,Finalizado,71
+2538,2026-03-27,Alto,Atendido,84
+2539,2026-03-08,Bajo,Atendido,32
+2540,2026-04-19,Alto,Atendido,85
+2541,2025-08-20,Alto,En seguimiento,76
+2542,2026-01-16,Bajo,Pendiente,25
+2543,2026-04-30,Bajo,Finalizado,31
+2544,2026-03-20,Alto,En seguimiento,70
+2545,2026-01-10,Moderado,Atendido,37
+2546,2026-05-24,Crítico,En seguimiento,96
+2547,2026-05-08,Moderado,Pendiente,41
+2548,2026-02-10,Crítico,Pendiente,94
+2549,2025-11-24,Bajo,Pendiente,26
+2550,2025-10-26,Bajo,Finalizado,19
+2551,2026-01-25,Alto,Finalizado,68
+2552,2025-08-09,Alto,Finalizado,71
+2553,2026-04-21,Bajo,Atendido,27
+2554,2026-03-10,Alto,Finalizado,79
+2555,2026-06-12,Moderado,En seguimiento,51
+2556,2026-03-12,Moderado,Finalizado,48
+2557,2025-07-08,Moderado,Finalizado,58
+2558,2026-02-03,Alto,Atendido,73
+2559,2026-06-04,Crítico,Finalizado,95
+2560,2026-02-15,Crítico,En seguimiento,88
+2561,2025-08-08,Moderado,En seguimiento,52
+2562,2025-12-28,Crítico,Pendiente,93
+2563,2026-01-11,Bajo,Finalizado,20
+2564,2026-06-13,Bajo,Finalizado,19
+2565,2025-12-01,Moderado,Atendido,42
+2566,2025-07-02,Alto,Pendiente,72
+2567,2025-12-04,Crítico,Finalizado,100
+2568,2026-02-23,Alto,Pendiente,67
+2569,2025-12-30,Bajo,Pendiente,20
+2570,2025-11-30,Moderado,Finalizado,47
+2571,2025-10-04,Moderado,Finalizado,39
+2572,2026-02-06,Moderado,Finalizado,52
+2573,2026-03-21,Alto,Pendiente,69
+2574,2026-03-07,Bajo,Atendido,17
+2575,2026-02-26,Moderado,Atendido,47
+2576,2026-02-05,Alto,Atendido,69
+2577,2026-02-10,Moderado,Pendiente,41
+2578,2025-09-10,Moderado,Pendiente,36
+2579,2025-12-31,Alto,En seguimiento,69
+2580,2025-10-06,Bajo,En seguimiento,22
+2581,2026-02-01,Alto,Finalizado,71
+2582,2026-06-07,Bajo,Pendiente,31
+2583,2025-11-14,Bajo,Pendiente,27
+2584,2026-03-11,Alto,En seguimiento,76
+2585,2026-01-21,Moderado,Pendiente,40
+2586,2025-08-26,Crítico,Finalizado,88
+2587,2025-09-18,Bajo,Finalizado,34
+2588,2026-06-16,Bajo,Atendido,23
+2589,2026-05-02,Alto,Pendiente,81
+2590,2025-11-26,Bajo,Finalizado,34
+2591,2026-02-05,Bajo,En seguimiento,33
+2592,2026-03-19,Bajo,Atendido,34
+2593,2025-08-28,Alto,En seguimiento,79
+2594,2025-10-10,Moderado,Finalizado,58
+2595,2026-03-15,Moderado,En seguimiento,63
+2596,2026-04-29,Moderado,En seguimiento,43
+2597,2025-08-31,Bajo,Finalizado,18
+2598,2025-10-07,Crítico,Pendiente,86
+2599,2026-05-12,Bajo,Finalizado,22
+2600,2026-01-25,Moderado,En seguimiento,43
+2601,2025-12-20,Moderado,Finalizado,52
+2602,2026-02-04,Moderado,Atendido,39
+2603,2025-11-15,Moderado,Atendido,58
+2604,2026-01-31,Bajo,Finalizado,15
+2605,2025-07-21,Bajo,Atendido,16
+2606,2025-11-24,Moderado,Finalizado,49
+2607,2025-10-03,Bajo,Pendiente,21
+2608,2025-12-19,Bajo,Finalizado,31
+2609,2025-07-07,Moderado,En seguimiento,46
+2610,2026-01-01,Alto,Atendido,84
+2611,2026-03-28,Moderado,En seguimiento,56
+2612,2025-11-19,Bajo,Pendiente,12
+2613,2025-08-24,Bajo,Finalizado,11
+2614,2026-04-27,Crítico,En seguimiento,89
+2615,2026-06-26,Moderado,Finalizado,38
+2616,2026-04-06,Moderado,Atendido,59
+2617,2026-02-28,Crítico,En seguimiento,94
+2618,2025-09-17,Bajo,En seguimiento,23
+2619,2026-04-08,Alto,Atendido,77
+2620,2026-02-15,Moderado,Finalizado,65
+2621,2026-02-09,Bajo,Pendiente,26
+2622,2026-03-15,Alto,En seguimiento,85
+2623,2025-11-18,Moderado,En seguimiento,45
+2624,2025-07-24,Crítico,Finalizado,98
+2625,2026-06-21,Bajo,Pendiente,25
+2626,2026-06-16,Moderado,Finalizado,41
+2627,2026-02-10,Alto,Pendiente,83
+2628,2026-01-16,Moderado,Atendido,42
+2629,2025-10-03,Bajo,En seguimiento,28
+2630,2026-06-22,Bajo,Pendiente,26
+2631,2026-06-28,Alto,Atendido,75
+2632,2025-10-21,Bajo,Atendido,27
+2633,2025-08-30,Bajo,Finalizado,27
+2634,2025-10-30,Bajo,En seguimiento,18
+2635,2025-09-07,Bajo,Finalizado,30
+2636,2025-11-05,Crítico,En seguimiento,94
+2637,2025-08-29,Bajo,Atendido,30
+2638,2026-05-06,Crítico,Atendido,87
+2639,2026-06-27,Alto,Atendido,70
+2640,2026-01-26,Alto,Atendido,76
+2641,2025-07-30,Moderado,Finalizado,62
+2642,2025-12-30,Bajo,Atendido,15
+2643,2025-11-09,Crítico,Finalizado,97
+2644,2026-06-18,Moderado,Atendido,63
+2645,2026-05-17,Moderado,En seguimiento,62
+2646,2026-02-12,Bajo,Atendido,16
+2647,2026-04-24,Moderado,Pendiente,40
+2648,2026-02-14,Bajo,Pendiente,21
+2649,2025-09-14,Crítico,Finalizado,93
+2650,2025-10-01,Moderado,En seguimiento,42
+2651,2026-04-18,Moderado,En seguimiento,56
+2652,2025-11-22,Bajo,En seguimiento,15
+2653,2026-01-18,Moderado,En seguimiento,38
+2654,2025-09-12,Bajo,En seguimiento,24
+2655,2026-05-27,Crítico,Finalizado,97
+2656,2026-03-27,Bajo,Finalizado,29
+2657,2025-08-21,Moderado,Finalizado,39
+2658,2025-07-07,Alto,Finalizado,70
+2659,2025-11-05,Alto,Atendido,70
+2660,2026-05-18,Moderado,Finalizado,61
+2661,2025-08-24,Moderado,Atendido,63
+2662,2026-06-28,Bajo,En seguimiento,25
+2663,2026-04-15,Alto,En seguimiento,75
+2664,2025-12-17,Moderado,En seguimiento,37
+2665,2026-04-05,Moderado,Finalizado,36
+2666,2025-07-23,Bajo,Atendido,13
+2667,2026-03-19,Alto,Pendiente,70
+2668,2025-07-01,Crítico,Finalizado,89
+2669,2026-02-04,Moderado,Atendido,56
+2670,2025-11-24,Bajo,Pendiente,31
+2671,2025-08-27,Moderado,Finalizado,43
+2672,2025-08-22,Crítico,Atendido,91
+2673,2025-08-09,Moderado,Finalizado,47
+2674,2025-08-13,Alto,En seguimiento,71
+2675,2026-02-05,Moderado,En seguimiento,57
+2676,2026-02-03,Bajo,Atendido,29
+2677,2025-11-24,Bajo,Finalizado,18
+2678,2026-03-13,Moderado,Atendido,61
+2679,2026-06-30,Alto,Finalizado,70
+2680,2026-06-01,Bajo,En seguimiento,22
+2681,2026-02-14,Alto,Pendiente,68
+2682,2025-08-27,Moderado,Atendido,40
+2683,2025-08-16,Bajo,En seguimiento,15
+2684,2026-01-14,Moderado,Pendiente,49
+2685,2026-03-04,Moderado,Pendiente,55
+2686,2026-05-22,Bajo,En seguimiento,22
+2687,2026-01-31,Moderado,Pendiente,53
+2688,2026-04-01,Alto,Pendiente,68
+2689,2026-04-24,Alto,En seguimiento,68
+2690,2025-10-29,Moderado,En seguimiento,63
+2691,2025-07-09,Moderado,Pendiente,40
+2692,2025-08-26,Bajo,Atendido,21
+2693,2025-09-10,Bajo,En seguimiento,27
+2694,2026-02-01,Bajo,En seguimiento,11
+2695,2025-09-09,Bajo,En seguimiento,22
+2696,2025-07-14,Moderado,Pendiente,47
+2697,2025-07-28,Alto,Finalizado,81
+2698,2026-05-01,Alto,Finalizado,70
+2699,2026-01-04,Bajo,En seguimiento,12
+2700,2025-07-07,Moderado,Pendiente,40
+2701,2025-10-02,Moderado,En seguimiento,59
+2702,2026-03-28,Moderado,Atendido,51
+2703,2026-01-27,Alto,Pendiente,66
+2704,2025-11-24,Bajo,Finalizado,30
+2705,2025-07-17,Moderado,En seguimiento,52
+2706,2025-09-21,Bajo,Pendiente,31
+2707,2026-02-18,Moderado,Atendido,65
+2708,2026-04-19,Moderado,En seguimiento,49
+2709,2025-09-19,Bajo,Finalizado,26
+2710,2026-01-10,Crítico,En seguimiento,97
+2711,2025-10-17,Moderado,Finalizado,43
+2712,2026-01-17,Bajo,Finalizado,32
+2713,2026-02-25,Moderado,Pendiente,62
+2714,2026-01-11,Bajo,Atendido,30
+2715,2026-02-03,Bajo,Finalizado,13
+2716,2025-08-09,Moderado,Atendido,36
+2717,2025-10-31,Bajo,Finalizado,12
+2718,2025-10-17,Moderado,Atendido,42
+2719,2026-04-09,Bajo,Finalizado,17
+2720,2025-11-15,Bajo,Finalizado,28
+2721,2026-03-05,Bajo,Atendido,12
+2722,2025-12-06,Bajo,Atendido,34
+2723,2025-11-22,Crítico,En seguimiento,91
+2724,2026-01-17,Alto,En seguimiento,69
+2725,2025-12-17,Moderado,Finalizado,52
+2726,2025-09-15,Bajo,Pendiente,25
+2727,2026-04-27,Alto,Finalizado,75
+2728,2025-09-21,Bajo,Pendiente,12
+2729,2026-05-17,Bajo,En seguimiento,16
+2730,2026-06-14,Moderado,En seguimiento,52
+2731,2026-03-22,Crítico,Atendido,93
+2732,2025-09-06,Bajo,Atendido,29
+2733,2026-02-06,Bajo,Pendiente,17
+2734,2025-10-15,Crítico,Finalizado,88
+2735,2026-04-17,Moderado,Pendiente,39
+2736,2025-07-08,Bajo,Atendido,27
+2737,2025-08-14,Moderado,Pendiente,46
+2738,2025-09-25,Crítico,En seguimiento,87
+2739,2025-11-21,Moderado,Atendido,38
+2740,2025-08-06,Bajo,Pendiente,18
+2741,2026-02-28,Crítico,Pendiente,96
+2742,2025-09-10,Crítico,Pendiente,86
+2743,2026-01-03,Alto,Pendiente,79
+2744,2026-05-14,Crítico,En seguimiento,93
+2745,2026-01-04,Moderado,Atendido,47
+2746,2025-08-12,Moderado,Pendiente,44
+2747,2026-06-15,Bajo,Finalizado,33
+2748,2025-11-03,Moderado,Finalizado,40
+2749,2025-08-23,Bajo,En seguimiento,28
+2750,2026-01-21,Alto,En seguimiento,78
+2751,2026-02-22,Moderado,Atendido,50
+2752,2026-02-25,Moderado,Pendiente,39
+2753,2025-08-13,Bajo,Finalizado,22
+2754,2026-02-07,Bajo,Atendido,12
+2755,2025-12-10,Bajo,Pendiente,16
+2756,2026-06-25,Alto,Finalizado,74
+2757,2026-02-18,Bajo,En seguimiento,25
+2758,2025-09-13,Moderado,Atendido,54
+2759,2025-07-17,Crítico,Pendiente,86
+2760,2026-01-02,Alto,Pendiente,72
+2761,2025-07-28,Bajo,Finalizado,34
+2762,2026-06-16,Moderado,Atendido,56
+2763,2025-09-29,Bajo,Finalizado,18
+2764,2026-01-24,Bajo,Pendiente,23
+2765,2026-03-26,Bajo,Atendido,15
+2766,2025-07-28,Bajo,Pendiente,20
+2767,2025-11-30,Bajo,Atendido,23
+2768,2026-03-04,Moderado,En seguimiento,58
+2769,2026-02-09,Moderado,Pendiente,62
+2770,2025-07-06,Moderado,En seguimiento,38
+2771,2026-06-07,Moderado,En seguimiento,46
+2772,2026-06-06,Crítico,Atendido,86
+2773,2025-09-16,Alto,En seguimiento,81
+2774,2025-12-10,Bajo,Pendiente,18
+2775,2026-03-24,Alto,Pendiente,70
+2776,2026-05-21,Moderado,Finalizado,37
+2777,2025-10-20,Alto,En seguimiento,79
+2778,2026-06-22,Moderado,En seguimiento,55
+2779,2026-01-10,Bajo,En seguimiento,16
+2780,2026-06-13,Moderado,Finalizado,47
+2781,2026-01-03,Bajo,Atendido,26
+2782,2025-09-02,Moderado,Pendiente,49
+2783,2026-01-27,Moderado,Pendiente,52
+2784,2025-12-19,Bajo,En seguimiento,24
+2785,2026-02-05,Moderado,En seguimiento,53
+2786,2026-02-09,Moderado,Pendiente,56
+2787,2025-11-23,Alto,Finalizado,68
+2788,2025-08-23,Bajo,Finalizado,29
+2789,2026-01-27,Bajo,Finalizado,30
+2790,2026-02-13,Moderado,Finalizado,57
+2791,2025-11-26,Alto,En seguimiento,73
+2792,2026-02-18,Moderado,Finalizado,42
+2793,2026-02-26,Crítico,Atendido,98
+2794,2026-02-23,Moderado,Pendiente,36
+2795,2026-01-08,Alto,Atendido,74
+2796,2026-06-03,Bajo,Pendiente,31
+2797,2025-11-01,Bajo,Pendiente,11
+2798,2025-07-08,Bajo,Atendido,26
+2799,2026-05-04,Bajo,En seguimiento,28
+2800,2026-02-06,Bajo,Pendiente,16
+2801,2026-05-12,Moderado,Finalizado,61
+2802,2026-04-22,Moderado,Pendiente,59
+2803,2025-09-27,Moderado,Atendido,52
+2804,2025-09-20,Moderado,Finalizado,58
+2805,2025-09-03,Moderado,Pendiente,62
+2806,2026-05-18,Crítico,En seguimiento,91
+2807,2025-10-13,Bajo,Finalizado,23
+2808,2025-07-06,Moderado,En seguimiento,36
+2809,2026-05-13,Alto,Finalizado,84
+2810,2026-01-12,Bajo,En seguimiento,24
+2811,2026-05-21,Moderado,Atendido,41
+2812,2025-10-31,Moderado,En seguimiento,45
+2813,2025-10-08,Moderado,En seguimiento,59
+2814,2026-01-10,Alto,Finalizado,74
+2815,2025-08-12,Crítico,Finalizado,96
+2816,2026-04-23,Alto,Finalizado,80
+2817,2026-05-02,Bajo,En seguimiento,19
+2818,2025-11-12,Alto,Finalizado,68
+2819,2026-03-11,Alto,En seguimiento,78
+2820,2025-08-21,Moderado,Finalizado,49
+2821,2025-08-07,Moderado,Finalizado,42
+2822,2026-06-17,Moderado,Atendido,56
+2823,2026-02-16,Alto,En seguimiento,75
+2824,2025-07-06,Crítico,Finalizado,87
+2825,2025-12-23,Crítico,Pendiente,95
+2826,2026-05-04,Moderado,En seguimiento,52
+2827,2025-11-08,Crítico,En seguimiento,95
+2828,2025-07-16,Moderado,En seguimiento,42
+2829,2026-01-03,Bajo,En seguimiento,10
+2830,2025-12-15,Bajo,Finalizado,33
+2831,2026-06-20,Crítico,Atendido,90
+2832,2026-03-04,Bajo,Finalizado,21
+2833,2026-06-28,Moderado,Atendido,50
+2834,2026-03-11,Moderado,Pendiente,65
+2835,2025-10-07,Bajo,En seguimiento,31
+2836,2025-11-21,Crítico,Finalizado,95
+2837,2026-04-27,Bajo,En seguimiento,33
+2838,2026-03-07,Moderado,Pendiente,49
+2839,2026-05-02,Alto,Atendido,85
+2840,2025-08-25,Moderado,Pendiente,42
+2841,2026-04-17,Moderado,Finalizado,50
+2842,2025-09-24,Alto,Atendido,84
+2843,2026-01-26,Bajo,Atendido,22
+2844,2025-07-16,Bajo,Atendido,23
+2845,2025-10-04,Moderado,Finalizado,42
+2846,2026-06-02,Moderado,En seguimiento,60
+2847,2025-12-08,Bajo,Atendido,32
+2848,2025-07-06,Alto,En seguimiento,80
+2849,2026-04-17,Alto,En seguimiento,83
+2850,2025-08-03,Moderado,En seguimiento,52
+2851,2025-10-20,Bajo,Atendido,32
+2852,2026-05-08,Crítico,Finalizado,95
+2853,2026-05-27,Moderado,Pendiente,46
+2854,2025-12-11,Bajo,Finalizado,35
+2855,2026-03-10,Moderado,Atendido,49
+2856,2025-08-31,Bajo,En seguimiento,29
+2857,2025-12-15,Moderado,En seguimiento,54
+2858,2025-07-11,Bajo,Finalizado,24
+2859,2025-11-23,Bajo,Pendiente,11
+2860,2026-03-31,Crítico,Finalizado,91
+2861,2026-05-27,Bajo,Pendiente,13
+2862,2026-01-29,Alto,Atendido,76
+2863,2025-12-25,Moderado,Atendido,51
+2864,2026-05-10,Bajo,Atendido,32
+2865,2026-02-18,Moderado,Finalizado,62
+2866,2026-01-08,Crítico,Finalizado,86
+2867,2025-10-23,Bajo,Finalizado,14
+2868,2025-08-23,Crítico,Pendiente,89
+2869,2025-09-26,Bajo,Atendido,27
+2870,2025-07-03,Crítico,Finalizado,90
+2871,2025-07-23,Bajo,Atendido,12
+2872,2025-11-13,Bajo,Pendiente,18
+2873,2026-06-23,Bajo,En seguimiento,28
+2874,2026-02-21,Bajo,Atendido,14
+2875,2026-04-26,Alto,Pendiente,80
+2876,2026-06-08,Bajo,En seguimiento,28
+2877,2026-03-02,Moderado,Atendido,46
+2878,2026-03-05,Bajo,Atendido,34
+2879,2025-11-29,Alto,Atendido,83
+2880,2025-11-02,Moderado,En seguimiento,58
+2881,2025-08-09,Bajo,Pendiente,11
+2882,2025-10-17,Bajo,En seguimiento,24
+2883,2026-01-14,Bajo,Finalizado,20
+2884,2025-10-15,Alto,Atendido,75
+2885,2026-06-28,Moderado,En seguimiento,63
+2886,2026-03-16,Bajo,En seguimiento,17
+2887,2026-01-03,Moderado,Pendiente,63
+2888,2026-05-14,Moderado,Pendiente,42
+2889,2025-08-05,Bajo,En seguimiento,31
+2890,2025-12-05,Crítico,Finalizado,88
+2891,2026-02-22,Alto,Finalizado,73
+2892,2025-07-09,Alto,En seguimiento,74
+2893,2025-07-15,Moderado,Pendiente,47
+2894,2025-11-13,Bajo,Finalizado,21
+2895,2026-02-06,Bajo,Pendiente,26
+2896,2026-02-06,Moderado,Finalizado,50
+2897,2025-11-17,Moderado,Finalizado,56
+2898,2026-01-12,Alto,Pendiente,72
+2899,2025-11-28,Bajo,En seguimiento,29
+2900,2025-11-19,Moderado,Pendiente,52
+2901,2026-02-07,Bajo,Finalizado,30
+2902,2025-11-05,Crítico,En seguimiento,87
+2903,2025-07-28,Alto,Atendido,73
+2904,2025-08-03,Moderado,Atendido,43
+2905,2026-05-14,Moderado,Pendiente,48
+2906,2026-01-18,Bajo,Atendido,25
+2907,2025-10-14,Bajo,En seguimiento,21
+2908,2026-05-23,Bajo,Atendido,33
+2909,2025-07-02,Bajo,Pendiente,33
+2910,2025-12-04,Alto,En seguimiento,71
+2911,2025-12-09,Moderado,En seguimiento,41
+2912,2025-12-18,Alto,En seguimiento,66
+2913,2026-06-07,Moderado,Atendido,36
+2914,2025-09-29,Crítico,Finalizado,88
+2915,2026-06-13,Alto,Finalizado,85
+2916,2025-12-28,Crítico,Finalizado,93
+2917,2025-11-04,Moderado,Finalizado,62
+2918,2025-07-09,Moderado,Atendido,62
+2919,2025-10-25,Moderado,En seguimiento,60
+2920,2025-09-14,Alto,Finalizado,75
+2921,2025-12-19,Moderado,Atendido,53
+2922,2025-11-09,Moderado,Atendido,47
+2923,2026-02-20,Bajo,Atendido,19
+2924,2026-06-29,Bajo,Pendiente,13
+2925,2025-11-16,Moderado,Finalizado,40
+2926,2026-01-27,Alto,En seguimiento,77
+2927,2026-03-12,Bajo,Pendiente,21
+2928,2025-10-14,Alto,En seguimiento,78
+2929,2026-05-24,Bajo,Atendido,30
+2930,2026-06-13,Moderado,Pendiente,64
+2931,2026-03-27,Bajo,Atendido,20
+2932,2026-01-17,Moderado,Atendido,45
+2933,2025-10-06,Bajo,Atendido,29
+2934,2025-09-01,Moderado,Pendiente,54
+2935,2025-12-25,Bajo,Finalizado,25
+2936,2026-06-16,Bajo,En seguimiento,26
+2937,2025-11-26,Moderado,En seguimiento,45
+2938,2026-03-07,Bajo,Atendido,10
+2939,2026-02-18,Bajo,Atendido,28
+2940,2025-09-02,Bajo,Atendido,10
+2941,2026-02-06,Moderado,Finalizado,37
+2942,2025-11-06,Bajo,Atendido,35
+2943,2026-03-15,Moderado,En seguimiento,38
+2944,2025-11-16,Bajo,En seguimiento,23
+2945,2026-04-26,Crítico,Atendido,89
+2946,2025-07-17,Moderado,Atendido,43
+2947,2026-06-13,Moderado,Pendiente,48
+2948,2025-08-20,Alto,Atendido,85
+2949,2025-12-07,Bajo,Pendiente,31
+2950,2025-12-13,Alto,En seguimiento,72
+2951,2025-11-06,Bajo,En seguimiento,19
+2952,2025-12-04,Bajo,Pendiente,27
+2953,2025-10-02,Moderado,Pendiente,39
+2954,2025-09-09,Moderado,Atendido,52
+2955,2026-06-16,Alto,Pendiente,77
+2956,2026-02-04,Moderado,Pendiente,50
+2957,2025-07-15,Crítico,Finalizado,98
+2958,2026-02-01,Bajo,En seguimiento,29
+2959,2025-12-02,Alto,Atendido,70
+2960,2026-05-14,Moderado,Atendido,37
+2961,2026-01-18,Bajo,Finalizado,24
+2962,2026-03-23,Moderado,Finalizado,38
+2963,2025-07-29,Bajo,Finalizado,20
+2964,2026-05-01,Bajo,Atendido,28
+2965,2026-03-04,Moderado,Finalizado,39
+2966,2026-04-26,Moderado,Finalizado,58
+2967,2025-10-13,Moderado,Pendiente,40
+2968,2025-10-23,Alto,En seguimiento,75
+2969,2026-05-18,Bajo,Finalizado,35
+2970,2026-03-06,Moderado,En seguimiento,39
+2971,2025-08-04,Bajo,Finalizado,26
+2972,2025-08-19,Bajo,Finalizado,25
+2973,2025-07-13,Alto,Pendiente,78
+2974,2025-07-29,Crítico,Atendido,92
+2975,2026-03-05,Crítico,En seguimiento,99
+2976,2026-04-06,Bajo,Pendiente,31
+2977,2026-05-12,Bajo,En seguimiento,30
+2978,2025-07-12,Bajo,En seguimiento,15
+2979,2026-03-19,Alto,En seguimiento,81
+2980,2026-03-03,Bajo,Finalizado,28
+2981,2026-03-10,Moderado,Atendido,48
+2982,2026-01-14,Moderado,Finalizado,50
+2983,2026-01-30,Alto,En seguimiento,66
+2984,2025-11-23,Moderado,Pendiente,36
+2985,2026-04-24,Bajo,Pendiente,11
+2986,2025-12-29,Crítico,Pendiente,100
+2987,2026-02-20,Bajo,En seguimiento,21
+2988,2026-03-14,Alto,En seguimiento,77
+2989,2026-06-27,Moderado,Finalizado,41
+2990,2026-06-01,Bajo,Atendido,24
+2991,2025-09-10,Bajo,Atendido,22
+2992,2025-08-04,Crítico,Pendiente,92
+2993,2026-02-27,Moderado,En seguimiento,54
+2994,2026-06-28,Crítico,Atendido,88
+2995,2026-06-23,Bajo,Atendido,28
+2996,2026-05-13,Alto,Finalizado,67
+2997,2025-07-16,Alto,En seguimiento,73
+2998,2025-08-19,Moderado,Pendiente,65
+2999,2026-06-13,Moderado,En seguimiento,60
+3000,2025-10-30,Bajo,En seguimiento,33
+3001,2026-01-13,Alto,Pendiente,68
+3002,2025-08-01,Moderado,Finalizado,37
+3003,2025-08-07,Moderado,Atendido,55
+3004,2026-05-20,Alto,En seguimiento,76
+3005,2025-08-25,Moderado,Pendiente,40
+3006,2026-05-23,Moderado,En seguimiento,42
+3007,2025-11-07,Moderado,Atendido,43
+3008,2025-10-12,Alto,Pendiente,82
+3009,2025-10-07,Bajo,Finalizado,30
+3010,2026-06-08,Bajo,Finalizado,35
+3011,2025-09-10,Alto,Atendido,79
+3012,2026-04-17,Moderado,Finalizado,46
+3013,2025-10-03,Moderado,Pendiente,42
+3014,2025-10-15,Moderado,Pendiente,52
+3015,2025-12-28,Moderado,En seguimiento,61
+3016,2025-08-04,Moderado,Pendiente,63
+3017,2025-08-06,Moderado,En seguimiento,61
+3018,2026-03-22,Bajo,Finalizado,25
+3019,2025-10-27,Bajo,Atendido,10
+3020,2025-10-23,Alto,Atendido,74
+3021,2026-01-16,Alto,Finalizado,71
+3022,2025-11-25,Bajo,En seguimiento,26
+3023,2026-05-09,Moderado,Pendiente,55
+3024,2025-07-30,Moderado,Finalizado,54
+3025,2026-02-27,Crítico,Atendido,96
+3026,2025-07-16,Bajo,Pendiente,18
+3027,2025-10-11,Bajo,Finalizado,14
+3028,2025-10-13,Moderado,Atendido,65
+3029,2026-06-05,Crítico,Finalizado,89
+3030,2026-03-10,Bajo,Finalizado,21
+3031,2025-08-06,Crítico,Finalizado,100
+3032,2026-04-09,Moderado,En seguimiento,44
+3033,2025-07-22,Bajo,Pendiente,26
+3034,2025-10-24,Moderado,Pendiente,51
+3035,2025-12-03,Alto,En seguimiento,66
+3036,2025-07-29,Bajo,En seguimiento,27
+3037,2026-05-08,Alto,Finalizado,83
+3038,2026-03-04,Bajo,Pendiente,32
+3039,2025-09-03,Moderado,Pendiente,53
+3040,2025-09-09,Bajo,Finalizado,29
+3041,2026-01-05,Moderado,Atendido,49
+3042,2025-07-30,Bajo,Finalizado,28
+3043,2025-07-06,Bajo,Finalizado,35
+3044,2025-07-08,Alto,En seguimiento,67
+3045,2025-08-09,Bajo,Pendiente,15
+3046,2025-11-22,Bajo,Atendido,29
+3047,2026-06-01,Alto,Atendido,70
+3048,2026-05-07,Moderado,Finalizado,57
+3049,2025-08-09,Bajo,En seguimiento,25
+3050,2026-06-27,Alto,Atendido,73
+3051,2026-02-13,Alto,Atendido,83
+3052,2025-11-27,Alto,En seguimiento,82
+3053,2025-11-14,Bajo,Finalizado,11
+3054,2025-12-25,Crítico,Pendiente,90
+3055,2025-08-10,Bajo,En seguimiento,26
+3056,2025-10-27,Bajo,En seguimiento,13
+3057,2026-01-07,Alto,En seguimiento,67
+3058,2025-10-29,Moderado,Pendiente,39
+3059,2025-07-11,Moderado,Finalizado,44
+3060,2025-11-20,Moderado,Atendido,62
+3061,2025-08-13,Bajo,Pendiente,25
+3062,2025-07-10,Alto,Pendiente,80
+3063,2025-07-23,Bajo,Pendiente,15
+3064,2026-06-03,Moderado,Finalizado,57
+3065,2025-12-04,Bajo,Atendido,10
+3066,2026-05-08,Alto,Atendido,74
+3067,2026-04-29,Bajo,Finalizado,20
+3068,2026-05-15,Moderado,Pendiente,61
+3069,2025-07-30,Alto,Pendiente,75
+3070,2026-03-31,Moderado,Atendido,41
+3071,2026-01-12,Moderado,En seguimiento,40
+3072,2025-07-08,Bajo,Atendido,12
+3073,2025-11-05,Alto,Atendido,76
+3074,2026-04-19,Moderado,Atendido,47
+3075,2025-11-15,Moderado,Finalizado,39
+3076,2025-12-05,Moderado,Atendido,62
+3077,2025-11-13,Alto,Pendiente,80
+3078,2025-07-09,Moderado,Pendiente,37
+3079,2025-12-31,Moderado,En seguimiento,49
+3080,2025-07-30,Moderado,Finalizado,44
+3081,2026-05-09,Moderado,Finalizado,50
+3082,2025-10-01,Bajo,Atendido,18
+3083,2026-03-11,Bajo,En seguimiento,14
+3084,2026-05-13,Moderado,En seguimiento,39
+3085,2026-06-01,Bajo,Pendiente,28
+3086,2025-12-10,Bajo,En seguimiento,11
+3087,2025-11-10,Crítico,Finalizado,96
+3088,2025-12-28,Moderado,Finalizado,55
+3089,2025-10-29,Bajo,Finalizado,26
+3090,2026-02-13,Bajo,Finalizado,17
+3091,2025-10-13,Bajo,Atendido,31
+3092,2026-01-29,Bajo,Pendiente,19
+3093,2025-09-12,Bajo,Atendido,20
+3094,2026-01-25,Alto,Atendido,81
+3095,2025-11-28,Moderado,En seguimiento,47
+3096,2025-07-23,Bajo,En seguimiento,28
+3097,2025-07-14,Bajo,En seguimiento,35
+3098,2025-12-08,Moderado,Atendido,42
+3099,2026-01-10,Alto,Finalizado,70
+3100,2026-01-12,Alto,Finalizado,68
+3101,2025-10-23,Moderado,Pendiente,53
+3102,2025-09-01,Alto,Finalizado,85
+3103,2026-02-27,Moderado,Pendiente,46
+3104,2025-11-15,Bajo,Atendido,17
+3105,2025-12-16,Bajo,Atendido,17
+3106,2026-02-19,Bajo,Finalizado,32
+3107,2025-11-01,Moderado,Pendiente,47
+3108,2025-08-10,Moderado,Finalizado,65
+3109,2026-01-02,Moderado,En seguimiento,50
+3110,2026-01-31,Bajo,En seguimiento,27
+3111,2025-11-03,Alto,Pendiente,84
+3112,2026-06-06,Bajo,Atendido,35
+3113,2025-11-24,Bajo,Finalizado,12
+3114,2026-01-26,Moderado,En seguimiento,54
+3115,2026-03-11,Moderado,En seguimiento,64
+3116,2025-10-01,Alto,Finalizado,71
+3117,2025-08-31,Moderado,Pendiente,59
+3118,2025-08-21,Bajo,Finalizado,23
+3119,2025-07-13,Moderado,Finalizado,40
+3120,2026-03-21,Alto,Pendiente,79
+3121,2025-12-29,Bajo,En seguimiento,32
+3122,2025-11-28,Bajo,Atendido,28
+3123,2026-05-08,Moderado,Finalizado,38
+3124,2025-12-29,Crítico,Pendiente,96
+3125,2026-02-16,Alto,Pendiente,75
+3126,2026-03-02,Alto,En seguimiento,84
+3127,2026-03-18,Bajo,Finalizado,28
+3128,2026-04-30,Moderado,Pendiente,48
+3129,2025-12-12,Moderado,Atendido,60
+3130,2025-08-19,Bajo,Pendiente,20
+3131,2025-07-25,Moderado,Pendiente,45
+3132,2025-12-13,Moderado,En seguimiento,40
+3133,2025-07-22,Alto,En seguimiento,79
+3134,2026-03-23,Bajo,Atendido,13
+3135,2025-12-25,Bajo,Finalizado,19
+3136,2025-11-18,Moderado,En seguimiento,64
+3137,2025-09-25,Bajo,Atendido,29
+3138,2025-08-24,Crítico,Atendido,88
+3139,2025-08-19,Bajo,En seguimiento,10
+3140,2026-05-03,Crítico,En seguimiento,86
+3141,2026-03-08,Alto,Finalizado,77
+3142,2025-10-13,Bajo,Pendiente,33
+3143,2026-02-13,Moderado,Pendiente,45
+3144,2025-08-26,Alto,Finalizado,80
+3145,2026-02-07,Moderado,Finalizado,63
+3146,2025-09-09,Crítico,Finalizado,91
+3147,2025-08-10,Alto,En seguimiento,68
+3148,2025-12-15,Bajo,Atendido,18
+3149,2026-02-18,Moderado,Finalizado,58
+3150,2026-06-18,Bajo,Finalizado,23
+3151,2025-08-21,Crítico,Atendido,89
+3152,2026-04-12,Moderado,Finalizado,56
+3153,2026-05-18,Bajo,En seguimiento,28
+3154,2026-01-09,Alto,En seguimiento,72
+3155,2025-11-13,Moderado,Pendiente,62
+3156,2025-10-04,Alto,Atendido,70
+3157,2025-10-10,Moderado,Finalizado,52
+3158,2025-10-18,Bajo,Finalizado,25
+3159,2026-04-12,Moderado,En seguimiento,37
+3160,2026-01-31,Moderado,Pendiente,56
+3161,2026-04-25,Bajo,Atendido,25
+3162,2026-03-29,Moderado,En seguimiento,64
+3163,2025-12-01,Alto,Atendido,81
+3164,2026-03-08,Alto,Pendiente,85
+3165,2025-12-30,Moderado,Atendido,39
+3166,2025-10-21,Bajo,Atendido,23
+3167,2026-02-14,Bajo,Pendiente,13
+3168,2025-09-29,Moderado,Atendido,57
+3169,2025-08-28,Bajo,Pendiente,32
+3170,2025-09-04,Alto,Pendiente,81
+3171,2026-05-04,Moderado,En seguimiento,36
+3172,2025-11-26,Bajo,En seguimiento,35
+3173,2026-01-26,Bajo,Atendido,18
+3174,2026-06-11,Bajo,Pendiente,35
+3175,2026-02-12,Moderado,Atendido,65
+3176,2025-07-28,Bajo,En seguimiento,20
+3177,2026-05-22,Alto,Atendido,80
+3178,2026-01-26,Bajo,En seguimiento,27
+3179,2025-10-14,Alto,Finalizado,85
+3180,2026-05-09,Bajo,Finalizado,33
+3181,2025-07-11,Alto,Finalizado,76
+3182,2025-12-28,Alto,Finalizado,67
+3183,2026-03-23,Bajo,En seguimiento,15
+3184,2026-04-01,Moderado,En seguimiento,45
+3185,2025-09-21,Crítico,Atendido,92
+3186,2025-10-19,Moderado,En seguimiento,36
+3187,2025-07-19,Alto,Finalizado,82
+3188,2026-01-20,Alto,Finalizado,71
+3189,2025-11-22,Bajo,En seguimiento,30
+3190,2026-06-18,Bajo,Atendido,33
+3191,2025-09-02,Alto,Pendiente,78
+3192,2025-09-06,Alto,Atendido,68
+3193,2025-08-09,Bajo,Pendiente,10
+3194,2025-07-08,Alto,En seguimiento,69
+3195,2026-04-28,Alto,En seguimiento,85
+3196,2025-12-07,Alto,Pendiente,82
+3197,2025-07-12,Bajo,Pendiente,16
+3198,2025-08-21,Bajo,Pendiente,22
+3199,2025-11-27,Moderado,En seguimiento,49
+3200,2026-04-14,Bajo,Atendido,32
+3201,2026-03-31,Moderado,Pendiente,36
+3202,2026-03-12,Alto,Atendido,83
+3203,2025-08-25,Moderado,Finalizado,48
+3204,2025-10-27,Moderado,Pendiente,54
+3205,2025-08-25,Moderado,Atendido,40
+3206,2026-05-19,Crítico,Finalizado,94
+3207,2025-09-25,Bajo,Pendiente,28
+3208,2025-11-05,Bajo,Pendiente,29
+3209,2026-02-28,Moderado,En seguimiento,37
+3210,2026-03-10,Bajo,Atendido,33
+3211,2025-12-20,Alto,Finalizado,76
+3212,2026-06-18,Moderado,Pendiente,63
+3213,2025-07-03,Bajo,En seguimiento,34
+3214,2026-04-14,Alto,Pendiente,76
+3215,2026-05-30,Bajo,Pendiente,32
+3216,2026-03-05,Moderado,Finalizado,65
+3217,2025-08-23,Moderado,Finalizado,48
+3218,2025-09-04,Alto,En seguimiento,82
+3219,2025-09-01,Bajo,Pendiente,13
+3220,2025-07-20,Alto,Pendiente,71
+3221,2026-05-17,Alto,Pendiente,70
+3222,2026-04-07,Moderado,Finalizado,45
+3223,2025-08-30,Moderado,Atendido,59
+3224,2026-06-12,Bajo,Atendido,29
+3225,2026-01-07,Moderado,En seguimiento,40
+3226,2025-11-26,Moderado,En seguimiento,61
+3227,2026-05-11,Crítico,Atendido,94
+3228,2026-05-06,Bajo,Pendiente,16
+3229,2025-12-17,Crítico,En seguimiento,88
+3230,2026-03-26,Alto,Pendiente,66
+3231,2025-12-10,Moderado,En seguimiento,51
+3232,2025-08-04,Crítico,Finalizado,90
+3233,2026-06-25,Bajo,Finalizado,27
+3234,2026-02-20,Bajo,Finalizado,29
+3235,2026-02-25,Moderado,Finalizado,47
+3236,2026-05-22,Moderado,En seguimiento,47
+3237,2026-05-18,Bajo,En seguimiento,18
+3238,2025-11-23,Alto,Pendiente,84
+3239,2025-12-04,Moderado,Pendiente,65
+3240,2025-11-08,Moderado,En seguimiento,38
+3241,2026-04-30,Bajo,En seguimiento,18
+3242,2025-09-30,Bajo,Finalizado,14
+3243,2026-03-25,Moderado,Pendiente,46
+3244,2026-04-21,Alto,Atendido,85
+3245,2026-06-08,Crítico,En seguimiento,88
+3246,2025-07-02,Alto,En seguimiento,68
+3247,2026-05-11,Bajo,En seguimiento,25
+3248,2025-07-01,Bajo,Finalizado,14
+3249,2026-03-19,Alto,Pendiente,81
+3250,2025-12-15,Bajo,Finalizado,17
+3251,2026-04-13,Moderado,Pendiente,58
+3252,2026-02-28,Moderado,Atendido,52
+3253,2025-08-10,Alto,En seguimiento,71
+3254,2026-05-21,Alto,En seguimiento,79
+3255,2026-04-13,Moderado,Atendido,57
+3256,2025-08-31,Moderado,Pendiente,56
+3257,2025-12-26,Bajo,Atendido,24
+3258,2026-06-09,Bajo,Pendiente,16
+3259,2026-05-12,Moderado,En seguimiento,48
+3260,2026-01-08,Bajo,Finalizado,16
+3261,2026-02-12,Moderado,En seguimiento,36
+3262,2026-04-27,Bajo,Finalizado,21
+3263,2025-11-07,Moderado,Finalizado,55
+3264,2025-11-17,Bajo,Atendido,30
+3265,2026-03-03,Moderado,Atendido,44
+3266,2026-05-17,Bajo,Finalizado,32
+3267,2026-02-27,Crítico,Pendiente,93
+3268,2025-09-27,Moderado,Finalizado,37
+3269,2026-01-06,Bajo,En seguimiento,32
+3270,2025-09-29,Alto,En seguimiento,68
+3271,2026-01-31,Alto,Finalizado,67
+3272,2026-02-13,Moderado,Finalizado,46
+3273,2025-08-19,Alto,Atendido,72
+3274,2026-06-01,Moderado,Finalizado,46
+3275,2026-06-10,Alto,Atendido,71
+3276,2026-04-27,Alto,Atendido,82
+3277,2025-07-08,Crítico,Pendiente,92
+3278,2026-06-07,Moderado,Finalizado,42
+3279,2026-03-14,Bajo,Atendido,12
+3280,2025-09-27,Moderado,Atendido,55
+3281,2025-10-10,Moderado,Pendiente,41
+3282,2026-05-22,Alto,Finalizado,75
+3283,2025-11-18,Moderado,Finalizado,46
+3284,2026-02-24,Moderado,Finalizado,54
+3285,2026-02-23,Bajo,Finalizado,15
+3286,2025-08-14,Bajo,Finalizado,34
+3287,2025-09-25,Alto,En seguimiento,77
+3288,2026-02-21,Bajo,En seguimiento,19
+3289,2026-06-14,Moderado,En seguimiento,59
+3290,2025-09-06,Bajo,Pendiente,32
+3291,2025-11-24,Bajo,En seguimiento,28
+3292,2025-12-09,Moderado,En seguimiento,44
+3293,2025-10-11,Bajo,Atendido,18
+3294,2026-06-23,Moderado,Finalizado,51
+3295,2025-12-29,Moderado,Atendido,60
+3296,2026-05-25,Moderado,En seguimiento,37
+3297,2026-04-26,Moderado,En seguimiento,58
+3298,2026-02-08,Bajo,Atendido,16
+3299,2025-12-23,Moderado,Atendido,38
+3300,2026-03-20,Alto,Atendido,72
+3301,2026-02-25,Bajo,Finalizado,26
+3302,2026-06-03,Moderado,Pendiente,40
+3303,2026-02-25,Moderado,Atendido,54
+3304,2026-01-10,Moderado,Finalizado,46
+3305,2026-06-25,Bajo,Atendido,10
+3306,2025-09-20,Moderado,Atendido,46
+3307,2026-05-28,Crítico,En seguimiento,100
+3308,2025-12-31,Bajo,Pendiente,27
+3309,2025-10-04,Alto,Pendiente,85
+3310,2026-02-19,Moderado,Pendiente,59
+3311,2026-01-21,Moderado,En seguimiento,44
+3312,2026-01-08,Moderado,Pendiente,57
+3313,2026-01-22,Bajo,En seguimiento,34
+3314,2026-03-17,Bajo,Pendiente,34
+3315,2025-11-15,Crítico,Pendiente,95
+3316,2025-07-15,Bajo,En seguimiento,19
+3317,2026-05-02,Crítico,En seguimiento,95
+3318,2025-09-10,Bajo,Atendido,35
+3319,2025-07-28,Crítico,Atendido,98
+3320,2025-09-11,Alto,Pendiente,78
+3321,2025-09-23,Moderado,En seguimiento,42
+3322,2025-09-27,Bajo,Finalizado,15
+3323,2025-10-29,Alto,Pendiente,68
+3324,2025-11-03,Bajo,Atendido,10
+3325,2026-03-02,Bajo,Finalizado,25
+3326,2026-04-08,Moderado,En seguimiento,65
+3327,2026-02-27,Moderado,Pendiente,58
+3328,2025-11-02,Alto,Finalizado,78
+3329,2025-09-04,Bajo,En seguimiento,22
+3330,2025-12-15,Alto,Pendiente,85
+3331,2026-01-18,Moderado,Atendido,51
+3332,2026-06-08,Alto,Finalizado,73
+3333,2026-05-08,Bajo,En seguimiento,21
+3334,2026-01-02,Bajo,Finalizado,29
+3335,2026-05-03,Alto,Finalizado,73
+3336,2025-09-09,Moderado,Finalizado,42
+3337,2025-12-02,Moderado,Atendido,48
+3338,2026-05-31,Bajo,En seguimiento,19
+3339,2025-12-07,Moderado,Pendiente,37
+3340,2025-11-11,Crítico,Pendiente,88
+3341,2025-09-22,Moderado,Finalizado,50
+3342,2025-08-12,Bajo,Finalizado,30
+3343,2026-01-24,Alto,Finalizado,71
+3344,2025-12-11,Bajo,Pendiente,31
+3345,2026-02-18,Bajo,Pendiente,23
+3346,2025-07-28,Bajo,Atendido,33
+3347,2026-05-21,Bajo,Pendiente,26
+3348,2026-01-07,Alto,Atendido,83
+3349,2026-01-03,Bajo,En seguimiento,23
+3350,2026-03-30,Alto,Finalizado,70
+3351,2025-07-04,Bajo,Atendido,16
+3352,2026-03-21,Alto,Pendiente,79
+3353,2025-07-25,Moderado,Finalizado,39
+3354,2026-03-08,Moderado,Finalizado,64
+3355,2026-05-03,Moderado,Atendido,49
+3356,2025-12-20,Moderado,Finalizado,53
+3357,2025-11-14,Bajo,Atendido,23
+3358,2025-07-09,Moderado,Atendido,56
+3359,2025-07-19,Moderado,Atendido,59
+3360,2025-07-19,Moderado,Pendiente,43
+3361,2025-09-28,Bajo,Finalizado,14
+3362,2025-09-13,Moderado,Pendiente,64
+3363,2025-11-18,Bajo,Pendiente,32
+3364,2026-05-13,Bajo,Pendiente,11
+3365,2025-08-09,Bajo,Finalizado,14
+3366,2026-05-08,Crítico,Finalizado,92
+3367,2026-03-20,Crítico,Finalizado,91
+3368,2026-05-23,Alto,Pendiente,78
+3369,2025-07-12,Bajo,Atendido,33
+3370,2026-05-31,Alto,Finalizado,79
+3371,2025-08-29,Alto,Atendido,75
+3372,2026-05-12,Moderado,En seguimiento,58
+3373,2025-07-26,Moderado,Pendiente,42
+3374,2026-02-09,Bajo,En seguimiento,18
+3375,2026-03-14,Moderado,Pendiente,65
+3376,2025-10-01,Moderado,Atendido,36
+3377,2026-01-25,Bajo,Pendiente,31
+3378,2025-09-05,Bajo,Pendiente,29
+3379,2026-05-22,Bajo,En seguimiento,17
+3380,2025-07-10,Alto,En seguimiento,68
+3381,2026-05-10,Bajo,Pendiente,28
+3382,2026-02-01,Moderado,Atendido,53
+3383,2026-01-16,Moderado,Finalizado,46
+3384,2025-12-22,Bajo,Pendiente,14
+3385,2026-02-22,Alto,Pendiente,72
+3386,2026-03-30,Moderado,Pendiente,44
+3387,2026-01-23,Bajo,Finalizado,30
+3388,2026-03-07,Moderado,Atendido,38
+3389,2025-10-15,Alto,Atendido,75
+3390,2025-11-27,Alto,Pendiente,80
+3391,2025-07-16,Bajo,En seguimiento,29
+3392,2025-12-28,Moderado,Pendiente,60
+3393,2025-07-12,Alto,Atendido,83
+3394,2026-03-09,Crítico,Pendiente,100
+3395,2026-04-02,Bajo,Finalizado,13
+3396,2026-01-19,Bajo,Finalizado,28
+3397,2025-11-26,Bajo,En seguimiento,34
+3398,2026-01-22,Moderado,Atendido,60
+3399,2025-10-20,Moderado,Atendido,46
+3400,2026-01-02,Moderado,Atendido,52
+3401,2026-04-01,Moderado,En seguimiento,63
+3402,2026-01-23,Moderado,Pendiente,45
+3403,2026-02-16,Bajo,En seguimiento,22
+3404,2025-11-25,Bajo,Atendido,34
+3405,2026-02-23,Moderado,Finalizado,48
+3406,2026-04-24,Moderado,Pendiente,49
+3407,2025-10-05,Moderado,En seguimiento,40
+3408,2026-05-09,Moderado,Finalizado,55
+3409,2026-04-19,Alto,Finalizado,76
+3410,2026-05-09,Bajo,Pendiente,31
+3411,2025-08-16,Crítico,Finalizado,97
+3412,2026-05-04,Alto,Pendiente,83
+3413,2026-03-19,Alto,En seguimiento,80
+3414,2026-01-05,Alto,En seguimiento,71
+3415,2026-02-27,Crítico,En seguimiento,91
+3416,2025-09-06,Bajo,Finalizado,16
+3417,2026-04-22,Moderado,En seguimiento,57
+3418,2026-05-05,Moderado,En seguimiento,61
+3419,2025-09-29,Crítico,Finalizado,98
+3420,2026-05-06,Alto,En seguimiento,73
+3421,2026-02-22,Alto,Finalizado,66
+3422,2025-07-17,Moderado,Pendiente,63
+3423,2026-03-24,Crítico,Pendiente,87
+3424,2026-01-30,Crítico,Finalizado,97
+3425,2026-05-07,Moderado,Finalizado,50
+3426,2026-03-04,Alto,Finalizado,75
+3427,2026-01-20,Alto,Finalizado,77
+3428,2026-01-21,Alto,Pendiente,79
+3429,2025-09-02,Bajo,Atendido,34
+3430,2026-04-23,Alto,Finalizado,71
+3431,2026-01-04,Moderado,Atendido,40
+3432,2025-11-02,Alto,En seguimiento,74
+3433,2025-08-19,Bajo,Finalizado,24
+3434,2026-06-29,Moderado,En seguimiento,60
+3435,2025-11-11,Bajo,Pendiente,20
+3436,2026-02-16,Moderado,Atendido,55
+3437,2025-07-19,Alto,En seguimiento,82
+3438,2025-11-25,Bajo,Atendido,28
+3439,2026-01-02,Alto,Atendido,71
+3440,2026-04-17,Moderado,Pendiente,58
+3441,2026-02-11,Moderado,En seguimiento,59
+3442,2026-06-21,Bajo,Atendido,22
+3443,2025-11-09,Moderado,Finalizado,63
+3444,2025-10-17,Moderado,En seguimiento,54
+3445,2025-07-07,Bajo,Pendiente,25
+3446,2026-05-13,Crítico,Atendido,96
+3447,2025-09-18,Moderado,Atendido,52
+3448,2026-01-08,Moderado,Pendiente,56
+3449,2025-09-25,Alto,Pendiente,71
+3450,2026-03-05,Alto,Finalizado,68
+3451,2025-12-23,Bajo,En seguimiento,17
+3452,2025-09-15,Bajo,Finalizado,30
+3453,2025-10-09,Moderado,Pendiente,54
+3454,2026-05-23,Crítico,En seguimiento,97
+3455,2025-10-12,Moderado,Finalizado,48
+3456,2026-05-17,Bajo,Atendido,26
+3457,2025-08-04,Bajo,Finalizado,35
+3458,2025-07-29,Moderado,En seguimiento,43
+3459,2025-11-09,Alto,En seguimiento,73
+3460,2025-10-25,Moderado,Pendiente,41
+3461,2025-07-21,Crítico,Atendido,94
+3462,2025-11-20,Bajo,En seguimiento,33
+3463,2025-08-02,Crítico,En seguimiento,94
+3464,2025-12-03,Bajo,En seguimiento,17
+3465,2026-04-26,Alto,Pendiente,80
+3466,2025-08-20,Moderado,Finalizado,46
+3467,2026-05-21,Bajo,Pendiente,13
+3468,2026-02-12,Bajo,En seguimiento,13
+3469,2026-04-04,Moderado,Pendiente,45
+3470,2026-04-18,Bajo,Pendiente,13
+3471,2026-02-12,Alto,En seguimiento,84
+3472,2026-05-22,Moderado,Pendiente,36
+3473,2025-11-06,Alto,Atendido,81
+3474,2026-05-20,Bajo,Pendiente,26
+3475,2025-11-23,Crítico,Atendido,90
+3476,2026-03-30,Bajo,Atendido,31
+3477,2026-04-14,Moderado,Pendiente,39
+3478,2025-10-02,Moderado,Atendido,64
+3479,2026-03-18,Moderado,En seguimiento,41
+3480,2025-08-03,Alto,Atendido,69
+3481,2026-02-12,Bajo,En seguimiento,16
+3482,2025-08-25,Alto,En seguimiento,75
+3483,2026-03-14,Bajo,Pendiente,13
+3484,2026-06-16,Bajo,En seguimiento,28
+3485,2026-06-10,Bajo,En seguimiento,16
+3486,2026-01-19,Alto,En seguimiento,85
+3487,2026-06-05,Bajo,Pendiente,30
+3488,2026-05-01,Alto,Atendido,73
+3489,2025-11-12,Moderado,Atendido,47
+3490,2025-09-13,Bajo,Atendido,33
+3491,2025-12-09,Moderado,Pendiente,54
+3492,2026-01-18,Alto,Finalizado,78
+3493,2025-07-29,Crítico,Atendido,96
+3494,2025-09-10,Crítico,Atendido,86
+3495,2026-06-26,Bajo,Atendido,19
+3496,2026-01-08,Bajo,Pendiente,35
+3497,2026-01-12,Bajo,En seguimiento,35
+3498,2025-10-19,Moderado,Pendiente,63
+3499,2025-11-18,Bajo,En seguimiento,15
+3500,2025-12-14,Alto,Pendiente,67
+3501,2026-06-03,Moderado,Pendiente,43
+3502,2025-11-21,Crítico,Pendiente,86
+3503,2025-08-21,Bajo,Atendido,18
+3504,2026-04-02,Moderado,Atendido,39
+3505,2026-02-27,Bajo,Finalizado,20
+3506,2026-01-28,Alto,En seguimiento,84
+3507,2025-12-01,Moderado,Finalizado,50
+3508,2025-11-03,Bajo,Atendido,27
+3509,2026-03-29,Alto,Finalizado,70
+3510,2025-08-04,Alto,Atendido,77
+3511,2026-02-14,Alto,En seguimiento,71
+3512,2025-12-12,Moderado,Pendiente,47
+3513,2025-12-18,Bajo,Atendido,18
+3514,2026-05-06,Alto,Finalizado,70
+3515,2025-08-31,Moderado,Pendiente,48
+3516,2026-03-07,Alto,Finalizado,82
+3517,2026-01-08,Bajo,Pendiente,11
+3518,2026-03-16,Alto,Atendido,83
+3519,2026-03-09,Bajo,Atendido,30
+3520,2025-08-04,Alto,Finalizado,83
+3521,2025-08-27,Moderado,Finalizado,54
+3522,2026-02-25,Moderado,En seguimiento,60
+3523,2025-08-07,Alto,Pendiente,74
+3524,2026-02-24,Moderado,En seguimiento,56
+3525,2025-12-17,Bajo,Atendido,24
+3526,2026-03-28,Alto,Pendiente,66
+3527,2026-01-22,Moderado,Finalizado,55
+3528,2026-01-16,Bajo,En seguimiento,20
+3529,2026-02-04,Bajo,En seguimiento,28
+3530,2026-06-11,Alto,Pendiente,72
+3531,2026-04-21,Crítico,En seguimiento,89
+3532,2025-09-14,Bajo,En seguimiento,13
+3533,2025-07-14,Moderado,Finalizado,60
+3534,2025-09-04,Moderado,Finalizado,46
+3535,2025-12-09,Crítico,En seguimiento,89
+3536,2025-12-03,Bajo,Atendido,17
+3537,2025-10-20,Alto,Finalizado,70
+3538,2026-02-11,Bajo,Pendiente,10
+3539,2026-02-13,Alto,En seguimiento,78
+3540,2025-07-26,Moderado,Pendiente,42
+3541,2025-10-14,Alto,Finalizado,68
+3542,2025-09-28,Moderado,Finalizado,41
+3543,2025-10-16,Bajo,Pendiente,33
+3544,2026-05-06,Moderado,Atendido,49
+3545,2025-10-06,Bajo,Finalizado,35
+3546,2026-03-17,Moderado,Atendido,52
+3547,2025-08-27,Crítico,Finalizado,86
+3548,2026-01-11,Alto,Pendiente,69
+3549,2025-12-29,Moderado,Atendido,62
+3550,2025-08-03,Moderado,Atendido,43
+3551,2026-06-25,Bajo,Pendiente,25
+3552,2025-07-09,Crítico,Atendido,97
+3553,2026-05-28,Alto,Finalizado,70
+3554,2025-11-05,Bajo,Finalizado,14
+3555,2026-03-23,Bajo,Pendiente,34
+3556,2025-07-20,Bajo,En seguimiento,33
+3557,2026-06-04,Bajo,Pendiente,15
+3558,2026-01-31,Bajo,En seguimiento,33
+3559,2026-06-08,Bajo,Finalizado,35
+3560,2025-09-22,Bajo,En seguimiento,19
+3561,2026-01-23,Moderado,Atendido,55
+3562,2025-12-12,Bajo,Finalizado,20
+3563,2025-07-15,Alto,Finalizado,70
+3564,2026-01-25,Bajo,Pendiente,34
+3565,2026-05-03,Alto,En seguimiento,71
+3566,2025-08-21,Bajo,En seguimiento,12
+3567,2026-01-31,Crítico,Finalizado,93
+3568,2026-02-23,Crítico,Pendiente,88
+3569,2026-05-05,Alto,Finalizado,75
+3570,2026-03-01,Moderado,Atendido,40
+3571,2025-12-13,Moderado,Atendido,55
+3572,2026-06-08,Alto,Pendiente,81
+3573,2026-04-19,Bajo,En seguimiento,26
+3574,2025-09-05,Alto,En seguimiento,73
+3575,2026-06-03,Bajo,Finalizado,32
+3576,2026-01-23,Bajo,Finalizado,17
+3577,2025-10-24,Bajo,Atendido,20
+3578,2026-06-29,Crítico,Atendido,98
+3579,2025-09-06,Bajo,Atendido,31
+3580,2025-09-13,Moderado,Finalizado,59
+3581,2026-01-14,Moderado,En seguimiento,41
+3582,2025-07-08,Bajo,Finalizado,35
+3583,2025-10-30,Bajo,Atendido,10
+3584,2026-04-19,Moderado,Atendido,42
+3585,2026-05-18,Alto,Pendiente,80
+3586,2025-10-18,Moderado,Atendido,53
+3587,2026-02-11,Bajo,Atendido,30
+3588,2026-03-21,Crítico,Atendido,100
+3589,2025-10-04,Bajo,Pendiente,34
+3590,2026-04-08,Moderado,Finalizado,57
+3591,2025-12-23,Alto,Atendido,68
+3592,2026-01-04,Moderado,Finalizado,53
+3593,2025-09-03,Bajo,Pendiente,13
+3594,2025-08-31,Moderado,Atendido,40
+3595,2025-12-25,Bajo,Pendiente,27
+3596,2025-08-12,Crítico,En seguimiento,92
+3597,2026-03-19,Bajo,En seguimiento,34
+3598,2025-07-09,Bajo,Atendido,26
+3599,2026-05-04,Alto,Finalizado,83
+3600,2026-01-02,Moderado,En seguimiento,47
+3601,2025-09-20,Bajo,En seguimiento,30
+3602,2026-05-21,Alto,En seguimiento,70
+3603,2026-04-03,Crítico,Pendiente,99
+3604,2025-10-12,Bajo,Pendiente,19
+3605,2026-01-16,Crítico,Pendiente,100
+3606,2026-03-01,Moderado,En seguimiento,59
+3607,2025-12-01,Bajo,Atendido,32
+3608,2026-04-11,Moderado,En seguimiento,65
+3609,2026-05-10,Moderado,Finalizado,37
+3610,2026-01-27,Bajo,Pendiente,15
+3611,2025-11-02,Moderado,En seguimiento,56
+3612,2026-01-31,Moderado,En seguimiento,43
+3613,2025-12-27,Bajo,Atendido,14
+3614,2026-01-22,Bajo,En seguimiento,16
+3615,2026-02-13,Bajo,Atendido,34
+3616,2025-12-15,Bajo,Finalizado,26
+3617,2025-12-07,Moderado,Pendiente,43
+3618,2026-06-04,Moderado,Finalizado,53
+3619,2026-05-09,Moderado,Finalizado,64
+3620,2025-12-22,Alto,Finalizado,78
+3621,2025-11-08,Bajo,Pendiente,23
+3622,2026-04-26,Bajo,Pendiente,34
+3623,2025-11-27,Bajo,Finalizado,12
+3624,2026-05-05,Crítico,Atendido,89
+3625,2026-06-06,Moderado,Pendiente,49
+3626,2025-07-30,Moderado,Atendido,62
+3627,2025-11-19,Crítico,Atendido,92
+3628,2026-06-07,Alto,Atendido,68
+3629,2025-07-07,Bajo,Pendiente,17
+3630,2026-04-26,Moderado,Pendiente,57
+3631,2025-11-14,Bajo,Pendiente,27
+3632,2026-05-07,Alto,Pendiente,85
+3633,2026-03-23,Alto,Pendiente,67
+3634,2026-05-05,Bajo,Finalizado,28
+3635,2025-08-18,Bajo,En seguimiento,21
+3636,2026-04-24,Moderado,Pendiente,62
+3637,2026-01-18,Alto,Finalizado,77
+3638,2026-05-28,Alto,Pendiente,84
+3639,2026-03-25,Bajo,Pendiente,35
+3640,2026-05-18,Alto,Pendiente,66
+3641,2025-10-19,Moderado,Finalizado,56
+3642,2025-12-16,Bajo,Pendiente,35
+3643,2025-07-15,Alto,Atendido,77
+3644,2026-06-15,Bajo,En seguimiento,18
+3645,2026-02-14,Alto,Atendido,80
+3646,2026-06-23,Crítico,Atendido,98
+3647,2025-09-21,Bajo,Atendido,33
+3648,2026-01-22,Alto,En seguimiento,81
+3649,2025-08-15,Bajo,En seguimiento,20
+3650,2025-12-04,Bajo,Finalizado,30
+3651,2026-01-24,Bajo,Pendiente,30
+3652,2025-10-04,Alto,En seguimiento,74
+3653,2026-06-28,Moderado,Atendido,61
+3654,2026-02-10,Alto,En seguimiento,71
+3655,2025-12-13,Bajo,En seguimiento,28
+3656,2025-12-06,Crítico,Atendido,98
+3657,2026-04-13,Moderado,Pendiente,55
+3658,2026-06-22,Bajo,Finalizado,12
+3659,2026-06-30,Moderado,Pendiente,63
+3660,2025-11-12,Bajo,Atendido,27
+3661,2025-12-29,Moderado,Pendiente,39
+3662,2025-11-28,Moderado,Finalizado,46
+3663,2025-10-24,Moderado,Finalizado,43
+3664,2026-04-07,Bajo,Atendido,10
+3665,2026-03-11,Bajo,En seguimiento,17
+3666,2025-10-24,Moderado,En seguimiento,40
+3667,2025-07-07,Bajo,Finalizado,29
+3668,2026-03-05,Alto,Pendiente,83
+3669,2026-04-09,Crítico,En seguimiento,92
+3670,2025-10-04,Alto,Pendiente,84
+3671,2026-01-15,Alto,Atendido,74
+3672,2026-02-06,Moderado,En seguimiento,46
+3673,2026-04-03,Moderado,En seguimiento,46
+3674,2026-06-25,Bajo,En seguimiento,13
+3675,2026-03-17,Alto,Atendido,69
+3676,2026-05-06,Bajo,Atendido,32
+3677,2026-06-25,Moderado,En seguimiento,50
+3678,2025-11-15,Moderado,Finalizado,50
+3679,2026-05-13,Moderado,Pendiente,38
+3680,2025-09-26,Bajo,Pendiente,27
+3681,2026-05-29,Bajo,Atendido,25
+3682,2026-06-27,Bajo,Atendido,12
+3683,2025-11-19,Moderado,Finalizado,58
+3684,2026-05-03,Moderado,En seguimiento,48
+3685,2025-10-19,Moderado,Atendido,53
+3686,2026-06-22,Moderado,Atendido,43
+3687,2026-04-18,Alto,Pendiente,70
+3688,2026-04-03,Crítico,Atendido,99
+3689,2025-07-04,Crítico,Finalizado,97
+3690,2025-12-31,Moderado,Finalizado,55
+3691,2025-08-02,Moderado,En seguimiento,59
+3692,2025-10-08,Bajo,En seguimiento,15
+3693,2025-07-16,Moderado,Pendiente,59
+3694,2025-08-31,Bajo,Finalizado,22
+3695,2026-04-20,Alto,Pendiente,79
+3696,2026-01-12,Moderado,En seguimiento,63
+3697,2025-12-23,Bajo,Atendido,21
+3698,2025-09-29,Alto,Atendido,81
+3699,2025-08-16,Bajo,Pendiente,16
+3700,2025-10-25,Moderado,Finalizado,46
+3701,2026-02-17,Alto,Atendido,66
+3702,2026-05-07,Bajo,Finalizado,31
+3703,2026-01-08,Bajo,Finalizado,26
+3704,2025-07-07,Bajo,Pendiente,19
+3705,2025-07-15,Alto,Atendido,68
+3706,2025-09-27,Bajo,Pendiente,15
+3707,2026-04-01,Bajo,Atendido,13
+3708,2026-06-15,Crítico,Atendido,95
+3709,2025-09-29,Alto,En seguimiento,82
+3710,2025-09-15,Alto,Pendiente,66
+3711,2026-05-15,Bajo,Finalizado,35
+3712,2025-12-07,Crítico,Finalizado,91
+3713,2026-06-15,Bajo,En seguimiento,13
+3714,2026-03-12,Bajo,En seguimiento,29
+3715,2025-12-20,Crítico,Pendiente,98
+3716,2026-02-15,Crítico,Finalizado,91
+3717,2025-11-04,Moderado,En seguimiento,62
+3718,2026-03-09,Bajo,Pendiente,11
+3719,2025-12-31,Bajo,Pendiente,35
+3720,2026-06-03,Alto,Finalizado,82
+3721,2025-08-16,Moderado,Atendido,65
+3722,2026-03-27,Moderado,Pendiente,60
+3723,2026-04-06,Moderado,Atendido,46
+3724,2025-09-08,Moderado,En seguimiento,45
+3725,2026-05-17,Moderado,Pendiente,48
+3726,2025-08-12,Moderado,Pendiente,39
+3727,2025-12-12,Moderado,Pendiente,45
+3728,2026-03-12,Crítico,Atendido,98
+3729,2026-06-16,Moderado,Finalizado,42
+3730,2025-08-15,Bajo,En seguimiento,30
+3731,2025-12-08,Alto,Finalizado,67
+3732,2025-12-03,Moderado,Atendido,53
+3733,2025-07-27,Alto,Pendiente,82
+3734,2026-03-26,Alto,Atendido,67
+3735,2025-10-18,Bajo,En seguimiento,17
+3736,2026-06-30,Bajo,En seguimiento,25
+3737,2025-10-14,Moderado,Finalizado,37
+3738,2026-01-12,Bajo,Finalizado,19
+3739,2025-07-03,Crítico,Atendido,88
+3740,2026-01-16,Alto,Atendido,78
+3741,2025-07-23,Bajo,En seguimiento,29
+3742,2026-06-08,Bajo,Pendiente,31
+3743,2026-04-19,Alto,Atendido,72
+3744,2026-05-31,Alto,Atendido,79
+3745,2026-06-19,Bajo,Pendiente,22
+3746,2025-11-20,Alto,En seguimiento,81
+3747,2025-11-07,Moderado,Pendiente,37
+3748,2026-06-22,Alto,En seguimiento,73
+3749,2025-08-06,Moderado,Finalizado,41
+3750,2026-03-08,Bajo,Atendido,15
+3751,2025-11-09,Crítico,Pendiente,90
+3752,2026-04-01,Bajo,Atendido,13
+3753,2025-08-31,Moderado,En seguimiento,38
+3754,2026-04-11,Alto,En seguimiento,70
+3755,2026-03-23,Crítico,Pendiente,93
+3756,2025-08-25,Bajo,Finalizado,22
+3757,2025-10-03,Bajo,Finalizado,17
+3758,2026-02-09,Moderado,Pendiente,59
+3759,2025-09-12,Moderado,Finalizado,57
+3760,2026-03-15,Alto,En seguimiento,72
+3761,2025-12-10,Bajo,Finalizado,14
+3762,2025-12-22,Alto,Atendido,71
+3763,2025-12-27,Moderado,Finalizado,48
+3764,2026-01-11,Bajo,Atendido,26
+3765,2025-08-02,Bajo,En seguimiento,20
+3766,2026-06-02,Alto,Finalizado,80
+3767,2025-08-05,Alto,Atendido,83
+3768,2025-09-21,Bajo,Atendido,11
+3769,2025-08-27,Moderado,Pendiente,52
+3770,2026-03-31,Bajo,En seguimiento,33
+3771,2025-12-12,Moderado,En seguimiento,64
+3772,2025-08-23,Moderado,Finalizado,48
+3773,2025-07-02,Moderado,Pendiente,60
+3774,2026-04-17,Bajo,En seguimiento,34
+3775,2026-05-18,Bajo,Finalizado,10
+3776,2026-05-29,Alto,Pendiente,84
+3777,2026-05-27,Moderado,Pendiente,50
+3778,2025-10-30,Moderado,Atendido,47
+3779,2026-05-22,Moderado,En seguimiento,50
+3780,2026-04-01,Alto,En seguimiento,70
+3781,2025-11-24,Moderado,En seguimiento,48
+3782,2025-11-09,Alto,Atendido,66
+3783,2026-02-07,Alto,En seguimiento,67
+3784,2026-02-21,Moderado,En seguimiento,48
+3785,2025-09-03,Alto,Atendido,72
+3786,2026-01-24,Moderado,Pendiente,50
+3787,2026-02-17,Moderado,Pendiente,50
+3788,2026-01-03,Bajo,Pendiente,14
+3789,2026-03-29,Bajo,En seguimiento,32
+3790,2025-10-06,Moderado,Atendido,64
+3791,2026-02-23,Moderado,Pendiente,47
+3792,2026-05-26,Bajo,Pendiente,14
+3793,2026-02-26,Bajo,Pendiente,19
+3794,2026-05-16,Moderado,En seguimiento,42
+3795,2025-12-20,Moderado,En seguimiento,57
+3796,2026-01-13,Crítico,Pendiente,88
+3797,2026-02-12,Bajo,En seguimiento,22
+3798,2026-04-17,Moderado,Atendido,59
+3799,2026-06-14,Moderado,En seguimiento,56
+3800,2026-01-22,Moderado,En seguimiento,40
+3801,2026-01-27,Bajo,En seguimiento,33
+3802,2025-09-05,Alto,Pendiente,76
+3803,2026-05-09,Crítico,Finalizado,96
+3804,2025-08-19,Alto,Finalizado,66
+3805,2025-07-05,Crítico,Finalizado,91
+3806,2025-08-16,Bajo,Atendido,16
+3807,2025-09-16,Crítico,Atendido,99
+3808,2025-08-03,Moderado,Atendido,54
+3809,2026-02-14,Moderado,En seguimiento,45
+3810,2025-12-03,Bajo,En seguimiento,14
+3811,2025-09-22,Moderado,Pendiente,41
+3812,2026-04-14,Moderado,Pendiente,58
+3813,2025-11-21,Moderado,En seguimiento,39
+3814,2026-06-05,Crítico,Pendiente,87
+3815,2025-07-21,Bajo,Pendiente,25
+3816,2026-01-11,Moderado,Finalizado,54
+3817,2026-06-18,Crítico,Atendido,100
+3818,2026-02-11,Moderado,En seguimiento,50
+3819,2025-07-11,Crítico,Atendido,100
+3820,2025-12-21,Crítico,Atendido,87
+3821,2025-09-29,Bajo,Atendido,31
+3822,2026-01-18,Crítico,Finalizado,100
+3823,2026-06-08,Bajo,Atendido,19
+3824,2026-06-30,Alto,Finalizado,77
+3825,2026-05-05,Crítico,Pendiente,86
+3826,2026-05-15,Alto,Pendiente,71
+3827,2026-01-03,Alto,En seguimiento,82
+3828,2025-11-21,Crítico,Finalizado,93
+3829,2025-12-11,Crítico,Finalizado,96
+3830,2025-10-31,Alto,Atendido,80
+3831,2026-02-07,Bajo,Atendido,33
+3832,2026-06-02,Moderado,Finalizado,46
+3833,2026-04-09,Bajo,Finalizado,33
+3834,2026-04-20,Bajo,Pendiente,16
+3835,2026-02-26,Moderado,Finalizado,58
+3836,2026-06-10,Bajo,Pendiente,20
+3837,2026-01-04,Alto,Pendiente,79
+3838,2026-06-28,Bajo,Atendido,33
+3839,2025-11-11,Moderado,Pendiente,45
+3840,2025-11-14,Bajo,Pendiente,31
+3841,2025-08-13,Alto,Atendido,82
+3842,2025-08-28,Bajo,En seguimiento,35
+3843,2025-08-24,Bajo,En seguimiento,21
+3844,2025-08-03,Bajo,En seguimiento,34
+3845,2025-08-14,Alto,Finalizado,66
+3846,2025-12-22,Alto,Finalizado,70
+3847,2026-04-25,Moderado,Pendiente,56
+3848,2025-12-17,Alto,Finalizado,85
+3849,2025-09-01,Bajo,En seguimiento,16
+3850,2025-08-11,Bajo,Finalizado,10
+3851,2026-02-07,Alto,En seguimiento,72
+3852,2025-07-26,Alto,Pendiente,76
+3853,2026-05-17,Moderado,Pendiente,62
+3854,2025-10-10,Alto,Pendiente,85
+3855,2026-06-27,Bajo,Atendido,33
+3856,2026-06-12,Moderado,Finalizado,50
+3857,2025-10-03,Moderado,Finalizado,41
+3858,2025-10-10,Bajo,En seguimiento,32
+3859,2025-09-02,Alto,Finalizado,72
+3860,2025-10-04,Alto,En seguimiento,71
+3861,2026-01-19,Moderado,Atendido,55
+3862,2026-01-28,Moderado,Atendido,42
+3863,2026-02-04,Bajo,Atendido,33
+3864,2025-11-01,Moderado,Atendido,45
+3865,2025-09-21,Bajo,Finalizado,25
+3866,2025-12-24,Crítico,Finalizado,95
+3867,2026-02-06,Bajo,Pendiente,10
+3868,2026-06-11,Bajo,Atendido,32
+3869,2026-06-14,Moderado,Finalizado,54
+3870,2025-11-12,Alto,Atendido,80
+3871,2025-12-31,Alto,Pendiente,77
+3872,2026-03-13,Bajo,Pendiente,20
+3873,2026-04-06,Crítico,En seguimiento,89
+3874,2026-04-27,Bajo,Atendido,23
+3875,2026-02-24,Alto,Atendido,78
+3876,2026-02-23,Alto,Pendiente,80
+3877,2025-09-17,Bajo,Pendiente,23
+3878,2025-07-13,Alto,Atendido,78
+3879,2026-05-20,Bajo,Atendido,10
+3880,2026-02-08,Alto,En seguimiento,70
+3881,2026-04-30,Crítico,En seguimiento,87
+3882,2025-07-09,Moderado,En seguimiento,44
+3883,2025-12-20,Bajo,Pendiente,22
+3884,2025-09-20,Bajo,Atendido,17
+3885,2025-10-06,Moderado,Pendiente,49
+3886,2026-02-08,Crítico,En seguimiento,93
+3887,2026-06-06,Bajo,Finalizado,12
+3888,2025-12-13,Alto,Atendido,70
+3889,2025-10-29,Moderado,Pendiente,61
+3890,2025-10-19,Moderado,Finalizado,45
+3891,2026-05-20,Bajo,Atendido,31
+3892,2026-05-13,Moderado,Finalizado,55
+3893,2025-09-05,Moderado,Atendido,59
+3894,2026-01-08,Alto,En seguimiento,77
+3895,2026-04-16,Crítico,Finalizado,86
+3896,2026-02-14,Moderado,En seguimiento,42
+3897,2025-12-15,Moderado,Atendido,56
+3898,2026-03-01,Alto,Atendido,84
+3899,2025-12-17,Moderado,En seguimiento,46
+3900,2026-05-20,Moderado,En seguimiento,58
+3901,2026-04-30,Moderado,En seguimiento,51
+3902,2026-04-15,Moderado,Finalizado,46
+3903,2026-03-19,Alto,Pendiente,70
+3904,2026-05-16,Bajo,Pendiente,24
+3905,2026-05-05,Crítico,Atendido,87
+3906,2026-02-16,Moderado,En seguimiento,61
+3907,2025-11-19,Alto,Atendido,67
+3908,2026-02-28,Bajo,Finalizado,20
+3909,2025-12-30,Alto,Pendiente,83
+3910,2025-09-13,Alto,Atendido,81
+3911,2025-12-08,Moderado,En seguimiento,62
+3912,2026-05-27,Bajo,Finalizado,19
+3913,2025-08-01,Alto,En seguimiento,82
+3914,2026-03-16,Bajo,Pendiente,23
+3915,2026-06-24,Alto,Finalizado,75
+3916,2025-11-11,Bajo,Atendido,10
+3917,2025-07-15,Moderado,Pendiente,38
+3918,2026-01-05,Moderado,En seguimiento,50
+3919,2026-05-17,Moderado,En seguimiento,55
+3920,2026-02-13,Alto,Finalizado,74
+3921,2026-02-19,Bajo,Pendiente,19
+3922,2025-09-22,Moderado,Atendido,36
+3923,2025-09-02,Bajo,Atendido,27
+3924,2026-03-02,Moderado,Atendido,62
+3925,2026-01-09,Moderado,Pendiente,56
+3926,2025-12-13,Moderado,Atendido,55
+3927,2025-07-18,Moderado,Atendido,54
+3928,2026-04-18,Bajo,Finalizado,33
+3929,2025-09-06,Moderado,Finalizado,40
+3930,2025-09-16,Bajo,En seguimiento,32
+3931,2025-10-29,Bajo,Atendido,21
+3932,2025-12-21,Bajo,Atendido,34
+3933,2025-08-05,Moderado,Finalizado,52
+3934,2026-01-30,Moderado,Pendiente,58
+3935,2025-09-18,Moderado,Finalizado,62
+3936,2025-10-15,Moderado,Finalizado,60
+3937,2025-11-11,Bajo,Finalizado,30
+3938,2026-06-15,Moderado,Finalizado,56
+3939,2026-06-23,Bajo,Finalizado,11
+3940,2025-10-21,Alto,En seguimiento,70
+3941,2026-03-14,Bajo,Pendiente,34
+3942,2026-05-21,Moderado,Finalizado,52
+3943,2025-11-26,Moderado,Pendiente,53
+3944,2025-08-04,Bajo,Finalizado,16
+3945,2025-10-26,Moderado,Finalizado,47
+3946,2026-06-25,Bajo,Atendido,26
+3947,2025-09-23,Moderado,En seguimiento,53
+3948,2025-07-04,Crítico,Atendido,90
+3949,2026-04-11,Moderado,Pendiente,41
+3950,2025-10-12,Alto,Atendido,76
+3951,2025-10-09,Bajo,Atendido,22
+3952,2025-08-31,Moderado,Pendiente,36
+3953,2026-02-14,Moderado,Pendiente,42
+3954,2025-10-03,Bajo,Pendiente,35
+3955,2025-08-24,Alto,En seguimiento,72
+3956,2026-04-18,Alto,Atendido,72
+3957,2026-04-30,Alto,Atendido,80
+3958,2025-07-28,Moderado,En seguimiento,54
+3959,2025-11-07,Bajo,Finalizado,19
+3960,2025-07-07,Bajo,En seguimiento,20
+3961,2025-10-14,Moderado,Pendiente,59
+3962,2025-12-15,Moderado,Pendiente,55
+3963,2025-09-23,Crítico,Pendiente,94
+3964,2026-05-02,Bajo,En seguimiento,12
+3965,2026-05-12,Bajo,Finalizado,10
+3966,2026-05-14,Bajo,Finalizado,18
+3967,2025-07-01,Bajo,Pendiente,33
+3968,2026-04-17,Crítico,Finalizado,86
+3969,2026-01-05,Bajo,En seguimiento,23
+3970,2026-01-07,Bajo,Pendiente,30
+3971,2025-07-12,Bajo,Finalizado,13
+3972,2025-12-02,Bajo,Pendiente,35
+3973,2025-10-13,Bajo,Finalizado,25
+3974,2025-09-28,Bajo,Finalizado,33
+3975,2025-10-29,Moderado,Atendido,44
+3976,2025-07-12,Alto,Pendiente,68
+3977,2026-06-20,Bajo,Finalizado,22
+3978,2026-06-13,Moderado,Finalizado,51
+3979,2026-02-07,Alto,Pendiente,71
+3980,2025-07-07,Moderado,Finalizado,57
+3981,2025-08-02,Crítico,Atendido,97
+3982,2025-11-22,Alto,En seguimiento,74
+3983,2025-07-13,Moderado,En seguimiento,43
+3984,2026-06-19,Moderado,Finalizado,56
+3985,2025-07-23,Alto,Pendiente,83
+3986,2026-06-25,Moderado,En seguimiento,58
+3987,2025-07-25,Bajo,Finalizado,29
+3988,2026-01-05,Moderado,Pendiente,53
+3989,2025-09-22,Moderado,Atendido,59
+3990,2026-04-09,Moderado,Atendido,59
+3991,2026-05-24,Bajo,En seguimiento,28
+3992,2026-01-22,Moderado,Atendido,60
+3993,2025-11-27,Bajo,Pendiente,31
+3994,2026-04-04,Moderado,Pendiente,38
+3995,2026-05-05,Bajo,En seguimiento,20
+3996,2025-12-31,Moderado,Pendiente,60
+3997,2026-04-03,Alto,En seguimiento,67
+3998,2025-12-23,Moderado,En seguimiento,55
+3999,2025-12-22,Moderado,En seguimiento,63
+4000,2026-04-20,Bajo,En seguimiento,32
+4001,2026-01-19,Bajo,Pendiente,13
+4002,2026-03-14,Moderado,Finalizado,54
+4003,2025-07-03,Bajo,En seguimiento,33
+4004,2025-10-25,Moderado,Atendido,51
+4005,2025-08-29,Bajo,Atendido,27
+4006,2026-01-19,Moderado,Pendiente,43
+4007,2026-04-22,Moderado,Pendiente,58
+4008,2025-08-24,Bajo,Pendiente,14
+4009,2026-06-21,Alto,En seguimiento,66
+4010,2026-03-16,Alto,Pendiente,70
+4011,2025-08-06,Moderado,Atendido,43
+4012,2026-01-24,Bajo,En seguimiento,27
+4013,2026-05-23,Bajo,En seguimiento,10
+4014,2025-07-09,Bajo,Finalizado,16
+4015,2025-10-04,Alto,Finalizado,68
+4016,2025-11-07,Moderado,Finalizado,49
+4017,2025-12-31,Moderado,Finalizado,58
+4018,2026-05-02,Bajo,Pendiente,21
+4019,2025-10-15,Bajo,Pendiente,30
+4020,2026-05-11,Moderado,Pendiente,37
+4021,2026-03-13,Bajo,Finalizado,18
+4022,2026-06-24,Moderado,Pendiente,60
+4023,2026-04-02,Alto,Pendiente,84
+4024,2026-05-14,Alto,Pendiente,66
+4025,2026-01-11,Bajo,Pendiente,34
+4026,2025-08-14,Moderado,Finalizado,38
+4027,2025-11-03,Alto,Finalizado,80
+4028,2026-01-11,Alto,En seguimiento,85
+4029,2026-02-26,Bajo,Atendido,27
+4030,2026-06-26,Alto,En seguimiento,85
+4031,2026-01-27,Bajo,En seguimiento,28
+4032,2026-06-11,Alto,Pendiente,68
+4033,2026-03-15,Bajo,Atendido,32
+4034,2026-04-16,Moderado,Finalizado,44
+4035,2026-04-26,Bajo,Pendiente,15
+4036,2026-02-17,Bajo,En seguimiento,11
+4037,2025-11-26,Moderado,Pendiente,39
+4038,2026-06-17,Bajo,Finalizado,16
+4039,2026-03-04,Moderado,Finalizado,48
+4040,2026-05-31,Crítico,Pendiente,86
+4041,2025-12-02,Bajo,Atendido,31
+4042,2026-04-25,Alto,En seguimiento,80
+4043,2026-06-24,Crítico,Finalizado,87
+4044,2025-09-23,Bajo,Finalizado,24
+4045,2026-03-12,Moderado,Pendiente,36
+4046,2026-06-28,Moderado,Atendido,56
+4047,2026-04-05,Bajo,Pendiente,11
+4048,2025-11-20,Moderado,Pendiente,38
+4049,2025-08-03,Bajo,Atendido,25
+4050,2026-01-22,Moderado,En seguimiento,65
+4051,2025-09-09,Bajo,En seguimiento,12
+4052,2026-04-19,Bajo,En seguimiento,24
+4053,2026-06-03,Crítico,Atendido,94
+4054,2025-11-12,Moderado,En seguimiento,54
+4055,2026-01-28,Bajo,Finalizado,17
+4056,2025-10-12,Bajo,En seguimiento,33
+4057,2026-06-25,Moderado,Atendido,37
+4058,2026-03-19,Alto,Finalizado,82
+4059,2026-06-06,Bajo,Finalizado,19
+4060,2025-09-09,Bajo,En seguimiento,25
+4061,2025-10-18,Bajo,Pendiente,25
+4062,2026-03-03,Bajo,En seguimiento,22
+4063,2026-04-10,Moderado,Finalizado,40
+4064,2026-06-07,Bajo,En seguimiento,34
+4065,2025-08-04,Moderado,Finalizado,54
+4066,2025-09-23,Bajo,Pendiente,30
+4067,2026-01-02,Crítico,Atendido,92
+4068,2025-07-31,Alto,Finalizado,76
+4069,2026-01-19,Bajo,Atendido,22
+4070,2026-02-16,Moderado,En seguimiento,59
+4071,2025-09-04,Moderado,Pendiente,56
+4072,2026-05-22,Bajo,Atendido,25
+4073,2025-08-08,Moderado,Finalizado,49
+4074,2025-08-03,Moderado,En seguimiento,60
+4075,2026-05-25,Bajo,Atendido,22
+4076,2025-11-21,Moderado,Atendido,45
+4077,2026-04-01,Moderado,Atendido,63
+4078,2026-02-26,Moderado,Pendiente,60
+4079,2026-06-18,Moderado,En seguimiento,51
+4080,2025-12-20,Bajo,Pendiente,20
+4081,2026-03-30,Moderado,Finalizado,44
+4082,2026-05-19,Bajo,Atendido,19
+4083,2026-05-01,Moderado,Atendido,65
+4084,2025-12-13,Crítico,En seguimiento,91
+4085,2025-12-04,Bajo,Atendido,26
+4086,2026-06-12,Moderado,Atendido,55
+4087,2026-02-03,Moderado,En seguimiento,60
+4088,2026-05-10,Alto,En seguimiento,75
+4089,2025-10-06,Moderado,Atendido,58
+4090,2026-04-04,Moderado,En seguimiento,61
+4091,2026-02-22,Moderado,En seguimiento,39
+4092,2025-11-27,Moderado,En seguimiento,55
+4093,2026-05-21,Alto,En seguimiento,81
+4094,2026-01-08,Bajo,Pendiente,32
+4095,2025-11-16,Crítico,Pendiente,94
+4096,2025-12-22,Bajo,Finalizado,18
+4097,2025-09-02,Crítico,Pendiente,86
+4098,2025-08-04,Bajo,Atendido,25
+4099,2026-02-18,Crítico,Atendido,94
+4100,2026-04-17,Moderado,Atendido,37
+4101,2026-02-04,Moderado,Pendiente,55
+4102,2025-08-25,Moderado,Pendiente,46
+4103,2025-08-31,Bajo,Finalizado,21
+4104,2025-07-28,Bajo,Finalizado,18
+4105,2025-08-25,Moderado,Atendido,40
+4106,2025-08-19,Crítico,Pendiente,89
+4107,2025-07-21,Alto,Finalizado,66
+4108,2025-08-27,Bajo,Atendido,19
+4109,2026-02-06,Bajo,En seguimiento,29
+4110,2026-05-06,Moderado,Atendido,65
+4111,2026-04-09,Moderado,En seguimiento,40
+4112,2025-07-12,Moderado,Atendido,60
+4113,2025-10-21,Bajo,Pendiente,16
+4114,2026-04-04,Moderado,En seguimiento,38
+4115,2026-04-19,Alto,Atendido,81
+4116,2025-09-02,Bajo,Pendiente,17
+4117,2025-11-01,Moderado,En seguimiento,64
+4118,2025-09-27,Crítico,Atendido,87
+4119,2025-07-02,Bajo,Atendido,23
+4120,2026-04-23,Alto,Pendiente,80
+4121,2025-10-18,Bajo,Finalizado,23
+4122,2026-06-30,Moderado,En seguimiento,59
+4123,2026-01-13,Alto,Pendiente,66
+4124,2026-04-04,Alto,En seguimiento,81
+4125,2026-02-09,Alto,Atendido,76
+4126,2025-07-11,Moderado,Pendiente,62
+4127,2026-02-12,Moderado,Atendido,40
+4128,2026-06-26,Bajo,Pendiente,15
+4129,2026-01-23,Bajo,Atendido,21
+4130,2026-01-24,Bajo,Atendido,17
+4131,2026-01-11,Moderado,Pendiente,36
+4132,2026-06-17,Crítico,En seguimiento,96
+4133,2026-06-23,Bajo,Finalizado,22
+4134,2026-04-19,Bajo,Pendiente,10
+4135,2026-03-09,Moderado,Pendiente,65
+4136,2026-02-03,Bajo,Atendido,21
+4137,2025-10-26,Bajo,Atendido,25
+4138,2025-09-19,Bajo,En seguimiento,11
+4139,2026-01-12,Moderado,En seguimiento,38
+4140,2026-06-28,Crítico,Finalizado,95
+4141,2026-06-22,Moderado,Atendido,38
+4142,2026-03-26,Crítico,Pendiente,88
+4143,2025-11-28,Bajo,Pendiente,18
+4144,2025-10-04,Bajo,Atendido,15
+4145,2026-03-24,Bajo,Finalizado,29
+4146,2025-07-27,Moderado,En seguimiento,45
+4147,2026-04-07,Moderado,Pendiente,64
+4148,2025-09-24,Bajo,En seguimiento,29
+4149,2026-06-30,Bajo,Finalizado,18
+4150,2025-09-30,Moderado,Pendiente,53
+4151,2026-01-05,Alto,En seguimiento,83
+4152,2025-10-04,Bajo,Finalizado,20
+4153,2025-09-26,Alto,Finalizado,82
+4154,2026-03-16,Alto,Pendiente,70
+4155,2025-09-24,Bajo,En seguimiento,14
+4156,2025-11-01,Alto,Atendido,84
+4157,2025-11-20,Moderado,Pendiente,41
+4158,2026-06-29,Bajo,En seguimiento,15
+4159,2026-05-24,Moderado,Finalizado,38
+4160,2026-01-10,Bajo,Atendido,24
+4161,2026-03-28,Alto,Pendiente,83
+4162,2026-04-04,Alto,Pendiente,82
+4163,2025-12-29,Alto,Pendiente,74
+4164,2026-03-26,Crítico,En seguimiento,94
+4165,2026-03-13,Bajo,Finalizado,16
+4166,2025-08-07,Moderado,Atendido,62
+4167,2025-11-30,Bajo,Pendiente,22
+4168,2026-01-09,Bajo,Finalizado,20
+4169,2026-03-07,Bajo,Finalizado,16
+4170,2026-02-08,Alto,En seguimiento,80
+4171,2026-04-29,Alto,En seguimiento,75
+4172,2026-01-19,Bajo,Finalizado,17
+4173,2026-02-10,Bajo,Pendiente,24
+4174,2026-06-30,Moderado,En seguimiento,50
+4175,2025-09-05,Moderado,Finalizado,43
+4176,2025-09-13,Alto,Finalizado,75
+4177,2026-01-08,Bajo,Pendiente,22
+4178,2026-05-31,Alto,Finalizado,85
+4179,2025-11-28,Moderado,Pendiente,37
+4180,2026-03-03,Bajo,Atendido,16
+4181,2025-12-06,Crítico,En seguimiento,86
+4182,2025-08-21,Bajo,Atendido,11
+4183,2025-07-13,Moderado,Atendido,36
+4184,2026-02-15,Moderado,Pendiente,47
+4185,2026-05-15,Bajo,Atendido,11
+4186,2026-03-22,Moderado,Pendiente,60
+4187,2026-03-07,Moderado,Finalizado,57
+4188,2026-04-07,Alto,Finalizado,70
+4189,2026-01-10,Bajo,Pendiente,33
+4190,2026-05-22,Bajo,En seguimiento,34
+4191,2025-10-09,Bajo,Pendiente,18
+4192,2026-01-18,Bajo,Finalizado,19
+4193,2025-07-07,Crítico,En seguimiento,92
+4194,2026-04-18,Bajo,En seguimiento,23
+4195,2026-04-07,Moderado,En seguimiento,36
+4196,2025-08-03,Bajo,Finalizado,18
+4197,2026-03-05,Alto,En seguimiento,80
+4198,2025-09-23,Crítico,Pendiente,87
+4199,2025-08-10,Moderado,Atendido,55
+4200,2026-01-07,Alto,Atendido,84
+4201,2026-04-12,Moderado,Atendido,56
+4202,2026-06-06,Bajo,En seguimiento,31
+4203,2026-06-15,Alto,Atendido,85
+4204,2025-11-03,Bajo,Finalizado,23
+4205,2026-03-05,Bajo,Atendido,25
+4206,2026-01-24,Bajo,Atendido,35
+4207,2025-11-09,Bajo,En seguimiento,27
+4208,2025-10-23,Alto,En seguimiento,73
+4209,2026-02-23,Crítico,Finalizado,97
+4210,2026-04-04,Moderado,Pendiente,59
+4211,2026-01-21,Moderado,Atendido,45
+4212,2025-08-11,Bajo,Pendiente,31
+4213,2025-08-03,Alto,Finalizado,79
+4214,2026-01-24,Alto,En seguimiento,79
+4215,2026-02-28,Crítico,Atendido,91
+4216,2025-08-30,Bajo,Pendiente,25
+4217,2026-01-19,Moderado,Pendiente,49
+4218,2025-10-29,Bajo,En seguimiento,20
+4219,2025-09-20,Moderado,Pendiente,63
+4220,2025-08-12,Bajo,Finalizado,35
+4221,2025-07-05,Bajo,Pendiente,25
+4222,2025-08-17,Crítico,En seguimiento,86
+4223,2025-07-02,Moderado,Finalizado,40
+4224,2025-11-27,Crítico,Atendido,96
+4225,2026-06-17,Crítico,Atendido,96
+4226,2026-04-19,Bajo,En seguimiento,19
+4227,2025-12-17,Bajo,Finalizado,11
+4228,2026-05-11,Bajo,En seguimiento,35
+4229,2025-09-26,Alto,Pendiente,69
+4230,2025-11-14,Moderado,Finalizado,62
+4231,2026-05-10,Bajo,Finalizado,24
+4232,2026-05-07,Alto,En seguimiento,82
+4233,2025-08-19,Moderado,En seguimiento,58
+4234,2025-11-23,Bajo,Atendido,31
+4235,2025-09-22,Moderado,Pendiente,47
+4236,2026-03-18,Bajo,Pendiente,23
+4237,2025-10-29,Alto,Atendido,76
+4238,2025-10-16,Bajo,En seguimiento,32
+4239,2025-09-18,Bajo,Finalizado,28
+4240,2025-08-30,Bajo,Pendiente,14
+4241,2025-09-15,Alto,Atendido,76
+4242,2026-06-18,Bajo,En seguimiento,32
+4243,2026-03-04,Moderado,Finalizado,65
+4244,2026-05-26,Moderado,Atendido,65
+4245,2026-06-29,Bajo,Pendiente,30
+4246,2025-07-18,Moderado,Pendiente,42
+4247,2025-12-24,Bajo,Finalizado,35
+4248,2025-11-07,Moderado,Pendiente,50
+4249,2026-06-03,Crítico,Atendido,93
+4250,2025-09-07,Alto,Pendiente,76
+4251,2026-04-17,Alto,En seguimiento,66
+4252,2025-09-23,Crítico,Pendiente,87
+4253,2026-03-07,Alto,Atendido,70
+4254,2025-07-22,Alto,En seguimiento,82
+4255,2026-05-06,Moderado,Atendido,65
+4256,2025-10-12,Alto,Pendiente,67
+4257,2025-07-05,Moderado,Atendido,61
+4258,2026-05-11,Moderado,Finalizado,39
+4259,2026-03-05,Alto,En seguimiento,72
+4260,2025-09-14,Bajo,Atendido,26
+4261,2026-01-17,Alto,En seguimiento,79
+4262,2025-07-21,Moderado,Atendido,53
+4263,2026-02-19,Bajo,Atendido,10
+4264,2026-01-25,Moderado,Finalizado,51
+4265,2026-01-30,Crítico,En seguimiento,100
+4266,2025-12-09,Alto,En seguimiento,80
+4267,2025-11-13,Bajo,Finalizado,17
+4268,2026-06-08,Crítico,Atendido,92
+4269,2025-11-13,Bajo,En seguimiento,11
+4270,2025-10-22,Crítico,Pendiente,89
+4271,2026-01-20,Bajo,Finalizado,12
+4272,2025-11-18,Moderado,Pendiente,36
+4273,2026-03-14,Alto,Atendido,85
+4274,2026-06-05,Bajo,En seguimiento,27
+4275,2026-06-04,Moderado,Finalizado,63
+4276,2025-10-29,Crítico,Pendiente,94
+4277,2025-12-16,Bajo,En seguimiento,10
+4278,2026-06-16,Moderado,Atendido,56
+4279,2025-11-03,Crítico,Finalizado,87
+4280,2025-09-05,Crítico,Atendido,88
+4281,2026-06-02,Bajo,Atendido,23
+4282,2025-09-21,Crítico,En seguimiento,97
+4283,2025-09-22,Moderado,Atendido,45
+4284,2026-04-04,Moderado,Finalizado,38
+4285,2025-09-18,Alto,Finalizado,73
+4286,2025-08-03,Alto,Atendido,71
+4287,2025-08-28,Alto,Atendido,69
+4288,2026-03-14,Alto,Pendiente,82
+4289,2025-09-01,Moderado,Atendido,61
+4290,2025-08-12,Moderado,Finalizado,47
+4291,2025-09-29,Moderado,En seguimiento,53
+4292,2025-11-06,Alto,Finalizado,68
+4293,2025-09-22,Bajo,En seguimiento,26
+4294,2026-06-19,Moderado,Pendiente,65
+4295,2026-05-20,Moderado,Atendido,63
+4296,2026-01-16,Alto,Pendiente,69
+4297,2026-03-20,Alto,Pendiente,72
+4298,2025-09-24,Bajo,Pendiente,34
+4299,2026-04-27,Alto,Finalizado,73
+4300,2026-06-02,Crítico,Pendiente,94
+4301,2026-02-20,Moderado,Atendido,42
+4302,2025-07-22,Bajo,En seguimiento,10
+4303,2026-04-19,Moderado,Atendido,56
+4304,2025-12-21,Moderado,Finalizado,46
+4305,2026-02-23,Bajo,Finalizado,29
+4306,2026-03-24,Moderado,Finalizado,54
+4307,2025-09-08,Moderado,Atendido,39
+4308,2026-05-16,Alto,Atendido,73
+4309,2025-12-07,Moderado,Pendiente,45
+4310,2025-07-20,Alto,Finalizado,75
+4311,2026-06-06,Crítico,En seguimiento,97
+4312,2025-11-10,Alto,En seguimiento,74
+4313,2025-12-22,Alto,Finalizado,82
+4314,2026-01-03,Bajo,Atendido,33
+4315,2025-12-01,Moderado,Finalizado,45
+4316,2025-12-15,Bajo,Finalizado,14
+4317,2026-03-26,Moderado,Finalizado,47
+4318,2025-08-28,Bajo,Atendido,34
+4319,2025-12-18,Bajo,Finalizado,15
+4320,2026-04-22,Bajo,Finalizado,17
+4321,2025-07-26,Bajo,Finalizado,35
+4322,2026-06-30,Moderado,Atendido,65
+4323,2026-04-09,Moderado,Finalizado,64
+4324,2026-01-23,Alto,Finalizado,75
+4325,2026-02-01,Bajo,Atendido,18
+4326,2025-07-27,Bajo,Finalizado,28
+4327,2025-07-03,Bajo,Pendiente,11
+4328,2026-02-26,Alto,Pendiente,83
+4329,2025-08-24,Bajo,En seguimiento,12
+4330,2025-12-19,Bajo,Finalizado,30
+4331,2025-07-09,Moderado,En seguimiento,41
+4332,2026-06-15,Moderado,Pendiente,36
+4333,2026-06-14,Moderado,Atendido,54
+4334,2025-10-05,Moderado,En seguimiento,37
+4335,2026-02-06,Bajo,Pendiente,16
+4336,2026-03-28,Bajo,En seguimiento,22
+4337,2026-04-29,Moderado,Atendido,44
+4338,2025-11-05,Moderado,Finalizado,58
+4339,2026-02-01,Bajo,Pendiente,10
+4340,2025-08-28,Moderado,En seguimiento,59
+4341,2025-11-07,Moderado,En seguimiento,62
+4342,2026-05-25,Moderado,En seguimiento,40
+4343,2026-06-30,Bajo,En seguimiento,33
+4344,2025-07-24,Alto,Pendiente,70
+4345,2025-10-20,Bajo,Finalizado,28
+4346,2025-07-02,Moderado,Finalizado,62
+4347,2026-06-22,Bajo,Finalizado,20
+4348,2025-10-14,Moderado,En seguimiento,59
+4349,2026-05-28,Alto,Atendido,76
+4350,2026-01-27,Moderado,Atendido,50
+4351,2026-06-05,Bajo,En seguimiento,16
+4352,2026-01-16,Moderado,En seguimiento,51
+4353,2026-03-08,Crítico,Pendiente,86
+4354,2025-11-07,Bajo,Pendiente,15
+4355,2025-08-01,Alto,Finalizado,80
+4356,2026-03-26,Bajo,Pendiente,13
+4357,2025-11-25,Bajo,Atendido,15
+4358,2026-02-04,Alto,Pendiente,82
+4359,2025-08-03,Moderado,Atendido,45
+4360,2026-05-26,Bajo,En seguimiento,32
+4361,2025-11-19,Alto,Pendiente,74
+4362,2025-09-21,Moderado,Pendiente,64
+4363,2025-09-07,Bajo,En seguimiento,30
+4364,2026-03-06,Moderado,En seguimiento,39
+4365,2025-11-15,Alto,Atendido,69
+4366,2025-11-17,Alto,Atendido,78
+4367,2025-07-11,Bajo,Finalizado,17
+4368,2025-11-22,Bajo,En seguimiento,34
+4369,2026-06-08,Crítico,En seguimiento,96
+4370,2026-03-12,Crítico,Finalizado,88
+4371,2025-07-11,Bajo,Pendiente,28
+4372,2025-12-22,Bajo,En seguimiento,15
+4373,2025-08-25,Alto,Pendiente,74
+4374,2026-06-22,Alto,En seguimiento,78
+4375,2026-06-08,Alto,Atendido,69
+4376,2026-01-11,Moderado,En seguimiento,64
+4377,2025-11-03,Bajo,Atendido,21
+4378,2026-02-27,Alto,Atendido,81
+4379,2025-10-25,Moderado,Finalizado,58
+4380,2025-08-09,Bajo,En seguimiento,17
+4381,2026-01-27,Alto,En seguimiento,80
+4382,2026-01-28,Moderado,Finalizado,39
+4383,2026-06-14,Crítico,Pendiente,97
+4384,2025-09-08,Bajo,En seguimiento,16
+4385,2026-01-06,Bajo,Atendido,10
+4386,2026-04-27,Moderado,Atendido,56
+4387,2026-04-28,Alto,En seguimiento,68
+4388,2025-12-22,Crítico,Finalizado,87
+4389,2025-11-06,Alto,En seguimiento,67
+4390,2026-03-01,Moderado,En seguimiento,57
+4391,2026-06-22,Alto,Pendiente,72
+4392,2026-01-27,Alto,Finalizado,68
+4393,2026-03-15,Moderado,Atendido,36
+4394,2026-02-04,Moderado,Atendido,60
+4395,2026-02-17,Moderado,En seguimiento,36
+4396,2025-08-19,Crítico,Finalizado,96
+4397,2025-11-18,Bajo,En seguimiento,17
+4398,2025-07-24,Alto,En seguimiento,72
+4399,2025-10-10,Bajo,Pendiente,11
+4400,2026-06-04,Moderado,En seguimiento,37
+4401,2025-08-30,Alto,En seguimiento,77
+4402,2026-05-18,Alto,Atendido,79
+4403,2025-09-17,Moderado,En seguimiento,51
+4404,2026-01-10,Bajo,Atendido,11
+4405,2026-03-30,Bajo,Pendiente,13
+4406,2025-08-13,Alto,En seguimiento,68
+4407,2025-09-17,Moderado,Pendiente,43
+4408,2026-06-24,Alto,Atendido,82
+4409,2026-04-11,Alto,Atendido,80
+4410,2025-09-19,Alto,En seguimiento,80
+4411,2026-02-03,Bajo,Pendiente,18
+4412,2025-12-09,Bajo,En seguimiento,33
+4413,2025-07-11,Bajo,Atendido,22
+4414,2026-04-01,Moderado,Finalizado,63
+4415,2026-04-24,Bajo,En seguimiento,11
+4416,2025-10-26,Alto,Finalizado,83
+4417,2026-03-03,Moderado,En seguimiento,37
+4418,2026-03-23,Bajo,En seguimiento,35
+4419,2025-09-03,Bajo,Finalizado,26
+4420,2026-05-07,Moderado,Finalizado,43
+4421,2026-04-02,Moderado,Atendido,52
+4422,2026-04-02,Bajo,Atendido,20
+4423,2026-04-08,Bajo,En seguimiento,11
+4424,2026-02-04,Moderado,En seguimiento,40
+4425,2025-10-21,Moderado,Finalizado,52
+4426,2025-09-14,Moderado,Finalizado,49
+4427,2026-05-21,Moderado,Atendido,50
+4428,2025-09-23,Moderado,Atendido,36
+4429,2025-07-17,Alto,Finalizado,66
+4430,2025-07-16,Bajo,En seguimiento,34
+4431,2026-05-23,Moderado,Finalizado,58
+4432,2025-10-06,Moderado,Finalizado,50
+4433,2026-04-02,Moderado,Finalizado,61
+4434,2026-05-19,Alto,Finalizado,70
+4435,2025-12-28,Bajo,Finalizado,35
+4436,2026-03-16,Moderado,Atendido,44
+4437,2025-09-20,Bajo,En seguimiento,29
+4438,2026-06-08,Moderado,Pendiente,45
+4439,2026-03-09,Moderado,Finalizado,40
+4440,2025-09-28,Alto,Atendido,82
+4441,2026-05-15,Alto,Atendido,78
+4442,2026-02-26,Bajo,Pendiente,24
+4443,2025-07-14,Bajo,Finalizado,10
+4444,2026-06-04,Bajo,En seguimiento,22
+4445,2025-12-24,Moderado,Finalizado,47
+4446,2026-03-22,Bajo,En seguimiento,22
+4447,2026-01-10,Moderado,En seguimiento,49
+4448,2025-09-15,Alto,En seguimiento,76
+4449,2026-01-06,Moderado,Atendido,45
+4450,2025-09-26,Alto,Pendiente,67
+4451,2026-04-09,Alto,Pendiente,67
+4452,2026-01-25,Bajo,Pendiente,29
+4453,2026-05-11,Moderado,Atendido,61
+4454,2025-07-09,Alto,En seguimiento,70
+4455,2025-08-03,Bajo,Finalizado,13
+4456,2026-01-17,Bajo,Finalizado,27
+4457,2026-03-28,Alto,Atendido,74
+4458,2026-05-26,Bajo,Pendiente,25
+4459,2025-11-05,Moderado,Pendiente,58
+4460,2025-10-05,Moderado,Finalizado,48
+4461,2025-11-15,Bajo,Finalizado,14
+4462,2026-06-22,Moderado,Atendido,59
+4463,2025-09-26,Moderado,Atendido,49
+4464,2025-11-30,Bajo,En seguimiento,23
+4465,2025-09-05,Moderado,Pendiente,42
+4466,2025-08-23,Bajo,Atendido,12
+4467,2026-02-22,Alto,Pendiente,75
+4468,2026-05-20,Moderado,Atendido,60
+4469,2026-01-08,Alto,Finalizado,71
+4470,2026-01-23,Alto,Atendido,76
+4471,2026-04-05,Moderado,Atendido,42
+4472,2025-07-12,Moderado,Pendiente,48
+4473,2025-12-05,Moderado,Atendido,63
+4474,2025-11-26,Moderado,Finalizado,60
+4475,2025-10-24,Alto,Atendido,73
+4476,2026-04-11,Moderado,En seguimiento,62
+4477,2025-11-19,Bajo,En seguimiento,24
+4478,2026-05-09,Alto,Finalizado,76
+4479,2025-07-20,Bajo,Finalizado,19
+4480,2025-10-31,Bajo,En seguimiento,16
+4481,2025-12-29,Bajo,Atendido,28
+4482,2025-12-09,Alto,Finalizado,78
+4483,2025-10-22,Alto,Finalizado,68
+4484,2025-08-18,Alto,Pendiente,82
+4485,2026-02-24,Alto,Finalizado,83
+4486,2025-07-25,Moderado,En seguimiento,43
+4487,2026-04-30,Bajo,En seguimiento,25
+4488,2025-10-19,Bajo,Atendido,17
+4489,2025-07-21,Alto,Finalizado,68
+4490,2025-08-12,Crítico,Pendiente,98
+4491,2025-12-15,Crítico,Finalizado,93
+4492,2026-03-14,Alto,Finalizado,66
+4493,2025-10-03,Bajo,Finalizado,35
+4494,2025-07-16,Moderado,Atendido,60
+4495,2026-01-29,Bajo,En seguimiento,29
+4496,2026-03-26,Crítico,En seguimiento,97
+4497,2026-01-10,Bajo,Pendiente,18
+4498,2025-11-23,Alto,Finalizado,79
+4499,2025-07-02,Alto,En seguimiento,78
+4500,2026-01-05,Moderado,Atendido,40
+4501,2025-07-30,Bajo,Finalizado,35
+4502,2025-09-02,Alto,Atendido,69
+4503,2026-04-03,Bajo,En seguimiento,22
+4504,2026-03-29,Moderado,Finalizado,54
+4505,2025-09-10,Alto,Pendiente,72
+4506,2025-09-26,Alto,En seguimiento,72
+4507,2026-05-07,Moderado,En seguimiento,38
+4508,2025-10-31,Moderado,Atendido,46
+4509,2026-01-31,Bajo,Atendido,11
+4510,2026-06-22,Alto,Atendido,70
+4511,2026-03-24,Moderado,Finalizado,62
+4512,2026-01-04,Moderado,Atendido,43
+4513,2026-03-10,Crítico,Pendiente,92
+4514,2025-07-24,Moderado,Finalizado,39
+4515,2025-09-04,Moderado,Finalizado,37
+4516,2025-10-07,Alto,Finalizado,82
+4517,2025-10-13,Moderado,Pendiente,64
+4518,2026-05-08,Bajo,Finalizado,22
+4519,2025-09-17,Moderado,Finalizado,46
+4520,2025-10-17,Bajo,En seguimiento,34
+4521,2025-10-20,Bajo,Atendido,21
+4522,2025-07-27,Alto,En seguimiento,79
+4523,2026-04-19,Bajo,Pendiente,23
+4524,2026-04-14,Moderado,En seguimiento,55
+4525,2025-10-16,Crítico,Atendido,90
+4526,2025-07-21,Bajo,Atendido,27
+4527,2025-07-03,Alto,Pendiente,72
+4528,2025-12-23,Bajo,Pendiente,31
+4529,2026-04-08,Alto,En seguimiento,79
+4530,2025-07-24,Bajo,Atendido,29
+4531,2025-09-02,Bajo,Atendido,24
+4532,2026-06-19,Moderado,Finalizado,52
+4533,2026-01-05,Crítico,Finalizado,98
+4534,2025-11-26,Bajo,En seguimiento,10
+4535,2026-02-17,Crítico,En seguimiento,92
+4536,2026-05-03,Alto,Pendiente,85
+4537,2026-04-20,Alto,Atendido,83
+4538,2026-05-25,Moderado,Pendiente,38
+4539,2026-03-25,Bajo,Atendido,28
+4540,2026-01-13,Moderado,En seguimiento,40
+4541,2025-12-17,Moderado,Atendido,36
+4542,2026-03-14,Alto,En seguimiento,71
+4543,2025-10-06,Bajo,En seguimiento,19
+4544,2025-09-11,Alto,Pendiente,78
+4545,2026-04-15,Moderado,Finalizado,49
+4546,2026-05-15,Moderado,Pendiente,40
+4547,2026-01-20,Moderado,Pendiente,60
+4548,2026-01-30,Crítico,Finalizado,96
+4549,2026-02-12,Bajo,En seguimiento,19
+4550,2026-04-14,Crítico,En seguimiento,94
+4551,2026-05-07,Bajo,Atendido,30
+4552,2025-11-02,Alto,En seguimiento,83
+4553,2025-07-09,Alto,Atendido,66
+4554,2025-12-24,Crítico,Finalizado,88
+4555,2026-06-21,Moderado,Pendiente,46
+4556,2025-07-16,Moderado,En seguimiento,48
+4557,2026-04-29,Alto,En seguimiento,79
+4558,2026-06-04,Bajo,Pendiente,28
+4559,2026-01-10,Bajo,Finalizado,16
+4560,2025-07-08,Moderado,Pendiente,39
+4561,2026-06-10,Alto,En seguimiento,72
+4562,2026-03-28,Bajo,Atendido,34
+4563,2025-08-31,Bajo,En seguimiento,34
+4564,2025-11-14,Moderado,En seguimiento,43
+4565,2026-04-27,Alto,Atendido,82
+4566,2025-11-17,Moderado,Finalizado,63
+4567,2025-07-16,Alto,En seguimiento,81
+4568,2025-10-23,Bajo,Pendiente,29
+4569,2026-01-17,Crítico,Pendiente,87
+4570,2025-07-29,Bajo,Pendiente,26
+4571,2025-10-12,Bajo,En seguimiento,29
+4572,2025-12-19,Alto,Finalizado,67
+4573,2025-08-03,Moderado,Finalizado,55
+4574,2026-05-28,Bajo,Atendido,30
+4575,2026-05-07,Bajo,Atendido,11
+4576,2026-02-18,Moderado,En seguimiento,63
+4577,2026-05-19,Moderado,Pendiente,56
+4578,2026-01-27,Moderado,Finalizado,59
+4579,2026-01-05,Bajo,Atendido,18
+4580,2025-07-09,Alto,Pendiente,80
+4581,2026-05-03,Bajo,En seguimiento,11
+4582,2026-02-15,Alto,Pendiente,79
+4583,2026-06-09,Bajo,En seguimiento,21
+4584,2025-07-10,Moderado,Finalizado,59
+4585,2026-03-09,Alto,Pendiente,78
+4586,2025-07-25,Crítico,Finalizado,98
+4587,2025-11-12,Bajo,Atendido,12
+4588,2025-10-08,Bajo,Pendiente,17
+4589,2025-08-15,Crítico,Atendido,91
+4590,2025-09-26,Bajo,Pendiente,13
+4591,2026-02-25,Moderado,Finalizado,50
+4592,2025-07-06,Bajo,En seguimiento,31
+4593,2025-08-22,Bajo,En seguimiento,10
+4594,2026-01-11,Bajo,Pendiente,17
+4595,2026-03-20,Crítico,Atendido,88
+4596,2026-02-25,Moderado,Atendido,48
+4597,2025-09-01,Bajo,Pendiente,12
+4598,2026-06-07,Moderado,Atendido,44
+4599,2026-04-30,Bajo,En seguimiento,28
+4600,2025-12-13,Bajo,Pendiente,19
+4601,2026-03-19,Bajo,Finalizado,23
+4602,2025-11-19,Bajo,Finalizado,17
+4603,2026-02-17,Bajo,Atendido,13
+4604,2026-01-20,Moderado,Finalizado,65
+4605,2025-09-11,Crítico,Pendiente,96
+4606,2026-03-20,Bajo,En seguimiento,12
+4607,2025-07-08,Alto,Finalizado,81
+4608,2026-04-28,Moderado,En seguimiento,39
+4609,2026-05-18,Bajo,Pendiente,15
+4610,2026-04-20,Moderado,Pendiente,61
+4611,2026-06-17,Moderado,En seguimiento,60
+4612,2026-02-04,Alto,En seguimiento,83
+4613,2025-11-02,Alto,En seguimiento,83
+4614,2026-06-14,Crítico,Pendiente,86
+4615,2025-12-21,Bajo,Pendiente,33
+4616,2025-07-12,Moderado,Pendiente,48
+4617,2026-06-14,Crítico,Finalizado,93
+4618,2026-03-02,Alto,Pendiente,81
+4619,2025-10-29,Crítico,En seguimiento,99
+4620,2025-07-08,Moderado,Finalizado,48
+4621,2026-04-03,Bajo,En seguimiento,15
+4622,2025-10-23,Moderado,Atendido,57
+4623,2025-09-20,Bajo,Pendiente,31
+4624,2026-06-03,Moderado,Atendido,53
+4625,2026-02-15,Crítico,Atendido,92
+4626,2026-04-18,Bajo,Finalizado,26
+4627,2026-05-30,Alto,En seguimiento,68
+4628,2026-04-19,Bajo,Pendiente,24
+4629,2026-05-01,Crítico,Atendido,89
+4630,2026-02-06,Moderado,Atendido,61
+4631,2026-04-06,Alto,En seguimiento,70
+4632,2025-07-20,Alto,Finalizado,85
+4633,2026-06-20,Alto,Pendiente,85
+4634,2026-06-20,Bajo,Atendido,30
+4635,2025-09-05,Bajo,Atendido,33
+4636,2026-05-09,Moderado,Finalizado,56
+4637,2025-08-13,Bajo,Pendiente,30
+4638,2026-04-06,Moderado,Finalizado,58
+4639,2026-06-01,Moderado,Atendido,65
+4640,2025-09-30,Bajo,Pendiente,24
+4641,2026-01-16,Moderado,En seguimiento,36
+4642,2026-05-12,Moderado,Pendiente,60
+4643,2025-08-09,Crítico,Finalizado,97
+4644,2026-05-18,Moderado,Pendiente,51
+4645,2026-05-09,Moderado,Pendiente,53
+4646,2025-09-15,Alto,Pendiente,82
+4647,2026-03-12,Alto,En seguimiento,70
+4648,2025-12-11,Moderado,En seguimiento,51
+4649,2025-07-20,Alto,Atendido,82
+4650,2025-07-01,Moderado,En seguimiento,57
+4651,2026-05-17,Alto,Atendido,67
+4652,2026-06-22,Bajo,Finalizado,31
+4653,2026-01-01,Alto,Pendiente,78
+4654,2026-05-14,Bajo,Pendiente,28
+4655,2025-07-20,Bajo,Finalizado,15
+4656,2025-11-21,Alto,En seguimiento,76
+4657,2026-01-08,Bajo,En seguimiento,26
+4658,2026-01-18,Moderado,Pendiente,42
+4659,2025-09-10,Moderado,Atendido,41
+4660,2026-05-23,Bajo,En seguimiento,31
+4661,2026-03-30,Alto,Atendido,78
+4662,2025-10-22,Alto,En seguimiento,83
+4663,2026-04-20,Crítico,Atendido,92
+4664,2025-09-23,Bajo,Atendido,15
+4665,2026-03-30,Alto,Pendiente,71
+4666,2025-12-23,Moderado,En seguimiento,48
+4667,2026-04-28,Bajo,En seguimiento,20
+4668,2026-03-29,Moderado,Atendido,39
+4669,2025-10-23,Alto,Finalizado,83
+4670,2026-06-29,Moderado,Atendido,36
+4671,2026-05-27,Moderado,Atendido,48
+4672,2026-04-13,Bajo,Atendido,34
+4673,2026-03-07,Alto,Atendido,74
+4674,2025-10-23,Bajo,Atendido,30
+4675,2026-05-16,Bajo,Finalizado,13
+4676,2026-03-04,Moderado,En seguimiento,37
+4677,2025-10-10,Moderado,Atendido,54
+4678,2025-10-29,Bajo,Finalizado,12
+4679,2026-01-03,Bajo,Atendido,12
+4680,2025-12-14,Bajo,Finalizado,20
+4681,2025-12-15,Bajo,En seguimiento,33
+4682,2025-09-27,Moderado,En seguimiento,62
+4683,2026-01-31,Moderado,Finalizado,43
+4684,2026-02-04,Moderado,Atendido,37
+4685,2025-07-09,Crítico,Atendido,99
+4686,2025-09-15,Moderado,Finalizado,45
+4687,2025-08-14,Bajo,Atendido,15
+4688,2026-02-19,Moderado,Finalizado,58
+4689,2026-04-29,Moderado,Finalizado,55
+4690,2025-09-06,Alto,Finalizado,74
+4691,2026-01-01,Bajo,Atendido,22
+4692,2025-09-22,Alto,Atendido,83
+4693,2026-02-05,Moderado,Atendido,63
+4694,2026-04-25,Moderado,Pendiente,53
+4695,2026-02-12,Bajo,En seguimiento,14
+4696,2026-03-10,Alto,Atendido,74
+4697,2026-04-04,Moderado,Pendiente,47
+4698,2025-12-10,Alto,Atendido,71
+4699,2026-03-15,Bajo,Finalizado,12
+4700,2026-06-20,Moderado,Atendido,36
+4701,2025-09-08,Crítico,Finalizado,100
+4702,2025-07-21,Bajo,Atendido,21
+4703,2026-05-24,Bajo,En seguimiento,12
+4704,2025-10-30,Bajo,Finalizado,35
+4705,2025-12-14,Alto,Finalizado,72
+4706,2025-07-03,Bajo,Pendiente,11
+4707,2026-03-25,Bajo,Pendiente,27
+4708,2025-10-02,Moderado,Atendido,45
+4709,2025-11-23,Alto,Pendiente,78
+4710,2026-04-27,Moderado,Pendiente,40
+4711,2026-03-13,Crítico,En seguimiento,92
+4712,2026-02-15,Alto,Pendiente,75
+4713,2026-05-26,Moderado,Finalizado,40
+4714,2026-01-04,Alto,En seguimiento,77
+4715,2025-11-25,Bajo,Finalizado,26
+4716,2025-10-20,Alto,En seguimiento,83
+4717,2025-08-24,Alto,En seguimiento,68
+4718,2025-09-03,Bajo,En seguimiento,30
+4719,2025-07-04,Moderado,Finalizado,37
+4720,2026-01-10,Alto,Finalizado,82
+4721,2025-11-03,Moderado,Pendiente,41
+4722,2025-10-13,Alto,Pendiente,77
+4723,2025-07-13,Moderado,Pendiente,48
+4724,2026-03-23,Alto,Pendiente,71
+4725,2025-10-01,Alto,Pendiente,80
+4726,2025-12-12,Bajo,Atendido,27
+4727,2026-05-18,Bajo,En seguimiento,22
+4728,2025-09-18,Alto,Finalizado,76
+4729,2025-09-11,Moderado,Pendiente,48
+4730,2026-06-02,Moderado,Finalizado,48
+4731,2025-07-28,Moderado,En seguimiento,58
+4732,2026-02-11,Crítico,Pendiente,88
+4733,2025-08-02,Moderado,En seguimiento,42
+4734,2026-02-12,Alto,En seguimiento,84
+4735,2026-06-01,Moderado,En seguimiento,62
+4736,2025-07-15,Bajo,En seguimiento,14
+4737,2026-04-22,Crítico,En seguimiento,97
+4738,2026-01-27,Alto,Finalizado,79
+4739,2025-12-15,Moderado,Finalizado,56
+4740,2025-12-03,Bajo,En seguimiento,17
+4741,2025-09-24,Bajo,Atendido,32
+4742,2025-11-03,Alto,En seguimiento,76
+4743,2026-04-11,Crítico,Atendido,92
+4744,2025-09-01,Moderado,Pendiente,59
+4745,2026-03-10,Bajo,Pendiente,19
+4746,2025-11-04,Crítico,Atendido,90
+4747,2025-11-07,Moderado,Pendiente,55
+4748,2025-08-29,Bajo,Pendiente,29
+4749,2026-04-25,Moderado,En seguimiento,54
+4750,2025-09-28,Moderado,En seguimiento,37
+4751,2025-12-17,Bajo,Pendiente,34
+4752,2026-03-27,Crítico,Finalizado,89
+4753,2026-03-09,Alto,Atendido,70
+4754,2026-04-23,Crítico,En seguimiento,88
+4755,2025-09-15,Bajo,Finalizado,14
+4756,2026-01-03,Moderado,Finalizado,53
+4757,2025-10-05,Bajo,Finalizado,18
+4758,2026-04-10,Moderado,Pendiente,52
+4759,2026-03-15,Moderado,Pendiente,47
+4760,2026-06-16,Bajo,Atendido,31
+4761,2026-03-21,Moderado,En seguimiento,56
+4762,2026-03-31,Moderado,Finalizado,61
+4763,2025-07-21,Bajo,Atendido,19
+4764,2025-10-29,Crítico,Finalizado,99
+4765,2026-04-20,Alto,Atendido,69
+4766,2026-02-21,Bajo,En seguimiento,16
+4767,2026-04-19,Alto,Finalizado,66
+4768,2025-09-15,Moderado,En seguimiento,60
+4769,2026-04-27,Alto,Finalizado,68
+4770,2025-12-03,Bajo,Atendido,30
+4771,2026-03-19,Bajo,En seguimiento,10
+4772,2026-04-22,Moderado,Pendiente,38
+4773,2025-10-16,Moderado,Pendiente,38
+4774,2026-05-08,Crítico,En seguimiento,92
+4775,2025-07-25,Moderado,En seguimiento,39
+4776,2025-10-15,Bajo,Pendiente,23
+4777,2026-02-24,Alto,En seguimiento,67
+4778,2025-08-28,Moderado,Finalizado,39
+4779,2025-08-27,Moderado,Finalizado,40
+4780,2025-10-01,Bajo,Finalizado,24
+4781,2025-09-08,Alto,Pendiente,73
+4782,2025-10-10,Crítico,En seguimiento,86
+4783,2025-11-28,Moderado,Pendiente,48
+4784,2025-12-20,Bajo,Finalizado,31
+4785,2025-09-30,Moderado,Atendido,60
+4786,2026-03-24,Bajo,Atendido,15
+4787,2025-08-21,Bajo,Finalizado,35
+4788,2026-04-12,Moderado,En seguimiento,65
+4789,2025-12-20,Alto,Atendido,70
+4790,2025-09-15,Moderado,Pendiente,40
+4791,2025-07-09,Alto,En seguimiento,77
+4792,2025-12-27,Alto,Finalizado,66
+4793,2025-10-18,Alto,Atendido,70
+4794,2026-06-21,Moderado,Finalizado,60
+4795,2025-08-19,Bajo,Pendiente,13
+4796,2025-09-11,Bajo,Pendiente,21
+4797,2026-04-08,Bajo,Atendido,22
+4798,2025-12-05,Alto,En seguimiento,72
+4799,2025-07-14,Bajo,Finalizado,33
+4800,2025-09-18,Bajo,Pendiente,11
+4801,2026-02-02,Bajo,En seguimiento,25
+4802,2025-10-27,Moderado,Atendido,37
+4803,2025-09-24,Moderado,Finalizado,50
+4804,2025-08-13,Moderado,Finalizado,49
+4805,2025-10-25,Bajo,Atendido,26
+4806,2026-05-29,Crítico,Finalizado,91
+4807,2025-12-11,Bajo,En seguimiento,31
+4808,2026-05-20,Moderado,En seguimiento,58
+4809,2026-06-29,Alto,Finalizado,73
+4810,2025-07-31,Bajo,Atendido,22
+4811,2026-03-12,Moderado,Pendiente,47
+4812,2026-02-02,Alto,Atendido,85
+4813,2025-08-03,Moderado,Atendido,47
+4814,2025-11-23,Moderado,En seguimiento,43
+4815,2025-11-06,Moderado,Finalizado,40
+4816,2025-11-06,Moderado,Finalizado,39
+4817,2025-07-23,Moderado,Finalizado,61
+4818,2026-03-21,Bajo,En seguimiento,10
+4819,2026-01-28,Moderado,Finalizado,50
+4820,2026-01-21,Bajo,Finalizado,25
+4821,2025-09-21,Moderado,Finalizado,53
+4822,2025-07-07,Moderado,Atendido,50
+4823,2025-08-24,Bajo,Finalizado,33
+4824,2025-08-25,Crítico,Finalizado,93
+4825,2025-08-13,Bajo,Finalizado,23
+4826,2026-02-17,Bajo,Finalizado,24
+4827,2026-06-30,Bajo,Finalizado,11
+4828,2025-11-25,Moderado,Atendido,51
+4829,2025-12-01,Bajo,Pendiente,15
+4830,2025-08-28,Alto,Finalizado,66
+4831,2026-04-16,Moderado,Atendido,53
+4832,2026-03-28,Moderado,Pendiente,49
+4833,2026-06-26,Moderado,Atendido,51
+4834,2025-07-16,Bajo,Finalizado,20
+4835,2025-10-10,Crítico,En seguimiento,95
+4836,2026-01-23,Bajo,Pendiente,18
+4837,2026-02-09,Alto,Pendiente,70
+4838,2025-08-10,Moderado,Finalizado,52
+4839,2025-11-01,Alto,Pendiente,66
+4840,2025-07-17,Bajo,Atendido,22
+4841,2026-01-29,Moderado,Atendido,46
+4842,2026-05-17,Moderado,Finalizado,61
+4843,2025-08-29,Bajo,Pendiente,31
+4844,2026-02-25,Bajo,Atendido,11
+4845,2025-07-11,Alto,Atendido,84
+4846,2025-10-29,Moderado,Finalizado,62
+4847,2026-04-15,Alto,Atendido,84
+4848,2025-07-02,Bajo,Finalizado,20
+4849,2025-09-27,Bajo,Finalizado,35
+4850,2026-04-28,Bajo,Pendiente,22
+4851,2026-05-07,Moderado,Pendiente,56
+4852,2025-10-23,Moderado,En seguimiento,50
+4853,2026-04-29,Moderado,Finalizado,62
+4854,2026-01-29,Moderado,Atendido,39
+4855,2026-01-27,Crítico,Finalizado,88
+4856,2025-10-19,Moderado,Finalizado,51
+4857,2026-03-03,Moderado,En seguimiento,43
+4858,2025-09-28,Alto,Pendiente,71
+4859,2025-10-16,Alto,Atendido,84
+4860,2026-04-18,Crítico,Pendiente,98
+4861,2025-07-08,Bajo,Atendido,15
+4862,2026-02-06,Alto,En seguimiento,66
+4863,2025-10-18,Moderado,Pendiente,62
+4864,2026-04-03,Alto,Finalizado,68
+4865,2026-01-27,Bajo,En seguimiento,31
+4866,2026-06-06,Moderado,Atendido,39
+4867,2026-04-06,Crítico,Finalizado,89
+4868,2026-01-06,Moderado,Pendiente,64
+4869,2025-09-14,Alto,Finalizado,80
+4870,2025-07-12,Alto,Atendido,82
+4871,2025-07-16,Alto,Finalizado,83
+4872,2026-01-21,Alto,Atendido,83
+4873,2025-09-09,Bajo,Finalizado,24
+4874,2025-12-30,Moderado,En seguimiento,54
+4875,2026-02-11,Crítico,Atendido,93
+4876,2025-07-06,Moderado,Finalizado,61
+4877,2025-07-14,Bajo,Finalizado,23
+4878,2026-02-28,Bajo,Finalizado,15
+4879,2025-10-05,Moderado,Finalizado,45
+4880,2026-05-01,Moderado,Finalizado,65
+4881,2025-09-19,Moderado,Pendiente,57
+4882,2026-04-29,Bajo,En seguimiento,29
+4883,2026-06-09,Moderado,En seguimiento,50
+4884,2026-01-17,Moderado,Pendiente,57
+4885,2026-05-22,Bajo,Finalizado,28
+4886,2025-12-29,Bajo,Finalizado,18
+4887,2025-08-15,Alto,Pendiente,69
+4888,2025-12-29,Moderado,Pendiente,64
+4889,2026-04-09,Moderado,En seguimiento,51
+4890,2025-11-23,Moderado,En seguimiento,46
+4891,2026-01-10,Moderado,Pendiente,54
+4892,2026-06-03,Moderado,Pendiente,41
+4893,2025-11-27,Moderado,Pendiente,58
+4894,2026-05-24,Bajo,Pendiente,22
+4895,2026-04-06,Bajo,Atendido,29
+4896,2026-02-05,Bajo,Pendiente,26
+4897,2025-12-07,Bajo,Pendiente,10
+4898,2025-09-17,Moderado,Finalizado,48
+4899,2025-09-11,Bajo,Atendido,28
+4900,2025-11-02,Alto,Pendiente,74
+4901,2026-04-04,Moderado,Finalizado,52
+4902,2026-04-20,Crítico,En seguimiento,90
+4903,2026-03-31,Moderado,En seguimiento,55
+4904,2025-07-22,Alto,En seguimiento,74
+4905,2026-01-19,Moderado,Pendiente,55
+4906,2026-04-21,Bajo,Finalizado,29
+4907,2025-08-02,Bajo,Finalizado,16
+4908,2025-08-27,Moderado,En seguimiento,47
+4909,2026-06-04,Alto,En seguimiento,72
+4910,2026-01-25,Bajo,En seguimiento,25
+4911,2026-01-25,Alto,Atendido,71
+4912,2025-11-05,Bajo,Atendido,20
+4913,2026-04-11,Moderado,Pendiente,46
+4914,2026-06-24,Bajo,En seguimiento,21
+4915,2025-11-20,Alto,Pendiente,70
+4916,2025-11-12,Bajo,Finalizado,23
+4917,2025-12-10,Moderado,En seguimiento,58
+4918,2025-11-26,Bajo,Pendiente,22
+4919,2025-08-02,Moderado,Pendiente,64
+4920,2025-08-03,Alto,En seguimiento,74
+4921,2026-05-01,Moderado,Finalizado,53
+4922,2026-04-04,Crítico,Finalizado,99
+4923,2026-01-22,Moderado,En seguimiento,39
+4924,2025-11-17,Bajo,Atendido,23
+4925,2026-03-22,Alto,Finalizado,73
+4926,2025-12-15,Moderado,Pendiente,56
+4927,2026-01-09,Crítico,Pendiente,95
+4928,2026-06-05,Moderado,En seguimiento,58
+4929,2026-04-24,Moderado,Pendiente,45
+4930,2026-03-17,Moderado,Atendido,58
+4931,2025-08-16,Bajo,Atendido,20
+4932,2026-06-03,Bajo,Finalizado,29
+4933,2025-09-08,Alto,En seguimiento,67
+4934,2026-06-17,Alto,Atendido,73
+4935,2026-06-22,Crítico,Finalizado,91
+4936,2025-08-28,Bajo,Finalizado,23
+4937,2026-06-15,Alto,En seguimiento,85
+4938,2026-04-02,Alto,Pendiente,72
+4939,2026-02-01,Bajo,Pendiente,32
+4940,2026-05-28,Bajo,Atendido,20
+4941,2026-01-07,Moderado,Pendiente,51
+4942,2025-07-04,Bajo,Atendido,35
+4943,2025-09-08,Bajo,Atendido,15
+4944,2025-07-25,Bajo,Pendiente,22
+4945,2026-06-15,Alto,Pendiente,79
+4946,2026-03-12,Moderado,Atendido,61
+4947,2026-02-09,Bajo,Finalizado,35
+4948,2025-12-07,Bajo,Atendido,25
+4949,2026-02-12,Bajo,Finalizado,28
+4950,2026-02-16,Alto,Atendido,76
+4951,2025-10-22,Bajo,Finalizado,23
+4952,2025-09-05,Bajo,Atendido,18
+4953,2026-01-24,Alto,En seguimiento,71
+4954,2026-01-31,Bajo,Atendido,11
+4955,2025-08-25,Moderado,Atendido,55
+4956,2026-05-08,Bajo,Finalizado,10
+4957,2026-06-21,Crítico,Pendiente,88
+4958,2025-10-04,Bajo,En seguimiento,19
+4959,2025-10-01,Crítico,Pendiente,92
+4960,2026-03-02,Moderado,Pendiente,45
+4961,2026-01-22,Bajo,Atendido,29
+4962,2025-08-04,Moderado,Finalizado,38
+4963,2025-09-29,Bajo,Finalizado,12
+4964,2026-01-07,Crítico,Atendido,94
+4965,2026-03-22,Moderado,Finalizado,36
+4966,2026-04-01,Bajo,Pendiente,28
+4967,2026-03-22,Crítico,Pendiente,97
+4968,2026-03-11,Crítico,En seguimiento,89
+4969,2025-08-10,Bajo,Atendido,24
+4970,2025-07-07,Crítico,Atendido,93
+4971,2025-09-08,Crítico,Pendiente,98
+4972,2025-11-12,Alto,Pendiente,68
+4973,2025-09-14,Alto,En seguimiento,67
+4974,2025-10-13,Moderado,En seguimiento,59
+4975,2026-03-03,Bajo,Pendiente,21
+4976,2026-06-22,Moderado,Pendiente,63
+4977,2026-03-30,Bajo,Atendido,30
+4978,2025-09-25,Moderado,Atendido,52
+4979,2025-09-28,Bajo,Finalizado,31
+4980,2026-04-12,Moderado,En seguimiento,52
+4981,2025-12-14,Alto,Atendido,74
+4982,2025-07-25,Bajo,Pendiente,18
+4983,2025-12-04,Moderado,Atendido,56
+4984,2026-02-25,Bajo,En seguimiento,16
+4985,2025-08-09,Bajo,En seguimiento,14
+4986,2026-02-15,Bajo,Pendiente,31
+4987,2026-05-14,Alto,Finalizado,80
+4988,2026-02-10,Crítico,Pendiente,98
+4989,2025-10-14,Bajo,Atendido,30
+4990,2026-05-25,Moderado,En seguimiento,51
+4991,2025-09-25,Bajo,Pendiente,31
+4992,2025-09-25,Alto,Pendiente,77
+4993,2025-07-07,Moderado,Finalizado,61
+4994,2025-08-04,Moderado,Pendiente,43
+4995,2025-07-22,Bajo,En seguimiento,11
+4996,2026-01-14,Moderado,En seguimiento,46
+4997,2026-04-06,Moderado,En seguimiento,44
+4998,2026-05-16,Alto,Atendido,73
+4999,2025-12-04,Bajo,Finalizado,26
+5000,2025-08-05,Alto,Pendiente,80
