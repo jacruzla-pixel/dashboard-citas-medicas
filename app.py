@@ -33,3 +33,4 @@ fig3 = px.line(
     markers=True
 )
 st.plotly_chart(fig3)
+df = pd.read_csv('salud_mental.csv')
