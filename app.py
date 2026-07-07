@@ -1,60 +1,63 @@
-# 1. INSTALAR LIBRERÍAS (solo la primera vez)
-# !pip install faker
-
-# 2. IMPORTAR LIBRERÍAS
+import streamlit as st
 import pandas as pd
-import numpy as np
-from faker import Faker
+import plotly.express as px
 
-# 3. CONFIGURAR FAKER EN ESPAÑOL
-fake = Faker('es_ES')
+# Cargar dataset
+df = pd.read_csv("salud_mental.csv")
 
-# 4. GENERAR LOS 5000 REGISTROS
-n = 5000
+st.title("Dashboard de Monitoreo de Salud Mental")
+st.write("Análisis descriptivo y predictivo del estado de salud mental de estudiantes.")
 
-categorias_riesgo = ['Bajo', 'Moderado', 'Alto', 'Crítico']
-estados = ['Atendido', 'En seguimiento', 'Pendiente', 'Finalizado']
+# Mostrar registros
+st.subheader("Vista previa del Dataset")
+st.dataframe(df.head())
 
-datos = []
+# -------------------------------
+# Riesgo Psicosocial
+# -------------------------------
+st.subheader("Distribución del Riesgo Psicosocial")
 
-for i in range(n):
+riesgo = df["categoria_riesgo"].value_counts().reset_index()
+riesgo.columns = ["Categoría", "Cantidad"]
 
-    riesgo = np.random.choice(
-        categorias_riesgo,
-        p=[0.35, 0.35, 0.20, 0.10]
-    )
-
-    # Puntaje de estrés según el riesgo
-    if riesgo == 'Bajo':
-        puntaje = np.random.randint(10, 36)
-    elif riesgo == 'Moderado':
-        puntaje = np.random.randint(36, 66)
-    elif riesgo == 'Alto':
-        puntaje = np.random.randint(66, 86)
-    else:
-        puntaje = np.random.randint(86, 101)
-
-    datos.append([
-        i + 1,
-        fake.date_between('-1y', 'today'),
-        riesgo,
-        np.random.choice(estados),
-        puntaje
-    ])
-
-# 5. CREAR EL DATAFRAME Y EXPORTAR A CSV
-df = pd.DataFrame(
-    datos,
-    columns=[
-        'id',
-        'fecha',
-        'categoria_riesgo',
-        'estado_seguimiento',
-        'puntaje_estres'
-    ]
+fig1 = px.bar(
+    riesgo,
+    x="Categoría",
+    y="Cantidad",
+    title="Distribución del Riesgo Psicosocial"
 )
 
-df.to_csv('salud_mental.csv', index=False)
+st.plotly_chart(fig1)
 
-# 6. MOSTRAR LAS PRIMERAS FILAS PARA VERIFICAR
-df.head()
+# -------------------------------
+# Estado del Seguimiento
+# -------------------------------
+st.subheader("Estado del Seguimiento Psicológico")
+
+fig2 = px.pie(
+    df,
+    names="estado_seguimiento",
+    title="Estado del Seguimiento"
+)
+
+st.plotly_chart(fig2)
+
+# -------------------------------
+# Evaluaciones por Mes
+# -------------------------------
+df["fecha"] = pd.to_datetime(df["fecha"])
+df["mes"] = df["fecha"].dt.month
+
+evaluaciones_mes = df.groupby("mes").size().reset_index(name="cantidad")
+
+st.subheader("Evaluaciones por Mes")
+
+fig3 = px.line(
+    evaluaciones_mes,
+    x="mes",
+    y="cantidad",
+    markers=True,
+    title="Número de Evaluaciones por Mes"
+)
+
+st.plotly_chart(fig3)
